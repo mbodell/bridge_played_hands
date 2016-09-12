@@ -1,0 +1,8 @@
+Draganov:45213:XVII Lozenets Teams Tournament 2016,Round 11_11,I,25,32,Bridge+,0,K1,0
+Aronov:45213:XVII Lozenets Teams Tournament 2016,Round 11_11,I,25,32,Bridge+,0,K1,0
+Donev:45213:XVII Lozenets Teams Tournament 2016,Round 11_11,I,25,32,Bridge+,0,K1,0
+Damianova:45213:XVII Lozenets Teams Tournament 2016,Round 11_11,I,25,32,Bridge+,0,K1,0
+Zahariev:45213:XVII Lozenets Teams Tournament 2016,Round 11_11,I,25,32,Bridge+,0,K1,0
+Vanchev:45213:XVII Lozenets Teams Tournament 2016,Round 11_11,I,25,32,Bridge+,0,K1,0
+Nanev:45213:XVII Lozenets Teams Tournament 2016,Round 11_11,I,25,32,Bridge+,0,K1,0
+Bosev:45213:XVII Lozenets Teams Tournament 2016,Round 11_11,I,25,32,Bridge+,0,K1,0

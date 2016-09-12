@@ -1,0 +1,77 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45206-2016 EBTC,OPEN RR1,I,1,16,Romania,0,Hungary,0",
+      "code": "B096",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Coldea"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Marina"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "West"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Kemeny"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Winkler"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "North"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "South"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45206",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45206",
+              "boards": [
+              {
+]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

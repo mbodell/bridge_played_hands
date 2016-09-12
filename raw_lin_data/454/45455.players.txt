@@ -1,0 +1,8 @@
+Simson:45455:B 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Simson,0,Wolfson,0
+Berkowitz:45455:B 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Simson,0,Wolfson,0
+Aker:45455:B 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Simson,0,Wolfson,0
+Sontag:45455:B 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Simson,0,Wolfson,0
+Wolfson:45455:B 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Simson,0,Wolfson,0
+Casen:45455:B 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Simson,0,Wolfson,0
+Silverman:45455:B 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Simson,0,Wolfson,0
+Krekorian:45455:B 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Simson,0,Wolfson,0

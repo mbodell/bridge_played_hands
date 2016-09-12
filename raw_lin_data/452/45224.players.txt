@@ -1,0 +1,8 @@
+South:45224:Indian Seniors Selection Trials 2016 GOA,Finals 1 of 6,I,1,10,Dsm,0,India Blues,0
+West:45224:Indian Seniors Selection Trials 2016 GOA,Finals 1 of 6,I,1,10,Dsm,0,India Blues,0
+North:45224:Indian Seniors Selection Trials 2016 GOA,Finals 1 of 6,I,1,10,Dsm,0,India Blues,0
+East:45224:Indian Seniors Selection Trials 2016 GOA,Finals 1 of 6,I,1,10,Dsm,0,India Blues,0
+South:45224:Indian Seniors Selection Trials 2016 GOA,Finals 1 of 6,I,1,10,Dsm,0,India Blues,0
+West:45224:Indian Seniors Selection Trials 2016 GOA,Finals 1 of 6,I,1,10,Dsm,0,India Blues,0
+North:45224:Indian Seniors Selection Trials 2016 GOA,Finals 1 of 6,I,1,10,Dsm,0,India Blues,0
+East:45224:Indian Seniors Selection Trials 2016 GOA,Finals 1 of 6,I,1,10,Dsm,0,India Blues,0

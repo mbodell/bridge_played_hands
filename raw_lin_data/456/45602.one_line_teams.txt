@@ -1,0 +1,1 @@
+South,West,North,East,South,West,North,East:45602:XXXV Albena,1_13,I,17,24,StZ,0,SF,0

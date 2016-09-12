@@ -1,0 +1,8 @@
+Cheek:45954:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
+Kamil:45954:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
+Bertens:45954:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
+Coren:45954:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
+Sadek:45954:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
+de Wijs:45954:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
+Elahmady:45954:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
+Muller:45954:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103

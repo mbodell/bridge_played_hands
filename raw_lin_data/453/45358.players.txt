@@ -1,0 +1,8 @@
+Zia:45358:A 2016 Senior USBC,Segment 1 of 6,I,1,15,Hamman NPC,0,Pollack,0
+Robbins:45358:A 2016 Senior USBC,Segment 1 of 6,I,1,15,Hamman NPC,0,Pollack,0
+Meckstroth:45358:A 2016 Senior USBC,Segment 1 of 6,I,1,15,Hamman NPC,0,Pollack,0
+Beatty:45358:A 2016 Senior USBC,Segment 1 of 6,I,1,15,Hamman NPC,0,Pollack,0
+Friedland:45358:A 2016 Senior USBC,Segment 1 of 6,I,1,15,Hamman NPC,0,Pollack,0
+Milner:45358:A 2016 Senior USBC,Segment 1 of 6,I,1,15,Hamman NPC,0,Pollack,0
+Feldman:45358:A 2016 Senior USBC,Segment 1 of 6,I,1,15,Hamman NPC,0,Pollack,0
+H_Lall:45358:A 2016 Senior USBC,Segment 1 of 6,I,1,15,Hamman NPC,0,Pollack,0

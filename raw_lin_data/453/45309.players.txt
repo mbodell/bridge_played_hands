@@ -1,0 +1,8 @@
+cm:45309:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
+tyr:45309:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
+yjy:45309:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
+gh:45309:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
+LingPD:45309:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
+RanJN:45309:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
+ChengM:45309:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
+Lixl:45309:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0

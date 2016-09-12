@@ -1,0 +1,8 @@
+South:45711:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,11_13,I,9,16,Bridge+,0,Radkov2,0
+West:45711:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,11_13,I,9,16,Bridge+,0,Radkov2,0
+North:45711:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,11_13,I,9,16,Bridge+,0,Radkov2,0
+East:45711:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,11_13,I,9,16,Bridge+,0,Radkov2,0
+Radev:45711:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,11_13,I,9,16,Bridge+,0,Radkov2,0
+Vanchev:45711:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,11_13,I,9,16,Bridge+,0,Radkov2,0
+Nedkov:45711:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,11_13,I,9,16,Bridge+,0,Radkov2,0
+Bosev:45711:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,11_13,I,9,16,Bridge+,0,Radkov2,0

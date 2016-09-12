@@ -1,0 +1,8 @@
+Birchall:45760:T12 - Liepaja - 13th EYBPC U26 Pairs,Final 1_5,P,1,10,Team 1,0,Team 2,0
+Vovos:45760:T12 - Liepaja - 13th EYBPC U26 Pairs,Final 1_5,P,1,10,Team 1,0,Team 2,0
+Roper:45760:T12 - Liepaja - 13th EYBPC U26 Pairs,Final 1_5,P,1,10,Team 1,0,Team 2,0
+Kritsalis:45760:T12 - Liepaja - 13th EYBPC U26 Pairs,Final 1_5,P,1,10,Team 1,0,Team 2,0
+South:45760:T12 - Liepaja - 13th EYBPC U26 Pairs,Final 1_5,P,1,10,Team 1,0,Team 2,0
+West:45760:T12 - Liepaja - 13th EYBPC U26 Pairs,Final 1_5,P,1,10,Team 1,0,Team 2,0
+North:45760:T12 - Liepaja - 13th EYBPC U26 Pairs,Final 1_5,P,1,10,Team 1,0,Team 2,0
+East:45760:T12 - Liepaja - 13th EYBPC U26 Pairs,Final 1_5,P,1,10,Team 1,0,Team 2,0

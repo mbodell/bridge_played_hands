@@ -1,0 +1,8 @@
+Garner:45411:B 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Morse NPC,86,Simson,84
+Aker:45411:B 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Morse NPC,86,Simson,84
+Smith:45411:B 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Morse NPC,86,Simson,84
+Simson:45411:B 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Morse NPC,86,Simson,84
+Krekorian:45411:B 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Morse NPC,86,Simson,84
+Stansby:45411:B 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Morse NPC,86,Simson,84
+Casen:45411:B 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Morse NPC,86,Simson,84
+Bramley:45411:B 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Morse NPC,86,Simson,84

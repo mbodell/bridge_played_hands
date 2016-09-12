@@ -1,0 +1,8 @@
+Guillemin:45628:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
+stougie M:45628:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
+Boulin:45628:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
+Stougie  L:45628:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
+dupont:45628:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
+basler:45628:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
+caris:45628:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
+fragola:45628:France    Netherlands,R1,I,1,12,France,0,Netherlands,0

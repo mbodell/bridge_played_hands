@@ -1,0 +1,8 @@
+South:45320:the 27th China Friend City Senior Team Tournament,swiss R5,I,1,10,changzhou,0,beijing,0
+West:45320:the 27th China Friend City Senior Team Tournament,swiss R5,I,1,10,changzhou,0,beijing,0
+North:45320:the 27th China Friend City Senior Team Tournament,swiss R5,I,1,10,changzhou,0,beijing,0
+East:45320:the 27th China Friend City Senior Team Tournament,swiss R5,I,1,10,changzhou,0,beijing,0
+South:45320:the 27th China Friend City Senior Team Tournament,swiss R5,I,1,10,changzhou,0,beijing,0
+West:45320:the 27th China Friend City Senior Team Tournament,swiss R5,I,1,10,changzhou,0,beijing,0
+North:45320:the 27th China Friend City Senior Team Tournament,swiss R5,I,1,10,changzhou,0,beijing,0
+East:45320:the 27th China Friend City Senior Team Tournament,swiss R5,I,1,10,changzhou,0,beijing,0

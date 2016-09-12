@@ -1,0 +1,8 @@
+Baker:45008:2016 Women's USBC SF,Segment 1 of 8,I,1,15,Baker,0,Weingold,0
+Rosenberg:45008:2016 Women's USBC SF,Segment 1 of 8,I,1,15,Baker,0,Weingold,0
+McCallum:45008:2016 Women's USBC SF,Segment 1 of 8,I,1,15,Baker,0,Weingold,0
+Sulgrove:45008:2016 Women's USBC SF,Segment 1 of 8,I,1,15,Baker,0,Weingold,0
+Meyers:45008:2016 Women's USBC SF,Segment 1 of 8,I,1,15,Baker,0,Weingold,0
+Granovette:45008:2016 Women's USBC SF,Segment 1 of 8,I,1,15,Baker,0,Weingold,0
+Cappellett:45008:2016 Women's USBC SF,Segment 1 of 8,I,1,15,Baker,0,Weingold,0
+Stansby:45008:2016 Women's USBC SF,Segment 1 of 8,I,1,15,Baker,0,Weingold,0

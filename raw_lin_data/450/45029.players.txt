@@ -1,0 +1,8 @@
+Baker:45029:A 2016 Women's USBC SF,Segment 6 of 8,I,16,30,Baker,176,Weingold,164
+Rosenberg:45029:A 2016 Women's USBC SF,Segment 6 of 8,I,16,30,Baker,176,Weingold,164
+McCallum:45029:A 2016 Women's USBC SF,Segment 6 of 8,I,16,30,Baker,176,Weingold,164
+Sulgrove:45029:A 2016 Women's USBC SF,Segment 6 of 8,I,16,30,Baker,176,Weingold,164
+Meyers:45029:A 2016 Women's USBC SF,Segment 6 of 8,I,16,30,Baker,176,Weingold,164
+Sanborn:45029:A 2016 Women's USBC SF,Segment 6 of 8,I,16,30,Baker,176,Weingold,164
+Cappellett:45029:A 2016 Women's USBC SF,Segment 6 of 8,I,16,30,Baker,176,Weingold,164
+Levitina:45029:A 2016 Women's USBC SF,Segment 6 of 8,I,16,30,Baker,176,Weingold,164

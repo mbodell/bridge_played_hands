@@ -1,0 +1,165 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45836-2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17",
+      "code": "B30C",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Martel"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "South"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "West"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Liu"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "West"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "North"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "South"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45836",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45836",
+              "boards": [
+              {
+                "number": 16,
+                "is_team_event": 1,
+                "board_tables": [
+                {
+                  "table_number": 1,
+                  "home_team_number": 1,
+                  "round_number": 1,
+                  "declarer": 3,
+                  "contract_level": 3,
+                  "contract_suit": 5,
+                  "contract_doubled": 0,
+                  "contract": "3NT",
+                  "ntricks_taken": 7,
+                  "board_table_scores": [
+                  {
+                    "pair_number": 1,
+                    "direction": 1,
+                    "table_result": -100
+                  },
+                  {
+                    "pair_number": 2,
+                    "direction": 2,
+                    "table_result": 100
+                  }],
+                  "board_table_biddings": [
+                  {
+                    "final_contract": "3NT",
+                    "opening_lead": "H2",
+                    "declarer": "3",
+                    "board_table_bidding_rounds": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 4,
+                      "bid_n": 0,
+                      "bid_e": 0,
+                      "bid_s": 10,
+                      "bid_w": 0
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 4,
+                      "bid_n": 13,
+                      "bid_e": 0,
+                      "bid_s": 14,
+                      "bid_w": 0
+                    },
+                    {
+                      "number": 3,
+                      "first_seat_to_act": 4,
+                      "bid_n": 15,
+                      "bid_e": 0,
+                      "bid_s": 0,
+                      "bid_w": 0
+                    },
+                    {
+                      "number": 4,
+                      "first_seat_to_act": 4,
+                      "bid_w": 0
+                    }]
+                  }],
+                  "board_table_card_plays": [
+                  {
+                    "board_table_card_play_tricks": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 4,
+                      "card_n": 25,
+                      "card_e": 19,
+                      "card_s": 16,
+                      "card_w": 26
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 3,
+                      "card_n": 11,
+                      "card_e": 13,
+                      "card_s": 1,
+                      "card_w": 7
+                    }]
+                  }],
+                  "status": 1
+                }],
+                "board_team_scores": [
+                {
+                  "open_contract": "3NT",
+                  "open_declarer": 3,
+                  "open_tricks_taken": 7
+                }]
+              }]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

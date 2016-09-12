@@ -1,0 +1,8 @@
+Zatorski:45193:Polish Premier League - FINAL,SEGMENT 8_8,I,13,24,AZS Wratislavia,140,LATTERIA T-S Rzepin,166
+Sakowicz:45193:Polish Premier League - FINAL,SEGMENT 8_8,I,13,24,AZS Wratislavia,140,LATTERIA T-S Rzepin,166
+Kwiecien:45193:Polish Premier League - FINAL,SEGMENT 8_8,I,13,24,AZS Wratislavia,140,LATTERIA T-S Rzepin,166
+Szczepansk:45193:Polish Premier League - FINAL,SEGMENT 8_8,I,13,24,AZS Wratislavia,140,LATTERIA T-S Rzepin,166
+Nowak:45193:Polish Premier League - FINAL,SEGMENT 8_8,I,13,24,AZS Wratislavia,140,LATTERIA T-S Rzepin,166
+Klukowski:45193:Polish Premier League - FINAL,SEGMENT 8_8,I,13,24,AZS Wratislavia,140,LATTERIA T-S Rzepin,166
+Tuszynski:45193:Polish Premier League - FINAL,SEGMENT 8_8,I,13,24,AZS Wratislavia,140,LATTERIA T-S Rzepin,166
+Gawrys:45193:Polish Premier League - FINAL,SEGMENT 8_8,I,13,24,AZS Wratislavia,140,LATTERIA T-S Rzepin,166

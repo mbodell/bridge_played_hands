@@ -1,0 +1,8 @@
+Ponomareva:45892:2016 Wagar Final,Segment 2 of 4,I,16,30,Weingold,59,China Yellow,26
+Gan:45892:2016 Wagar Final,Segment 2 of 4,I,16,30,Weingold,59,China Yellow,26
+Gromova:45892:2016 Wagar Final,Segment 2 of 4,I,16,30,Weingold,59,China Yellow,26
+Wang:45892:2016 Wagar Final,Segment 2 of 4,I,16,30,Weingold,59,China Yellow,26
+Hu:45892:2016 Wagar Final,Segment 2 of 4,I,16,30,Weingold,59,China Yellow,26
+Weingold:45892:2016 Wagar Final,Segment 2 of 4,I,16,30,Weingold,59,China Yellow,26
+Ran:45892:2016 Wagar Final,Segment 2 of 4,I,16,30,Weingold,59,China Yellow,26
+Assini:45892:2016 Wagar Final,Segment 2 of 4,I,16,30,Weingold,59,China Yellow,26

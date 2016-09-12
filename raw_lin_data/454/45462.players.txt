@@ -1,0 +1,8 @@
+Krekorian:45462:B 2016 Senior USBC SF,Segment 2 of 6,I,16,30,Simson,16,Wolfson,65
+Martel:45462:B 2016 Senior USBC SF,Segment 2 of 6,I,16,30,Simson,16,Wolfson,65
+Casen:45462:B 2016 Senior USBC SF,Segment 2 of 6,I,16,30,Simson,16,Wolfson,65
+Rosenberg:45462:B 2016 Senior USBC SF,Segment 2 of 6,I,16,30,Simson,16,Wolfson,65
+Wolfson:45462:B 2016 Senior USBC SF,Segment 2 of 6,I,16,30,Simson,16,Wolfson,65
+Aker:45462:B 2016 Senior USBC SF,Segment 2 of 6,I,16,30,Simson,16,Wolfson,65
+Silverman:45462:B 2016 Senior USBC SF,Segment 2 of 6,I,16,30,Simson,16,Wolfson,65
+Simson:45462:B 2016 Senior USBC SF,Segment 2 of 6,I,16,30,Simson,16,Wolfson,65

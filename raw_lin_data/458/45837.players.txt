@@ -1,0 +1,8 @@
+Woolsey:45837:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
+Smith:45837:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
+Merblum:45837:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
+Martel:45837:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
+South:45837:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
+West:45837:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
+North:45837:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
+East:45837:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17

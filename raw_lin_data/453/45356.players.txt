@@ -1,0 +1,8 @@
+Jacobus:45356:C 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Koneru NPC,0,Wolfson,0
+Berkowitz:45356:C 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Koneru NPC,0,Wolfson,0
+Passell:45356:C 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Koneru NPC,0,Wolfson,0
+Sontag:45356:C 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Koneru NPC,0,Wolfson,0
+Wolfson:45356:C 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Koneru NPC,0,Wolfson,0
+Wold:45356:C 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Koneru NPC,0,Wolfson,0
+Silverman:45356:C 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Koneru NPC,0,Wolfson,0
+Levine:45356:C 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Koneru NPC,0,Wolfson,0

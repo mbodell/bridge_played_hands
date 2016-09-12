@@ -1,0 +1,8 @@
+South:45558:Untitled match,Untitled segment,I,1,8,Team 1,0,Team 2,0
+West:45558:Untitled match,Untitled segment,I,1,8,Team 1,0,Team 2,0
+North:45558:Untitled match,Untitled segment,I,1,8,Team 1,0,Team 2,0
+East:45558:Untitled match,Untitled segment,I,1,8,Team 1,0,Team 2,0
+South:45558:Untitled match,Untitled segment,I,1,8,Team 1,0,Team 2,0
+West:45558:Untitled match,Untitled segment,I,1,8,Team 1,0,Team 2,0
+North:45558:Untitled match,Untitled segment,I,1,8,Team 1,0,Team 2,0
+East:45558:Untitled match,Untitled segment,I,1,8,Team 1,0,Team 2,0

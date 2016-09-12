@@ -1,0 +1,8 @@
+Street:45945:A 2016 Spingold QF,Segment 2 of 4,I,16,30,Street,23,Zimmermann,17
+Helgemo:45945:A 2016 Spingold QF,Segment 2 of 4,I,16,30,Street,23,Zimmermann,17
+L'Ecuyer:45945:A 2016 Spingold QF,Segment 2 of 4,I,16,30,Street,23,Zimmermann,17
+Helness:45945:A 2016 Spingold QF,Segment 2 of 4,I,16,30,Street,23,Zimmermann,17
+Filipowicz:45945:A 2016 Spingold QF,Segment 2 of 4,I,16,30,Street,23,Zimmermann,17
+Bessis:45945:A 2016 Spingold QF,Segment 2 of 4,I,16,30,Street,23,Zimmermann,17
+Martens:45945:A 2016 Spingold QF,Segment 2 of 4,I,16,30,Street,23,Zimmermann,17
+Volcker:45945:A 2016 Spingold QF,Segment 2 of 4,I,16,30,Street,23,Zimmermann,17

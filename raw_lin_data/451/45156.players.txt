@@ -1,0 +1,8 @@
+South:45156:Irish Trials Final 2016,Segment 6_6,I,1,20,O'Brien,190,Moran,139
+West:45156:Irish Trials Final 2016,Segment 6_6,I,1,20,O'Brien,190,Moran,139
+North:45156:Irish Trials Final 2016,Segment 6_6,I,1,20,O'Brien,190,Moran,139
+East:45156:Irish Trials Final 2016,Segment 6_6,I,1,20,O'Brien,190,Moran,139
+South:45156:Irish Trials Final 2016,Segment 6_6,I,1,20,O'Brien,190,Moran,139
+West:45156:Irish Trials Final 2016,Segment 6_6,I,1,20,O'Brien,190,Moran,139
+North:45156:Irish Trials Final 2016,Segment 6_6,I,1,20,O'Brien,190,Moran,139
+East:45156:Irish Trials Final 2016,Segment 6_6,I,1,20,O'Brien,190,Moran,139

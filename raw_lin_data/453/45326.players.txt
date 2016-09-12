@@ -1,0 +1,8 @@
+Sobczak:45326:Polish Team Grand Prix - qualifications,MATCH 7_8,I,1,8,JUGERMAISTER,0,BRIDGE24.PL,0
+Stepinski:45326:Polish Team Grand Prix - qualifications,MATCH 7_8,I,1,8,JUGERMAISTER,0,BRIDGE24.PL,0
+Marcinowsk:45326:Polish Team Grand Prix - qualifications,MATCH 7_8,I,1,8,JUGERMAISTER,0,BRIDGE24.PL,0
+Jurek:45326:Polish Team Grand Prix - qualifications,MATCH 7_8,I,1,8,JUGERMAISTER,0,BRIDGE24.PL,0
+gawel:45326:Polish Team Grand Prix - qualifications,MATCH 7_8,I,1,8,JUGERMAISTER,0,BRIDGE24.PL,0
+bojarski:45326:Polish Team Grand Prix - qualifications,MATCH 7_8,I,1,8,JUGERMAISTER,0,BRIDGE24.PL,0
+jagniewski:45326:Polish Team Grand Prix - qualifications,MATCH 7_8,I,1,8,JUGERMAISTER,0,BRIDGE24.PL,0
+chodacki:45326:Polish Team Grand Prix - qualifications,MATCH 7_8,I,1,8,JUGERMAISTER,0,BRIDGE24.PL,0

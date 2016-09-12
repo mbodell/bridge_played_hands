@@ -1,0 +1,8 @@
+wangrb:45426:the 27th China Friend City Senior Team Tournament,1_4 R1,I,1,10,Beijing,0,Dongguan,0
+wanghc:45426:the 27th China Friend City Senior Team Tournament,1_4 R1,I,1,10,Beijing,0,Dongguan,0
+wangrh:45426:the 27th China Friend City Senior Team Tournament,1_4 R1,I,1,10,Beijing,0,Dongguan,0
+dingy:45426:the 27th China Friend City Senior Team Tournament,1_4 R1,I,1,10,Beijing,0,Dongguan,0
+YurlRL:45426:the 27th China Friend City Senior Team Tournament,1_4 R1,I,1,10,Beijing,0,Dongguan,0
+JiangJW:45426:the 27th China Friend City Senior Team Tournament,1_4 R1,I,1,10,Beijing,0,Dongguan,0
+Panan:45426:the 27th China Friend City Senior Team Tournament,1_4 R1,I,1,10,Beijing,0,Dongguan,0
+QinLCH:45426:the 27th China Friend City Senior Team Tournament,1_4 R1,I,1,10,Beijing,0,Dongguan,0

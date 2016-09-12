@@ -1,0 +1,8 @@
+Fulga:45888:Mondial de Deauville,Patton S3_3,I,1,28,Home,0,Visiting,0
+Gupta:45888:Mondial de Deauville,Patton S3_3,I,1,28,Home,0,Visiting,0
+Marina:45888:Mondial de Deauville,Patton S3_3,I,1,28,Home,0,Visiting,0
+Sinha:45888:Mondial de Deauville,Patton S3_3,I,1,28,Home,0,Visiting,0
+Bakkeren F:45888:Mondial de Deauville,Patton S3_3,I,1,28,Home,0,Visiting,0
+Ionita:45888:Mondial de Deauville,Patton S3_3,I,1,28,Home,0,Visiting,0
+Bakkeren T:45888:Mondial de Deauville,Patton S3_3,I,1,28,Home,0,Visiting,0
+Stegaroiu:45888:Mondial de Deauville,Patton S3_3,I,1,28,Home,0,Visiting,0

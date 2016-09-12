@@ -1,0 +1,8 @@
+Schouten Y:45769:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 3_5,P,21,30,Team 1,0,Team 2,0
+Marcinowsk:45769:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 3_5,P,21,30,Team 1,0,Team 2,0
+Gotink K:45769:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 3_5,P,21,30,Team 1,0,Team 2,0
+Sobczak M:45769:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 3_5,P,21,30,Team 1,0,Team 2,0
+South:45769:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 3_5,P,21,30,Team 1,0,Team 2,0
+West:45769:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 3_5,P,21,30,Team 1,0,Team 2,0
+North:45769:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 3_5,P,21,30,Team 1,0,Team 2,0
+East:45769:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 3_5,P,21,30,Team 1,0,Team 2,0

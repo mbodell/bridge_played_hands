@@ -1,0 +1,8 @@
+Perets:45178:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,BC Lozenets,0,Morqtcite,0
+Iliev:45178:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,BC Lozenets,0,Morqtcite,0
+Hristov:45178:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,BC Lozenets,0,Morqtcite,0
+Petrov:45178:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,BC Lozenets,0,Morqtcite,0
+Soilov:45178:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,BC Lozenets,0,Morqtcite,0
+Radev:45178:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,BC Lozenets,0,Morqtcite,0
+Gurov:45178:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,BC Lozenets,0,Morqtcite,0
+Penev:45178:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,BC Lozenets,0,Morqtcite,0

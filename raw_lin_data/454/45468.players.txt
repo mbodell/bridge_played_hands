@@ -1,0 +1,8 @@
+LinCT:45468:the 27th China Friend City Senior Team Tournament,Final R2,I,1,10,GuangXi,16,HuNan,31
+ChangHP:45468:the 27th China Friend City Senior Team Tournament,Final R2,I,1,10,GuangXi,16,HuNan,31
+XuNK:45468:the 27th China Friend City Senior Team Tournament,Final R2,I,1,10,GuangXi,16,HuNan,31
+ZhaoQiang:45468:the 27th China Friend City Senior Team Tournament,Final R2,I,1,10,GuangXi,16,HuNan,31
+South:45468:the 27th China Friend City Senior Team Tournament,Final R2,I,1,10,GuangXi,16,HuNan,31
+West:45468:the 27th China Friend City Senior Team Tournament,Final R2,I,1,10,GuangXi,16,HuNan,31
+North:45468:the 27th China Friend City Senior Team Tournament,Final R2,I,1,10,GuangXi,16,HuNan,31
+East:45468:the 27th China Friend City Senior Team Tournament,Final R2,I,1,10,GuangXi,16,HuNan,31

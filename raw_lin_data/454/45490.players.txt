@@ -1,0 +1,8 @@
+Zia:45490:2016 Senior USBC FINAL,Segment 1 of 6,I,1,15,Hamman NPC,0,Wolfson,0
+Berkowitz:45490:2016 Senior USBC FINAL,Segment 1 of 6,I,1,15,Hamman NPC,0,Wolfson,0
+Meckstroth:45490:2016 Senior USBC FINAL,Segment 1 of 6,I,1,15,Hamman NPC,0,Wolfson,0
+Sontag:45490:2016 Senior USBC FINAL,Segment 1 of 6,I,1,15,Hamman NPC,0,Wolfson,0
+Rosenberg:45490:2016 Senior USBC FINAL,Segment 1 of 6,I,1,15,Hamman NPC,0,Wolfson,0
+Milner:45490:2016 Senior USBC FINAL,Segment 1 of 6,I,1,15,Hamman NPC,0,Wolfson,0
+Martel:45490:2016 Senior USBC FINAL,Segment 1 of 6,I,1,15,Hamman NPC,0,Wolfson,0
+Lall:45490:2016 Senior USBC FINAL,Segment 1 of 6,I,1,15,Hamman NPC,0,Wolfson,0

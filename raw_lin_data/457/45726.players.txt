@@ -1,0 +1,8 @@
+F.Zorlu:45726:Turkish Mixed Team Trails,Semi Final 2_2,I,17,32,KANDEMÝR,38,MAJOR,45
+E.Sen:45726:Turkish Mixed Team Trails,Semi Final 2_2,I,17,32,KANDEMÝR,38,MAJOR,45
+N.Zorlu:45726:Turkish Mixed Team Trails,Semi Final 2_2,I,17,32,KANDEMÝR,38,MAJOR,45
+T.Sen:45726:Turkish Mixed Team Trails,Semi Final 2_2,I,17,32,KANDEMÝR,38,MAJOR,45
+Acar:45726:Turkish Mixed Team Trails,Semi Final 2_2,I,17,32,KANDEMÝR,38,MAJOR,45
+KÜtÜk:45726:Turkish Mixed Team Trails,Semi Final 2_2,I,17,32,KANDEMÝR,38,MAJOR,45
+Ayaz:45726:Turkish Mixed Team Trails,Semi Final 2_2,I,17,32,KANDEMÝR,38,MAJOR,45
+Kolata:45726:Turkish Mixed Team Trails,Semi Final 2_2,I,17,32,KANDEMÝR,38,MAJOR,45

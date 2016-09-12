@@ -1,0 +1,8 @@
+Negreanu C:45749:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 8_15 - T09,P,21,30,Team 1,0,Team 2,0
+Nesom S.:45749:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 8_15 - T09,P,21,30,Team 1,0,Team 2,0
+Wiseman Y.:45749:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 8_15 - T09,P,21,30,Team 1,0,Team 2,0
+Bailey O.:45749:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 8_15 - T09,P,21,30,Team 1,0,Team 2,0
+South:45749:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 8_15 - T09,P,21,30,Team 1,0,Team 2,0
+West:45749:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 8_15 - T09,P,21,30,Team 1,0,Team 2,0
+North:45749:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 8_15 - T09,P,21,30,Team 1,0,Team 2,0
+East:45749:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 8_15 - T09,P,21,30,Team 1,0,Team 2,0

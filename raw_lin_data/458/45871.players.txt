@@ -1,0 +1,8 @@
+Toffier:45871:Mondial de Deauville,Champions R4_6,P,1,18,Team 1,0,Team 2,0
+Hackett:45871:Mondial de Deauville,Champions R4_6,P,1,18,Team 1,0,Team 2,0
+Louchart:45871:Mondial de Deauville,Champions R4_6,P,1,18,Team 1,0,Team 2,0
+Hackett Ju:45871:Mondial de Deauville,Champions R4_6,P,1,18,Team 1,0,Team 2,0
+South:45871:Mondial de Deauville,Champions R4_6,P,1,18,Team 1,0,Team 2,0
+West:45871:Mondial de Deauville,Champions R4_6,P,1,18,Team 1,0,Team 2,0
+North:45871:Mondial de Deauville,Champions R4_6,P,1,18,Team 1,0,Team 2,0
+East:45871:Mondial de Deauville,Champions R4_6,P,1,18,Team 1,0,Team 2,0

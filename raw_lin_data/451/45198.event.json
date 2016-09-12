@@ -1,0 +1,77 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45198-2016VCC Melbourne,SW7_10,I,1,14,CORNELL,0,BUTTS,0",
+      "code": "B08E",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Tislevoll"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Butts"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Ware"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Newton"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "J Williams"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Markey"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Cornell"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Bach"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45198",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45198",
+              "boards": [
+              {
+]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

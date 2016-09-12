@@ -1,0 +1,8 @@
+WangRB:45378:the 27th China Friend City Senior Team Tournament,Swiss R10,I,1,10,Beijing,0,Chengdu,0
+ZhuY:45378:the 27th China Friend City Senior Team Tournament,Swiss R10,I,1,10,Beijing,0,Chengdu,0
+WangRH:45378:the 27th China Friend City Senior Team Tournament,Swiss R10,I,1,10,Beijing,0,Chengdu,0
+LiSH:45378:the 27th China Friend City Senior Team Tournament,Swiss R10,I,1,10,Beijing,0,Chengdu,0
+WengLH:45378:the 27th China Friend City Senior Team Tournament,Swiss R10,I,1,10,Beijing,0,Chengdu,0
+JiangJW:45378:the 27th China Friend City Senior Team Tournament,Swiss R10,I,1,10,Beijing,0,Chengdu,0
+XieSC:45378:the 27th China Friend City Senior Team Tournament,Swiss R10,I,1,10,Beijing,0,Chengdu,0
+ZhuBL:45378:the 27th China Friend City Senior Team Tournament,Swiss R10,I,1,10,Beijing,0,Chengdu,0

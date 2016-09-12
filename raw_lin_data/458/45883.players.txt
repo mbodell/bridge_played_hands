@@ -1,0 +1,8 @@
+Lorenzini:45883:C 2016 Spingold R32,Segment 1 of 4,I,1,15,Berg,0,Street,0
+Narkiewicz:45883:C 2016 Spingold R32,Segment 1 of 4,I,1,15,Berg,0,Street,0
+Quantin:45883:C 2016 Spingold R32,Segment 1 of 4,I,1,15,Berg,0,Street,0
+Buras:45883:C 2016 Spingold R32,Segment 1 of 4,I,1,15,Berg,0,Street,0
+Berg:45883:C 2016 Spingold R32,Segment 1 of 4,I,1,15,Berg,0,Street,0
+Street:45883:C 2016 Spingold R32,Segment 1 of 4,I,1,15,Berg,0,Street,0
+Lair:45883:C 2016 Spingold R32,Segment 1 of 4,I,1,15,Berg,0,Street,0
+L'Ecuyer:45883:C 2016 Spingold R32,Segment 1 of 4,I,1,15,Berg,0,Street,0

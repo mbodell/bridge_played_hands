@@ -1,0 +1,8 @@
+Carroll:45160:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Fitzgibbon:45160:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Hanlon:45160:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Mesbur:45160:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Gorczyca:45160:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+McMaugh:45160:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Rudzinski:45160:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+East:45160:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0

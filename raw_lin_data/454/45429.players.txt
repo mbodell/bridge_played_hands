@@ -1,0 +1,8 @@
+WangRB:45429:the 27th China Friend City Senior Team Tournament,1_4 R2,I,1,10,Beijing,32,Dongguan,17
+WangHC:45429:the 27th China Friend City Senior Team Tournament,1_4 R2,I,1,10,Beijing,32,Dongguan,17
+WangRH:45429:the 27th China Friend City Senior Team Tournament,1_4 R2,I,1,10,Beijing,32,Dongguan,17
+DingYe:45429:the 27th China Friend City Senior Team Tournament,1_4 R2,I,1,10,Beijing,32,Dongguan,17
+South:45429:the 27th China Friend City Senior Team Tournament,1_4 R2,I,1,10,Beijing,32,Dongguan,17
+West:45429:the 27th China Friend City Senior Team Tournament,1_4 R2,I,1,10,Beijing,32,Dongguan,17
+North:45429:the 27th China Friend City Senior Team Tournament,1_4 R2,I,1,10,Beijing,32,Dongguan,17
+East:45429:the 27th China Friend City Senior Team Tournament,1_4 R2,I,1,10,Beijing,32,Dongguan,17

@@ -1,0 +1,8 @@
+Nowosadzki:45150:Polish Premier League - semifinal,SEGMENT 2_6,I,13,24,KONKRET Chelmno,20,AZS Wratislavia,31
+Zatorski:45150:Polish Premier League - semifinal,SEGMENT 2_6,I,13,24,KONKRET Chelmno,20,AZS Wratislavia,31
+Kalita:45150:Polish Premier League - semifinal,SEGMENT 2_6,I,13,24,KONKRET Chelmno,20,AZS Wratislavia,31
+Kwiecien:45150:Polish Premier League - semifinal,SEGMENT 2_6,I,13,24,KONKRET Chelmno,20,AZS Wratislavia,31
+Klukowski:45150:Polish Premier League - semifinal,SEGMENT 2_6,I,13,24,KONKRET Chelmno,20,AZS Wratislavia,31
+Wujkow:45150:Polish Premier League - semifinal,SEGMENT 2_6,I,13,24,KONKRET Chelmno,20,AZS Wratislavia,31
+Gawrys:45150:Polish Premier League - semifinal,SEGMENT 2_6,I,13,24,KONKRET Chelmno,20,AZS Wratislavia,31
+Mazurkiewi:45150:Polish Premier League - semifinal,SEGMENT 2_6,I,13,24,KONKRET Chelmno,20,AZS Wratislavia,31

@@ -1,0 +1,8 @@
+South:45968:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
+West:45968:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
+North:45968:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
+East:45968:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
+South:45968:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
+West:45968:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
+North:45968:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
+East:45968:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62

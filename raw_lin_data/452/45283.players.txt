@@ -1,0 +1,8 @@
+Boyd:45283:2016 Senior USBC R16,Segment 1 of 6,I,1,15,Robinson,0,Reynolds,0
+Reynolds:45283:2016 Senior USBC R16,Segment 1 of 6,I,1,15,Robinson,0,Reynolds,0
+Robinson:45283:2016 Senior USBC R16,Segment 1 of 6,I,1,15,Robinson,0,Reynolds,0
+Kerr:45283:2016 Senior USBC R16,Segment 1 of 6,I,1,15,Robinson,0,Reynolds,0
+Daniels:45283:2016 Senior USBC R16,Segment 1 of 6,I,1,15,Robinson,0,Reynolds,0
+Woolsey:45283:2016 Senior USBC R16,Segment 1 of 6,I,1,15,Robinson,0,Reynolds,0
+Pelka:45283:2016 Senior USBC R16,Segment 1 of 6,I,1,15,Robinson,0,Reynolds,0
+Stewart:45283:2016 Senior USBC R16,Segment 1 of 6,I,1,15,Robinson,0,Reynolds,0

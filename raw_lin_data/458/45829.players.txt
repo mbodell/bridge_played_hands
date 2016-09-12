@@ -1,0 +1,8 @@
+South:45829:2016 A Collegiate Championship SF,Segment 2 of 4,I,1,15,UC Berkeley,42,Northwestern,31
+West:45829:2016 A Collegiate Championship SF,Segment 2 of 4,I,1,15,UC Berkeley,42,Northwestern,31
+North:45829:2016 A Collegiate Championship SF,Segment 2 of 4,I,1,15,UC Berkeley,42,Northwestern,31
+East:45829:2016 A Collegiate Championship SF,Segment 2 of 4,I,1,15,UC Berkeley,42,Northwestern,31
+South:45829:2016 A Collegiate Championship SF,Segment 2 of 4,I,1,15,UC Berkeley,42,Northwestern,31
+West:45829:2016 A Collegiate Championship SF,Segment 2 of 4,I,1,15,UC Berkeley,42,Northwestern,31
+North:45829:2016 A Collegiate Championship SF,Segment 2 of 4,I,1,15,UC Berkeley,42,Northwestern,31
+East:45829:2016 A Collegiate Championship SF,Segment 2 of 4,I,1,15,UC Berkeley,42,Northwestern,31

@@ -1,0 +1,8 @@
+Özbay:45658:Turkish Open Team Trials,RR13,P,1,12,Team 1,0,Team 2,0
+Kaya:45658:Turkish Open Team Trials,RR13,P,1,12,Team 1,0,Team 2,0
+ÖztÜrk:45658:Turkish Open Team Trials,RR13,P,1,12,Team 1,0,Team 2,0
+KÖksoy:45658:Turkish Open Team Trials,RR13,P,1,12,Team 1,0,Team 2,0
+South:45658:Turkish Open Team Trials,RR13,P,1,12,Team 1,0,Team 2,0
+West:45658:Turkish Open Team Trials,RR13,P,1,12,Team 1,0,Team 2,0
+North:45658:Turkish Open Team Trials,RR13,P,1,12,Team 1,0,Team 2,0
+East:45658:Turkish Open Team Trials,RR13,P,1,12,Team 1,0,Team 2,0

@@ -1,0 +1,8 @@
+Jacobus:45420:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+Sontag:45420:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+Passell:45420:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+Berkowitz:45420:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+Rosenberg:45420:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+J. Clerkin:45420:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+Martel:45420:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+D. Clerkin:45420:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109

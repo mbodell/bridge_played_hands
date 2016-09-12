@@ -1,0 +1,8 @@
+I Kowalczy:45289:Polish Team Grand Prix - qualifications,MATCH 3_8,I,17,24,Fifi,0,Dalecki,0
+D¹browski:45289:Polish Team Grand Prix - qualifications,MATCH 3_8,I,17,24,Fifi,0,Dalecki,0
+M¹cior:45289:Polish Team Grand Prix - qualifications,MATCH 3_8,I,17,24,Fifi,0,Dalecki,0
+Ko³uda:45289:Polish Team Grand Prix - qualifications,MATCH 3_8,I,17,24,Fifi,0,Dalecki,0
+South:45289:Polish Team Grand Prix - qualifications,MATCH 3_8,I,17,24,Fifi,0,Dalecki,0
+West:45289:Polish Team Grand Prix - qualifications,MATCH 3_8,I,17,24,Fifi,0,Dalecki,0
+North:45289:Polish Team Grand Prix - qualifications,MATCH 3_8,I,17,24,Fifi,0,Dalecki,0
+East:45289:Polish Team Grand Prix - qualifications,MATCH 3_8,I,17,24,Fifi,0,Dalecki,0

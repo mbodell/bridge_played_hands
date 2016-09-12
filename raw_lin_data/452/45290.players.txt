@@ -1,0 +1,8 @@
+Gupta:45290:B 2016 Senior USBC R16,Segment 2 of 6,I,16,30,Gupta,12,Lewis,22
+Itabashi:45290:B 2016 Senior USBC R16,Segment 2 of 6,I,16,30,Gupta,12,Lewis,22
+Miller:45290:B 2016 Senior USBC R16,Segment 2 of 6,I,16,30,Gupta,12,Lewis,22
+P. Lewis:45290:B 2016 Senior USBC R16,Segment 2 of 6,I,16,30,Gupta,12,Lewis,22
+Doub:45290:B 2016 Senior USBC R16,Segment 2 of 6,I,16,30,Gupta,12,Lewis,22
+Schermer:45290:B 2016 Senior USBC R16,Segment 2 of 6,I,16,30,Gupta,12,Lewis,22
+Merblum:45290:B 2016 Senior USBC R16,Segment 2 of 6,I,16,30,Gupta,12,Lewis,22
+Chambers:45290:B 2016 Senior USBC R16,Segment 2 of 6,I,16,30,Gupta,12,Lewis,22

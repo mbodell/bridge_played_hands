@@ -1,0 +1,1 @@
+Chemla,Lantaron,Levy,Goded,South,West,North,East:45980:Mondial de Deauville,Champions S3_3 T1,P,1,18,Team 1,0,Team 2,0

@@ -1,0 +1,8 @@
+South:45140:XVII Lozenets Teams Tournament 2016,Round 2_11,I,9,16,Titan,0,Buba,0
+West:45140:XVII Lozenets Teams Tournament 2016,Round 2_11,I,9,16,Titan,0,Buba,0
+North:45140:XVII Lozenets Teams Tournament 2016,Round 2_11,I,9,16,Titan,0,Buba,0
+East:45140:XVII Lozenets Teams Tournament 2016,Round 2_11,I,9,16,Titan,0,Buba,0
+South:45140:XVII Lozenets Teams Tournament 2016,Round 2_11,I,9,16,Titan,0,Buba,0
+West:45140:XVII Lozenets Teams Tournament 2016,Round 2_11,I,9,16,Titan,0,Buba,0
+Kamen:45140:XVII Lozenets Teams Tournament 2016,Round 2_11,I,9,16,Titan,0,Buba,0
+East:45140:XVII Lozenets Teams Tournament 2016,Round 2_11,I,9,16,Titan,0,Buba,0

@@ -1,0 +1,8 @@
+Carroll:45164:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Mevius:45164:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Hanlon:45164:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Onishuk:45164:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Ferguson:45164:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Goodman:45164:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Hamilton:45164:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0
+Reddan:45164:Irish invitational pairs,Session 1,I,1,32,Team 1,0,Team 2,0

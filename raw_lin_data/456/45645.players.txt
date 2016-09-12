@@ -1,0 +1,8 @@
+Dufrene:45645:France  Netherlands,R8,I,1,12,France,343,Netherlands,445
+stougie l:45645:France  Netherlands,R8,I,1,12,France,343,Netherlands,445
+Beugin:45645:France  Netherlands,R8,I,1,12,France,343,Netherlands,445
+stougie:45645:France  Netherlands,R8,I,1,12,France,343,Netherlands,445
+Dupont:45645:France  Netherlands,R8,I,1,12,France,343,Netherlands,445
+Guillemin:45645:France  Netherlands,R8,I,1,12,France,343,Netherlands,445
+Caris:45645:France  Netherlands,R8,I,1,12,France,343,Netherlands,445
+Boulin:45645:France  Netherlands,R8,I,1,12,France,343,Netherlands,445

@@ -1,0 +1,8 @@
+Welland:45976:B 2016 Spingold SF,Segment 1 of 4,I,1,15,Fleisher,0,Strul,0
+Sadek:45976:B 2016 Spingold SF,Segment 1 of 4,I,1,15,Fleisher,0,Strul,0
+Auken:45976:B 2016 Spingold SF,Segment 1 of 4,I,1,15,Fleisher,0,Strul,0
+Elahmady:45976:B 2016 Spingold SF,Segment 1 of 4,I,1,15,Fleisher,0,Strul,0
+Strul:45976:B 2016 Spingold SF,Segment 1 of 4,I,1,15,Fleisher,0,Strul,0
+Moss:45976:B 2016 Spingold SF,Segment 1 of 4,I,1,15,Fleisher,0,Strul,0
+Becker:45976:B 2016 Spingold SF,Segment 1 of 4,I,1,15,Fleisher,0,Strul,0
+Grue:45976:B 2016 Spingold SF,Segment 1 of 4,I,1,15,Fleisher,0,Strul,0

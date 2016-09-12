@@ -1,0 +1,8 @@
+Houmøller:45724:DM Mix Par 2016,Sektion 3 af 4,P,1,30,Team 1,0,Team 2,0
+Palmund:45724:DM Mix Par 2016,Sektion 3 af 4,P,1,30,Team 1,0,Team 2,0
+Røn:45724:DM Mix Par 2016,Sektion 3 af 4,P,1,30,Team 1,0,Team 2,0
+Krøjgaard:45724:DM Mix Par 2016,Sektion 3 af 4,P,1,30,Team 1,0,Team 2,0
+South:45724:DM Mix Par 2016,Sektion 3 af 4,P,1,30,Team 1,0,Team 2,0
+West:45724:DM Mix Par 2016,Sektion 3 af 4,P,1,30,Team 1,0,Team 2,0
+North:45724:DM Mix Par 2016,Sektion 3 af 4,P,1,30,Team 1,0,Team 2,0
+East:45724:DM Mix Par 2016,Sektion 3 af 4,P,1,30,Team 1,0,Team 2,0

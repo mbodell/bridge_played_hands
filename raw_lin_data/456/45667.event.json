@@ -1,0 +1,77 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45667-6Th Tolani Gold Summer Nationals 2016 Bengaluru,Pre QF A - 2 _ 7,I,13,24,Shree Cement,0,Samadhan,0",
+      "code": "B263",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Banerjee A"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Rana Roy"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Arunbapat"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Ravigoenka"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Arvind"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Ian"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Vijay.p"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "T.v.ramani"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45667",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45667",
+              "boards": [
+              {
+]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

@@ -1,0 +1,8 @@
+Manno:45921:C 2016 Spingold R16,Segment 3 of 4,I,1,15,Di Franco,83,Sonsini,72
+Bertens:45921:C 2016 Spingold R16,Segment 3 of 4,I,1,15,Di Franco,83,Sonsini,72
+Di Franco:45921:C 2016 Spingold R16,Segment 3 of 4,I,1,15,Di Franco,83,Sonsini,72
+Cheek:45921:C 2016 Spingold R16,Segment 3 of 4,I,1,15,Di Franco,83,Sonsini,72
+Muller:45921:C 2016 Spingold R16,Segment 3 of 4,I,1,15,Di Franco,83,Sonsini,72
+Poon:45921:C 2016 Spingold R16,Segment 3 of 4,I,1,15,Di Franco,83,Sonsini,72
+De Wijs:45921:C 2016 Spingold R16,Segment 3 of 4,I,1,15,Di Franco,83,Sonsini,72
+Loo:45921:C 2016 Spingold R16,Segment 3 of 4,I,1,15,Di Franco,83,Sonsini,72

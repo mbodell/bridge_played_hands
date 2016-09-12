@@ -1,0 +1,8 @@
+Ozbay:45627:Turkish Open TeamTrials,rr2,P,13,24,Team 1,0,Team 2,0
+N.Aydogdu:45627:Turkish Open TeamTrials,rr2,P,13,24,Team 1,0,Team 2,0
+Ozturk:45627:Turkish Open TeamTrials,rr2,P,13,24,Team 1,0,Team 2,0
+F.Aydogdu:45627:Turkish Open TeamTrials,rr2,P,13,24,Team 1,0,Team 2,0
+South:45627:Turkish Open TeamTrials,rr2,P,13,24,Team 1,0,Team 2,0
+West:45627:Turkish Open TeamTrials,rr2,P,13,24,Team 1,0,Team 2,0
+North:45627:Turkish Open TeamTrials,rr2,P,13,24,Team 1,0,Team 2,0
+East:45627:Turkish Open TeamTrials,rr2,P,13,24,Team 1,0,Team 2,0

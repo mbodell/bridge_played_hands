@@ -1,0 +1,8 @@
+Chambers:45298:A 2016 Senior USBC R16,Segment 4 of 6,I,16,30,Gupta,91,Lewis,76
+L. Lewis:45298:A 2016 Senior USBC R16,Segment 4 of 6,I,16,30,Gupta,91,Lewis,76
+Schermer:45298:A 2016 Senior USBC R16,Segment 4 of 6,I,16,30,Gupta,91,Lewis,76
+P. Lewis:45298:A 2016 Senior USBC R16,Segment 4 of 6,I,16,30,Gupta,91,Lewis,76
+Itabashi:45298:A 2016 Senior USBC R16,Segment 4 of 6,I,16,30,Gupta,91,Lewis,76
+Miller:45298:A 2016 Senior USBC R16,Segment 4 of 6,I,16,30,Gupta,91,Lewis,76
+Doub:45298:A 2016 Senior USBC R16,Segment 4 of 6,I,16,30,Gupta,91,Lewis,76
+Gupta:45298:A 2016 Senior USBC R16,Segment 4 of 6,I,16,30,Gupta,91,Lewis,76

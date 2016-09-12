@@ -1,0 +1,8 @@
+Zia:45467:A 2016 Senior USBC SF,Segment 4 of 6,I,16,30,Hamman NPC,118,Gupta,70
+Gupta:45467:A 2016 Senior USBC SF,Segment 4 of 6,I,16,30,Hamman NPC,118,Gupta,70
+Meckstroth:45467:A 2016 Senior USBC SF,Segment 4 of 6,I,16,30,Hamman NPC,118,Gupta,70
+Miller:45467:A 2016 Senior USBC SF,Segment 4 of 6,I,16,30,Hamman NPC,118,Gupta,70
+Chambers:45467:A 2016 Senior USBC SF,Segment 4 of 6,I,16,30,Hamman NPC,118,Gupta,70
+Hamman:45467:A 2016 Senior USBC SF,Segment 4 of 6,I,16,30,Hamman NPC,118,Gupta,70
+Schermer:45467:A 2016 Senior USBC SF,Segment 4 of 6,I,16,30,Hamman NPC,118,Gupta,70
+Lair:45467:A 2016 Senior USBC SF,Segment 4 of 6,I,16,30,Hamman NPC,118,Gupta,70

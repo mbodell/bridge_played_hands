@@ -1,0 +1,8 @@
+Houmøller:45696:DM MIX 2016,1 af 4,P,1,30,Team 1,0,Team 2,0
+Ege:45696:DM MIX 2016,1 af 4,P,1,30,Team 1,0,Team 2,0
+Røn:45696:DM MIX 2016,1 af 4,P,1,30,Team 1,0,Team 2,0
+Raulund:45696:DM MIX 2016,1 af 4,P,1,30,Team 1,0,Team 2,0
+South:45696:DM MIX 2016,1 af 4,P,1,30,Team 1,0,Team 2,0
+West:45696:DM MIX 2016,1 af 4,P,1,30,Team 1,0,Team 2,0
+North:45696:DM MIX 2016,1 af 4,P,1,30,Team 1,0,Team 2,0
+East:45696:DM MIX 2016,1 af 4,P,1,30,Team 1,0,Team 2,0

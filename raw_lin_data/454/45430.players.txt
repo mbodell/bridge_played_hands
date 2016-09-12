@@ -1,0 +1,8 @@
+WangRB:45430:the 27th China Friend City Senior Team Tournament,1_2 R1,I,1,10,Beijing,0,Hunnan,0
+ChangHP:45430:the 27th China Friend City Senior Team Tournament,1_2 R1,I,1,10,Beijing,0,Hunnan,0
+WangRH:45430:the 27th China Friend City Senior Team Tournament,1_2 R1,I,1,10,Beijing,0,Hunnan,0
+ZhaoQiang:45430:the 27th China Friend City Senior Team Tournament,1_2 R1,I,1,10,Beijing,0,Hunnan,0
+South:45430:the 27th China Friend City Senior Team Tournament,1_2 R1,I,1,10,Beijing,0,Hunnan,0
+West:45430:the 27th China Friend City Senior Team Tournament,1_2 R1,I,1,10,Beijing,0,Hunnan,0
+North:45430:the 27th China Friend City Senior Team Tournament,1_2 R1,I,1,10,Beijing,0,Hunnan,0
+East:45430:the 27th China Friend City Senior Team Tournament,1_2 R1,I,1,10,Beijing,0,Hunnan,0

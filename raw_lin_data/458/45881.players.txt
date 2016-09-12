@@ -1,0 +1,8 @@
+South:45881:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,16,30,U Chicago,85,Northwestern,102
+West:45881:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,16,30,U Chicago,85,Northwestern,102
+Fireman:45881:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,16,30,U Chicago,85,Northwestern,102
+Ponomareva:45881:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,16,30,U Chicago,85,Northwestern,102
+South:45881:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,16,30,U Chicago,85,Northwestern,102
+West:45881:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,16,30,U Chicago,85,Northwestern,102
+North:45881:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,16,30,U Chicago,85,Northwestern,102
+East:45881:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,16,30,U Chicago,85,Northwestern,102

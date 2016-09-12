@@ -1,0 +1,8 @@
+Weiss F.:45739:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F9_10,P,21,30,Team 1,0,Team 2,0
+Deheeger:45739:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F9_10,P,21,30,Team 1,0,Team 2,0
+Hermann S.:45739:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F9_10,P,21,30,Team 1,0,Team 2,0
+Thepaut Ve:45739:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F9_10,P,21,30,Team 1,0,Team 2,0
+South:45739:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F9_10,P,21,30,Team 1,0,Team 2,0
+West:45739:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F9_10,P,21,30,Team 1,0,Team 2,0
+North:45739:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F9_10,P,21,30,Team 1,0,Team 2,0
+East:45739:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F9_10,P,21,30,Team 1,0,Team 2,0

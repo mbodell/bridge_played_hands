@@ -1,0 +1,77 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45574-BBO2-2016EBTC,O-RR34,I,17,32,GERMANY,0,ISRAEL,0",
+      "code": "B206",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Linde"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Schwerdt"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Gromoeller"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Rehder"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Zack"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Barel"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Bareket"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Lengy"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45574",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45574",
+              "boards": [
+              {
+]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

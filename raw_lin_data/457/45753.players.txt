@@ -1,0 +1,8 @@
+Kampara D:45753:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 9_15 T09,P,1,10,Team 1,0,Team 2,0
+Leleu A.:45753:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 9_15 T09,P,1,10,Team 1,0,Team 2,0
+Garkaje G:45753:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 9_15 T09,P,1,10,Team 1,0,Team 2,0
+Thuillez M:45753:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 9_15 T09,P,1,10,Team 1,0,Team 2,0
+South:45753:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 9_15 T09,P,1,10,Team 1,0,Team 2,0
+West:45753:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 9_15 T09,P,1,10,Team 1,0,Team 2,0
+North:45753:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 9_15 T09,P,1,10,Team 1,0,Team 2,0
+East:45753:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 9_15 T09,P,1,10,Team 1,0,Team 2,0

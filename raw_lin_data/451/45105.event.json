@@ -1,0 +1,77 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45105-2016 Women's USBC FINAL,Segment 6 of 8,I,16,30,Baker,142,Palmer,220",
+      "code": "B031",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Palmer"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Shi"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Chambers"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Deas"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Levitina"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Sanborn"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Granovette"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Stansby"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45105",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45105",
+              "boards": [
+              {
+]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

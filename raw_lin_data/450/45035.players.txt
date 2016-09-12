@@ -1,0 +1,8 @@
+Sanborn:45035:A 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Baker,213,Weingold,209
+Meyers:45035:A 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Baker,213,Weingold,209
+Levitina:45035:A 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Baker,213,Weingold,209
+Cappellett:45035:A 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Baker,213,Weingold,209
+Weingold:45035:A 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Baker,213,Weingold,209
+Granovette:45035:A 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Baker,213,Weingold,209
+Assini:45035:A 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Baker,213,Weingold,209
+Stansby:45035:A 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Baker,213,Weingold,209

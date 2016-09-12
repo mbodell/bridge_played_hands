@@ -1,0 +1,8 @@
+Sulgrove:45894:2016 Wagar Final,Segment 3 of 4,I,1,15,Weingold,81,China Yellow,52
+Gru:45894:2016 Wagar Final,Segment 3 of 4,I,1,15,Weingold,81,China Yellow,52
+Cappellett:45894:2016 Wagar Final,Segment 3 of 4,I,1,15,Weingold,81,China Yellow,52
+Zhou:45894:2016 Wagar Final,Segment 3 of 4,I,1,15,Weingold,81,China Yellow,52
+South:45894:2016 Wagar Final,Segment 3 of 4,I,1,15,Weingold,81,China Yellow,52
+Ponomareva:45894:2016 Wagar Final,Segment 3 of 4,I,1,15,Weingold,81,China Yellow,52
+North:45894:2016 Wagar Final,Segment 3 of 4,I,1,15,Weingold,81,China Yellow,52
+Gromova:45894:2016 Wagar Final,Segment 3 of 4,I,1,15,Weingold,81,China Yellow,52

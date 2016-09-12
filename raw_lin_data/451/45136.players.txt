@@ -1,0 +1,8 @@
+South:45136:XVII Lozenets Bridge Festival 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+West:45136:XVII Lozenets Bridge Festival 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+North:45136:XVII Lozenets Bridge Festival 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+East:45136:XVII Lozenets Bridge Festival 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+South:45136:XVII Lozenets Bridge Festival 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+West:45136:XVII Lozenets Bridge Festival 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+North:45136:XVII Lozenets Bridge Festival 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+East:45136:XVII Lozenets Bridge Festival 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0

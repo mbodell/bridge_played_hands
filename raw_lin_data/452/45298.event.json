@@ -1,0 +1,77 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45298-A 2016 Senior USBC R16,Segment 4 of 6,I,16,30,Gupta,91,Lewis,76",
+      "code": "B0F2",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Schermer"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Chambers"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Gupta"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Miller"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "P. Lewis"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "L. Lewis"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Doub"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Itabashi"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45298",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45298",
+              "boards": [
+              {
+]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

@@ -1,0 +1,8 @@
+Sanborn:45070:2016 Women's USBC FINAL,Segment 3 of 8,I,1,15,Baker,53,Palmer,73
+Deas:45070:2016 Women's USBC FINAL,Segment 3 of 8,I,1,15,Baker,53,Palmer,73
+Levitina:45070:2016 Women's USBC FINAL,Segment 3 of 8,I,1,15,Baker,53,Palmer,73
+Chambers:45070:2016 Women's USBC FINAL,Segment 3 of 8,I,1,15,Baker,53,Palmer,73
+Molson:45070:2016 Women's USBC FINAL,Segment 3 of 8,I,1,15,Baker,53,Palmer,73
+Baker:45070:2016 Women's USBC FINAL,Segment 3 of 8,I,1,15,Baker,53,Palmer,73
+Sokolow:45070:2016 Women's USBC FINAL,Segment 3 of 8,I,1,15,Baker,53,Palmer,73
+McCallum:45070:2016 Women's USBC FINAL,Segment 3 of 8,I,1,15,Baker,53,Palmer,73

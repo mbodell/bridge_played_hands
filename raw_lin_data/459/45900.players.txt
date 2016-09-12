@@ -1,0 +1,8 @@
+Madala:45900:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
+Oursel:45900:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
+Bianchedi:45900:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
+Soulet:45900:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
+Mauberquez:45900:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
+Duboin:45900:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
+Sainte Mar:45900:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
+Bilde:45900:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101

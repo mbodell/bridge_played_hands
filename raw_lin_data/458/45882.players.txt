@@ -1,0 +1,8 @@
+Weingold:45882:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
+Hu:45882:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
+Assini:45882:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
+Ran:45882:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
+South:45882:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
+West:45882:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
+North:45882:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
+East:45882:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0

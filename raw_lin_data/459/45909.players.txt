@@ -1,0 +1,8 @@
+Duboin:45909:C 2016 Spingold R16,Segment 1 of 4,I,1,15,Lavazza,0,Wolff NPC,0
+Oursel:45909:C 2016 Spingold R16,Segment 1 of 4,I,1,15,Lavazza,0,Wolff NPC,0
+Bilde:45909:C 2016 Spingold R16,Segment 1 of 4,I,1,15,Lavazza,0,Wolff NPC,0
+Soulet:45909:C 2016 Spingold R16,Segment 1 of 4,I,1,15,Lavazza,0,Wolff NPC,0
+Sainte Mar:45909:C 2016 Spingold R16,Segment 1 of 4,I,1,15,Lavazza,0,Wolff NPC,0
+Brenner:45909:C 2016 Spingold R16,Segment 1 of 4,I,1,15,Lavazza,0,Wolff NPC,0
+Mauberquez:45909:C 2016 Spingold R16,Segment 1 of 4,I,1,15,Lavazza,0,Wolff NPC,0
+Bocchi:45909:C 2016 Spingold R16,Segment 1 of 4,I,1,15,Lavazza,0,Wolff NPC,0

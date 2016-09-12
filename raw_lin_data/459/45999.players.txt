@@ -1,0 +1,8 @@
+Vist:45999:Norwegian Mixed Teams Championship,RR5_12,I,1,7,HAUGE,0,BOB BOB,0
+Fossum:45999:Norwegian Mixed Teams Championship,RR5_12,I,1,7,HAUGE,0,BOB BOB,0
+Kristoffer:45999:Norwegian Mixed Teams Championship,RR5_12,I,1,7,HAUGE,0,BOB BOB,0
+Bogø:45999:Norwegian Mixed Teams Championship,RR5_12,I,1,7,HAUGE,0,BOB BOB,0
+T Heskje:45999:Norwegian Mixed Teams Championship,RR5_12,I,1,7,HAUGE,0,BOB BOB,0
+A Malinows:45999:Norwegian Mixed Teams Championship,RR5_12,I,1,7,HAUGE,0,BOB BOB,0
+JA Ovesen:45999:Norwegian Mixed Teams Championship,RR5_12,I,1,7,HAUGE,0,BOB BOB,0
+M Cichocki:45999:Norwegian Mixed Teams Championship,RR5_12,I,1,7,HAUGE,0,BOB BOB,0

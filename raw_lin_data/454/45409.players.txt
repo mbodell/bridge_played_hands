@@ -1,0 +1,8 @@
+Jacobus:45409:C 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Koneru NPC,62,Wolfson,80
+Martel:45409:C 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Koneru NPC,62,Wolfson,80
+Passell:45409:C 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Koneru NPC,62,Wolfson,80
+Rosenberg:45409:C 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Koneru NPC,62,Wolfson,80
+Wolfson:45409:C 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Koneru NPC,62,Wolfson,80
+Wold:45409:C 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Koneru NPC,62,Wolfson,80
+Silverman:45409:C 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Koneru NPC,62,Wolfson,80
+Levine:45409:C 2016 Senior USBC QF,Segment 4 of 6,I,16,30,Koneru NPC,62,Wolfson,80

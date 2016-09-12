@@ -1,0 +1,8 @@
+South:45845:2016 Collegiate Championship SF,Segment 4 of 4,I,16,36,UC Berkeley,89,Northwestern,83
+West:45845:2016 Collegiate Championship SF,Segment 4 of 4,I,16,36,UC Berkeley,89,Northwestern,83
+North:45845:2016 Collegiate Championship SF,Segment 4 of 4,I,16,36,UC Berkeley,89,Northwestern,83
+East:45845:2016 Collegiate Championship SF,Segment 4 of 4,I,16,36,UC Berkeley,89,Northwestern,83
+South:45845:2016 Collegiate Championship SF,Segment 4 of 4,I,16,36,UC Berkeley,89,Northwestern,83
+West:45845:2016 Collegiate Championship SF,Segment 4 of 4,I,16,36,UC Berkeley,89,Northwestern,83
+Thapa:45845:2016 Collegiate Championship SF,Segment 4 of 4,I,16,36,UC Berkeley,89,Northwestern,83
+East:45845:2016 Collegiate Championship SF,Segment 4 of 4,I,16,36,UC Berkeley,89,Northwestern,83

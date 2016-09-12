@@ -1,0 +1,8 @@
+Simson:45297:C 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Simson,49,Kasle,62
+Schwartz:45297:C 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Simson,49,Kasle,62
+Aker:45297:C 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Simson,49,Kasle,62
+Graves:45297:C 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Simson,49,Kasle,62
+Kasle:45297:C 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Simson,49,Kasle,62
+Casen:45297:C 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Simson,49,Kasle,62
+Morse:45297:C 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Simson,49,Kasle,62
+Krekorian:45297:C 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Simson,49,Kasle,62

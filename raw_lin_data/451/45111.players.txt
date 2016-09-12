@@ -1,0 +1,8 @@
+Sanborn:45111:2016 Women's USBC FINAL,Segment 7 of 8,I,1,15,Baker,188,Palmer,250
+Deas:45111:2016 Women's USBC FINAL,Segment 7 of 8,I,1,15,Baker,188,Palmer,250
+Levitina:45111:2016 Women's USBC FINAL,Segment 7 of 8,I,1,15,Baker,188,Palmer,250
+Chambers:45111:2016 Women's USBC FINAL,Segment 7 of 8,I,1,15,Baker,188,Palmer,250
+Molson:45111:2016 Women's USBC FINAL,Segment 7 of 8,I,1,15,Baker,188,Palmer,250
+Baker:45111:2016 Women's USBC FINAL,Segment 7 of 8,I,1,15,Baker,188,Palmer,250
+Sokolow:45111:2016 Women's USBC FINAL,Segment 7 of 8,I,1,15,Baker,188,Palmer,250
+McCallum:45111:2016 Women's USBC FINAL,Segment 7 of 8,I,1,15,Baker,188,Palmer,250

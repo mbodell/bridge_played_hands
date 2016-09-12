@@ -1,0 +1,8 @@
+Baker:45011:2016 Women's USBC SF,Segment 2 of 8,I,16,30,Baker,39,Weingold,30
+Rosenberg:45011:2016 Women's USBC SF,Segment 2 of 8,I,16,30,Baker,39,Weingold,30
+McCallum:45011:2016 Women's USBC SF,Segment 2 of 8,I,16,30,Baker,39,Weingold,30
+Sulgrove:45011:2016 Women's USBC SF,Segment 2 of 8,I,16,30,Baker,39,Weingold,30
+Weingold:45011:2016 Women's USBC SF,Segment 2 of 8,I,16,30,Baker,39,Weingold,30
+Sanborn:45011:2016 Women's USBC SF,Segment 2 of 8,I,16,30,Baker,39,Weingold,30
+Assini:45011:2016 Women's USBC SF,Segment 2 of 8,I,16,30,Baker,39,Weingold,30
+Levitina:45011:2016 Women's USBC SF,Segment 2 of 8,I,16,30,Baker,39,Weingold,30

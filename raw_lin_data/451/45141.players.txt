@@ -1,0 +1,8 @@
+Tiholov:45141:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+Gunev:45141:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+Tenev:45141:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+isporski:45141:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+Bonev:45141:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+Battov:45141:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+Batov:45141:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0
+East:45141:XVII Lozenets Teams Tournament 2016,Round 1_11,I,1,8,Gerganin izvor,0,Juls,0

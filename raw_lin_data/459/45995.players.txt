@@ -1,0 +1,8 @@
+Hauge:45995:Norwegian Mixed Teams Championship,RR2_12,I,8,14,HAUGE,0,MOSTINGAN,0
+Halvorsen:45995:Norwegian Mixed Teams Championship,RR2_12,I,8,14,HAUGE,0,MOSTINGAN,0
+Malinowski:45995:Norwegian Mixed Teams Championship,RR2_12,I,8,14,HAUGE,0,MOSTINGAN,0
+Helmersen:45995:Norwegian Mixed Teams Championship,RR2_12,I,8,14,HAUGE,0,MOSTINGAN,0
+S Sneve:45995:Norwegian Mixed Teams Championship,RR2_12,I,8,14,HAUGE,0,MOSTINGAN,0
+G-T Vist:45995:Norwegian Mixed Teams Championship,RR2_12,I,8,14,HAUGE,0,MOSTINGAN,0
+O Rønning:45995:Norwegian Mixed Teams Championship,RR2_12,I,8,14,HAUGE,0,MOSTINGAN,0
+Stoffers:45995:Norwegian Mixed Teams Championship,RR2_12,I,8,14,HAUGE,0,MOSTINGAN,0

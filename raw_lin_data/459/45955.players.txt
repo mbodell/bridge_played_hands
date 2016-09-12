@@ -1,0 +1,8 @@
+Quantin:45955:A 2016 Spingold QF,Segment 4 of 4,I,16,30,Street,100,Zimmermann,68
+Multon:45955:A 2016 Spingold QF,Segment 4 of 4,I,16,30,Street,100,Zimmermann,68
+Lorenzini:45955:A 2016 Spingold QF,Segment 4 of 4,I,16,30,Street,100,Zimmermann,68
+Martens:45955:A 2016 Spingold QF,Segment 4 of 4,I,16,30,Street,100,Zimmermann,68
+Helgemo:45955:A 2016 Spingold QF,Segment 4 of 4,I,16,30,Street,100,Zimmermann,68
+Volcker:45955:A 2016 Spingold QF,Segment 4 of 4,I,16,30,Street,100,Zimmermann,68
+Helness:45955:A 2016 Spingold QF,Segment 4 of 4,I,16,30,Street,100,Zimmermann,68
+Bessis:45955:A 2016 Spingold QF,Segment 4 of 4,I,16,30,Street,100,Zimmermann,68

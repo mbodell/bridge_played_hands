@@ -1,0 +1,8 @@
+Maduzia A.:45745:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 6_15 T09,P,1,10,Team 1,0,Team 2,0
+Wackwitz J:45745:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 6_15 T09,P,1,10,Team 1,0,Team 2,0
+Baldysz Z.:45745:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 6_15 T09,P,1,10,Team 1,0,Team 2,0
+Bruijnstee:45745:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 6_15 T09,P,1,10,Team 1,0,Team 2,0
+South:45745:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 6_15 T09,P,1,10,Team 1,0,Team 2,0
+West:45745:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 6_15 T09,P,1,10,Team 1,0,Team 2,0
+North:45745:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 6_15 T09,P,1,10,Team 1,0,Team 2,0
+East:45745:Liepaja BBO1 - 13th EYBPC - WOMEN,Final 6_15 T09,P,1,10,Team 1,0,Team 2,0

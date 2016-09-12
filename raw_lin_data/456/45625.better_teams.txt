@@ -1,0 +1,1 @@
+South,West,North,East,South,West,North,East:45625:France-Netherlands,R1,I,1,12,France,0,Netherlands,0

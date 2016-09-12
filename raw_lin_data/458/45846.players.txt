@@ -1,0 +1,8 @@
+Woolsey:45846:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Z Grossack:45846:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Martel:45846:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+A Grossack:45846:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Doub:45846:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+J Stabsby:45846:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Merblum:45846:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+L stansby:45846:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0

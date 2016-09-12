@@ -1,0 +1,138 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45042-NORWEGIAN CLUB TEAMS FINAL,RR3:2,I,1,64,STEINKJER BK,28,FØRDE BK,59",
+      "code": "AFF2",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Daling"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Holmen"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "R Kvaran"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "B Kvaran"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Kvamsdal"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "A Hoff"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Hjelmeland"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "G Hoff"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45042",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45042",
+              "boards": [
+              {
+                "number": 15,
+                "is_team_event": 1,
+                "board_tables": [
+                {
+                  "table_number": 2,
+                  "home_team_number": 2,
+                  "round_number": 1,
+                  "declarer": 4,
+                  "contract_level": 2,
+                  "contract_suit": 4,
+                  "contract_doubled": 0,
+                  "contract": "2S",
+                  "ntricks_taken": 8,
+                  "board_table_scores": [
+                  {
+                    "pair_number": 2,
+                    "direction": 1,
+                    "table_result": -110
+                  },
+                  {
+                    "pair_number": 1,
+                    "direction": 2,
+                    "table_result": 110
+                  }],
+                  "board_table_biddings": [
+                  {
+                    "final_contract": "2S",
+                    "opening_lead": "S9",
+                    "declarer": "4",
+                    "board_table_bidding_rounds": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 3,
+                      "bid_n": 0,
+                      "bid_e": 0,
+                      "bid_s": 2,
+                      "bid_w": 9
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 3,
+                      "bid_s": 0
+                    }]
+                  }],
+                  "board_table_card_plays": [
+                  {
+                    "board_table_card_play_tricks": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 1,
+                      "card_n": 6
+                    }]
+                  }],
+                  "status": 1
+                }],
+                "board_team_scores": [
+                {
+                  "closed_contract": "2S",
+                  "closed_declarer": 4,
+                  "closed_tricks_taken": 8
+                }]
+              }]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

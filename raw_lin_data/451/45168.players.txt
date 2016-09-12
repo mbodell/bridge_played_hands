@@ -1,0 +1,8 @@
+Carroll:45168:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Reddan:45168:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Hanlon:45168:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Goodman:45168:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Mevius:45168:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Rudzinski:45168:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Onishuk:45168:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Gorczyca:45168:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0

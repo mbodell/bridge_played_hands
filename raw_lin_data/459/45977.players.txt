@@ -1,0 +1,8 @@
+Welland:45977:B 2016 Spingold SF,Segment 2 of 4,I,16,30,Fleisher,36,Strul,15
+Kamil:45977:B 2016 Spingold SF,Segment 2 of 4,I,16,30,Fleisher,36,Strul,15
+Auken:45977:B 2016 Spingold SF,Segment 2 of 4,I,16,30,Fleisher,36,Strul,15
+Coren:45977:B 2016 Spingold SF,Segment 2 of 4,I,16,30,Fleisher,36,Strul,15
+Strul:45977:B 2016 Spingold SF,Segment 2 of 4,I,16,30,Fleisher,36,Strul,15
+Martel:45977:B 2016 Spingold SF,Segment 2 of 4,I,16,30,Fleisher,36,Strul,15
+Becker:45977:B 2016 Spingold SF,Segment 2 of 4,I,16,30,Fleisher,36,Strul,15
+Fleisher:45977:B 2016 Spingold SF,Segment 2 of 4,I,16,30,Fleisher,36,Strul,15

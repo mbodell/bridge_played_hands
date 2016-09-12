@@ -1,0 +1,8 @@
+Klys:45312:Polish Team Grand Prix - qualifications,MATCH 5_8,I,9,16,FORTA,0,BRIDGE24.PL,0
+Zoha:45312:Polish Team Grand Prix - qualifications,MATCH 5_8,I,9,16,FORTA,0,BRIDGE24.PL,0
+Verkhos:45312:Polish Team Grand Prix - qualifications,MATCH 5_8,I,9,16,FORTA,0,BRIDGE24.PL,0
+Jeremek:45312:Polish Team Grand Prix - qualifications,MATCH 5_8,I,9,16,FORTA,0,BRIDGE24.PL,0
+Gawel:45312:Polish Team Grand Prix - qualifications,MATCH 5_8,I,9,16,FORTA,0,BRIDGE24.PL,0
+Zabierek:45312:Polish Team Grand Prix - qualifications,MATCH 5_8,I,9,16,FORTA,0,BRIDGE24.PL,0
+Jagniewski:45312:Polish Team Grand Prix - qualifications,MATCH 5_8,I,9,16,FORTA,0,BRIDGE24.PL,0
+Urban:45312:Polish Team Grand Prix - qualifications,MATCH 5_8,I,9,16,FORTA,0,BRIDGE24.PL,0

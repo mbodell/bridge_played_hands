@@ -1,0 +1,8 @@
+Rankin:45612:BBO2 2016 ANC - Women's Teams,Final 2_4,I,15,28,QLD,19,ACT,36
+Tutty:45612:BBO2 2016 ANC - Women's Teams,Final 2_4,I,15,28,QLD,19,ACT,36
+Tully:45612:BBO2 2016 ANC - Women's Teams,Final 2_4,I,15,28,QLD,19,ACT,36
+Bourke:45612:BBO2 2016 ANC - Women's Teams,Final 2_4,I,15,28,QLD,19,ACT,36
+Hoffman:45612:BBO2 2016 ANC - Women's Teams,Final 2_4,I,15,28,QLD,19,ACT,36
+Millar:45612:BBO2 2016 ANC - Women's Teams,Final 2_4,I,15,28,QLD,19,ACT,36
+Tobin:45612:BBO2 2016 ANC - Women's Teams,Final 2_4,I,15,28,QLD,19,ACT,36
+Obrien:45612:BBO2 2016 ANC - Women's Teams,Final 2_4,I,15,28,QLD,19,ACT,36

@@ -1,0 +1,8 @@
+Boulin:45650:France,Netherlands,I,1,12,France,436,Netherlands,540
+Stougie L:45650:France,Netherlands,I,1,12,France,436,Netherlands,540
+Guillemin:45650:France,Netherlands,I,1,12,France,436,Netherlands,540
+Stouglie M:45650:France,Netherlands,I,1,12,France,436,Netherlands,540
+Dupont:45650:France,Netherlands,I,1,12,France,436,Netherlands,540
+Bellicaud:45650:France,Netherlands,I,1,12,France,436,Netherlands,540
+Caris:45650:France,Netherlands,I,1,12,France,436,Netherlands,540
+Basler:45650:France,Netherlands,I,1,12,France,436,Netherlands,540

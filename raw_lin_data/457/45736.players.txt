@@ -1,0 +1,8 @@
+Garkaje G:45736:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F8_10,P,11,20,Team 1,0,Team 2,0
+Bakar U:45736:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F8_10,P,11,20,Team 1,0,Team 2,0
+Ilzins J:45736:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F8_10,P,11,20,Team 1,0,Team 2,0
+Altun. Tù:45736:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F8_10,P,11,20,Team 1,0,Team 2,0
+South:45736:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F8_10,P,11,20,Team 1,0,Team 2,0
+West:45736:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F8_10,P,11,20,Team 1,0,Team 2,0
+North:45736:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F8_10,P,11,20,Team 1,0,Team 2,0
+East:45736:Liepaja BBO1 - 13th EYBPC,Mix Pairs T26 F8_10,P,11,20,Team 1,0,Team 2,0

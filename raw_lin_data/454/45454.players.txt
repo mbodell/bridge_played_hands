@@ -1,0 +1,8 @@
+Meckstroth:45454:A 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Hamman,0,Gupta,0
+Miller:45454:A 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Hamman,0,Gupta,0
+Zia:45454:A 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Hamman,0,Gupta,0
+Gupta:45454:A 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Hamman,0,Gupta,0
+Chambers:45454:A 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Hamman,0,Gupta,0
+Lall:45454:A 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Hamman,0,Gupta,0
+Schermer:45454:A 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Hamman,0,Gupta,0
+Milner:45454:A 2016 Senior USBC SF,Segment 1 of 6,I,1,15,Hamman,0,Gupta,0

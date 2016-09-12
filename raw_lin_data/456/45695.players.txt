@@ -1,0 +1,8 @@
+South:45695:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,6_13,I,1,8,de Bruyune,0,EWA,0
+West:45695:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,6_13,I,1,8,de Bruyune,0,EWA,0
+North:45695:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,6_13,I,1,8,de Bruyune,0,EWA,0
+East:45695:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,6_13,I,1,8,de Bruyune,0,EWA,0
+South:45695:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,6_13,I,1,8,de Bruyune,0,EWA,0
+West:45695:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,6_13,I,1,8,de Bruyune,0,EWA,0
+North:45695:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,6_13,I,1,8,de Bruyune,0,EWA,0
+East:45695:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,6_13,I,1,8,de Bruyune,0,EWA,0

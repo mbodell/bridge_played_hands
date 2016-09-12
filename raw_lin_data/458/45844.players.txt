@@ -1,0 +1,8 @@
+DRosenberg:45844:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Roman:45844:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Grainger:45844:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Bertens:45844:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Stoltz:45844:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Woolsey:45844:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+McNay:45844:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0
+Martel:45844:2016 GNT FINAL,Segment 1 of 4,I,1,15,D21 Martel,0,D25 Merblum,0

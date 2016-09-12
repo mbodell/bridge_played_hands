@@ -1,0 +1,8 @@
+South:45935:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
+West:45935:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
+North:45935:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
+East:45935:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
+L'Ecuyer:45935:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
+Moulton:45935:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
+Street:45935:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
+Zimmermann:45935:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99

@@ -1,0 +1,8 @@
+Helgemo:45985:A 2016 Spingold SF ,Segment 4 of 4,I,16,30,Zimmermann,113,Lavazza,59
+Bianchedi:45985:A 2016 Spingold SF ,Segment 4 of 4,I,16,30,Zimmermann,113,Lavazza,59
+Helness:45985:A 2016 Spingold SF ,Segment 4 of 4,I,16,30,Zimmermann,113,Lavazza,59
+Madala:45985:A 2016 Spingold SF ,Segment 4 of 4,I,16,30,Zimmermann,113,Lavazza,59
+Duboin:45985:A 2016 Spingold SF ,Segment 4 of 4,I,16,30,Zimmermann,113,Lavazza,59
+Martens:45985:A 2016 Spingold SF ,Segment 4 of 4,I,16,30,Zimmermann,113,Lavazza,59
+Bilde:45985:A 2016 Spingold SF ,Segment 4 of 4,I,16,30,Zimmermann,113,Lavazza,59
+Multon:45985:A 2016 Spingold SF ,Segment 4 of 4,I,16,30,Zimmermann,113,Lavazza,59

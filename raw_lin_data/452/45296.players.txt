@@ -1,0 +1,8 @@
+Rosenberg:45296:B 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Wolfson,76,Bell,51
+Jacobs:45296:B 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Wolfson,76,Bell,51
+Martel:45296:B 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Wolfson,76,Bell,51
+Vogel:45296:B 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Wolfson,76,Bell,51
+Bell:45296:B 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Wolfson,76,Bell,51
+Berkowitz:45296:B 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Wolfson,76,Bell,51
+Jones:45296:B 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Wolfson,76,Bell,51
+Sontag:45296:B 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Wolfson,76,Bell,51

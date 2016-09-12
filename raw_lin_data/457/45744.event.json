@@ -1,0 +1,148 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45744-Untitled match,Untitled segment,P,1,10,Team 1,0,Team 2,0",
+      "code": "B2B0",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "North"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "South"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "West"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "West"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "North"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "South"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45744",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45744",
+              "boards": [
+              {
+                "number": 1,
+                "is_team_event": 1,
+                "board_tables": [
+                {
+                  "table_number": 1,
+                  "home_team_number": 1,
+                  "round_number": 1,
+                  "declarer": 4,
+                  "contract_level": 4,
+                  "contract_suit": 3,
+                  "contract_doubled": 0,
+                  "contract": "4H",
+                  "ntricks_taken": 9,
+                  "board_table_scores": [
+                  {
+                    "pair_number": 1,
+                    "direction": 1,
+                    "table_result": 50
+                  },
+                  {
+                    "pair_number": 2,
+                    "direction": 2,
+                    "table_result": -50
+                  }],
+                  "board_table_biddings": [
+                  {
+                    "final_contract": "4H",
+                    "opening_lead": "SA",
+                    "declarer": "4",
+                    "board_table_bidding_rounds": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 1,
+                      "bid_n": 4,
+                      "bid_e": 36,
+                      "bid_s": 0,
+                      "bid_w": 12
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 1,
+                      "bid_n": 0,
+                      "bid_e": 14,
+                      "bid_s": 0,
+                      "bid_w": 18
+                    },
+                    {
+                      "number": 3,
+                      "first_seat_to_act": 1,
+                      "bid_n": 0,
+                      "bid_e": 0,
+                      "bid_s": 0
+                    }]
+                  }],
+                  "board_table_card_plays": [
+                  {
+                    "board_table_card_play_tricks": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 1,
+                      "card_n": 1
+                    }]
+                  }],
+                  "status": 1
+                }],
+                "board_team_scores": [
+                {
+                  "open_contract": "4H",
+                  "open_declarer": 4,
+                  "open_tricks_taken": 9
+                }]
+              }]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

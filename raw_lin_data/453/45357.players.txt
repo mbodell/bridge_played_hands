@@ -1,0 +1,8 @@
+Meltzer:45357:B 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Morse NPC,40,Simson,8
+Casen:45357:B 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Morse NPC,40,Simson,8
+Mohan:45357:B 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Morse NPC,40,Simson,8
+Krekorian:45357:B 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Morse NPC,40,Simson,8
+Simson:45357:B 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Morse NPC,40,Simson,8
+Garner:45357:B 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Morse NPC,40,Simson,8
+Aker:45357:B 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Morse NPC,40,Simson,8
+Smith:45357:B 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Morse NPC,40,Simson,8

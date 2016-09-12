@@ -1,0 +1,8 @@
+J. Clerkin:45361:C 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Koneru NPC,27,Wolfson,15
+Martel:45361:C 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Koneru NPC,27,Wolfson,15
+D. Clerkin:45361:C 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Koneru NPC,27,Wolfson,15
+Rosenberg:45361:C 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Koneru NPC,27,Wolfson,15
+Wolfson:45361:C 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Koneru NPC,27,Wolfson,15
+Wold:45361:C 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Koneru NPC,27,Wolfson,15
+Silverman:45361:C 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Koneru NPC,27,Wolfson,15
+Levine:45361:C 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Koneru NPC,27,Wolfson,15

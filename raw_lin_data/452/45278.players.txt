@@ -1,0 +1,8 @@
+Zmudzinski:45278:Polish Team Grand Prix - qualifications,MATCH 2_8,I,9,16,tusio,0,silesia,0
+Busse:45278:Polish Team Grand Prix - qualifications,MATCH 2_8,I,9,16,tusio,0,silesia,0
+Witek:45278:Polish Team Grand Prix - qualifications,MATCH 2_8,I,9,16,tusio,0,silesia,0
+Jeleniewsk:45278:Polish Team Grand Prix - qualifications,MATCH 2_8,I,9,16,tusio,0,silesia,0
+Zawislak:45278:Polish Team Grand Prix - qualifications,MATCH 2_8,I,9,16,tusio,0,silesia,0
+Sakowicz:45278:Polish Team Grand Prix - qualifications,MATCH 2_8,I,9,16,tusio,0,silesia,0
+Pilch:45278:Polish Team Grand Prix - qualifications,MATCH 2_8,I,9,16,tusio,0,silesia,0
+Tuszynski:45278:Polish Team Grand Prix - qualifications,MATCH 2_8,I,9,16,tusio,0,silesia,0

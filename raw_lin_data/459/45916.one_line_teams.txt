@@ -1,0 +1,1 @@
+South,West,North,East,South,West,North,East:45916:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,57,Street,56

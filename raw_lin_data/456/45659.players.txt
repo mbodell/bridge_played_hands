@@ -1,0 +1,8 @@
+Kaya:45659:Turkish Open Team Trials,RR14_Last Round,P,13,24,Team 1,0,Team 2,0
+F.AydoÐdu:45659:Turkish Open Team Trials,RR14_Last Round,P,13,24,Team 1,0,Team 2,0
+KÖksoy:45659:Turkish Open Team Trials,RR14_Last Round,P,13,24,Team 1,0,Team 2,0
+N.AydoÐdu:45659:Turkish Open Team Trials,RR14_Last Round,P,13,24,Team 1,0,Team 2,0
+South:45659:Turkish Open Team Trials,RR14_Last Round,P,13,24,Team 1,0,Team 2,0
+West:45659:Turkish Open Team Trials,RR14_Last Round,P,13,24,Team 1,0,Team 2,0
+North:45659:Turkish Open Team Trials,RR14_Last Round,P,13,24,Team 1,0,Team 2,0
+East:45659:Turkish Open Team Trials,RR14_Last Round,P,13,24,Team 1,0,Team 2,0

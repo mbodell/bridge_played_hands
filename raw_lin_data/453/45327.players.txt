@@ -1,0 +1,8 @@
+Gawel:45327:Polish Team Grand Prix - qualifications,MATCH 8_8,I,9,16,BRIDGE24.PL,0,MILO,0
+Starkowski:45327:Polish Team Grand Prix - qualifications,MATCH 8_8,I,9,16,BRIDGE24.PL,0,MILO,0
+Jagniewski:45327:Polish Team Grand Prix - qualifications,MATCH 8_8,I,9,16,BRIDGE24.PL,0,MILO,0
+Harasimowi:45327:Polish Team Grand Prix - qualifications,MATCH 8_8,I,9,16,BRIDGE24.PL,0,MILO,0
+South:45327:Polish Team Grand Prix - qualifications,MATCH 8_8,I,9,16,BRIDGE24.PL,0,MILO,0
+jurek:45327:Polish Team Grand Prix - qualifications,MATCH 8_8,I,9,16,BRIDGE24.PL,0,MILO,0
+North:45327:Polish Team Grand Prix - qualifications,MATCH 8_8,I,9,16,BRIDGE24.PL,0,MILO,0
+stepinski:45327:Polish Team Grand Prix - qualifications,MATCH 8_8,I,9,16,BRIDGE24.PL,0,MILO,0

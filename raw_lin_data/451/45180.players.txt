@@ -1,0 +1,8 @@
+Baldjiiski:45180:XVII Lozenets Teams Tournament 2016,Round 2_11,I,1,8,Galata Dobri4+,0,Delfin,0
+West:45180:XVII Lozenets Teams Tournament 2016,Round 2_11,I,1,8,Galata Dobri4+,0,Delfin,0
+Cholakov:45180:XVII Lozenets Teams Tournament 2016,Round 2_11,I,1,8,Galata Dobri4+,0,Delfin,0
+East:45180:XVII Lozenets Teams Tournament 2016,Round 2_11,I,1,8,Galata Dobri4+,0,Delfin,0
+Ivvanov:45180:XVII Lozenets Teams Tournament 2016,Round 2_11,I,1,8,Galata Dobri4+,0,Delfin,0
+Gworgieva:45180:XVII Lozenets Teams Tournament 2016,Round 2_11,I,1,8,Galata Dobri4+,0,Delfin,0
+Ivanov:45180:XVII Lozenets Teams Tournament 2016,Round 2_11,I,1,8,Galata Dobri4+,0,Delfin,0
+Georgiev:45180:XVII Lozenets Teams Tournament 2016,Round 2_11,I,1,8,Galata Dobri4+,0,Delfin,0

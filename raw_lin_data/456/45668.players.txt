@@ -1,0 +1,8 @@
+South:45668:6th Tolani Open Summer Nationals 2016 Bengaluru,Pre QF 2 of 3,I,13,24,DSM,23,Texan Aces,19
+West:45668:6th Tolani Open Summer Nationals 2016 Bengaluru,Pre QF 2 of 3,I,13,24,DSM,23,Texan Aces,19
+North:45668:6th Tolani Open Summer Nationals 2016 Bengaluru,Pre QF 2 of 3,I,13,24,DSM,23,Texan Aces,19
+East:45668:6th Tolani Open Summer Nationals 2016 Bengaluru,Pre QF 2 of 3,I,13,24,DSM,23,Texan Aces,19
+South:45668:6th Tolani Open Summer Nationals 2016 Bengaluru,Pre QF 2 of 3,I,13,24,DSM,23,Texan Aces,19
+West:45668:6th Tolani Open Summer Nationals 2016 Bengaluru,Pre QF 2 of 3,I,13,24,DSM,23,Texan Aces,19
+North:45668:6th Tolani Open Summer Nationals 2016 Bengaluru,Pre QF 2 of 3,I,13,24,DSM,23,Texan Aces,19
+East:45668:6th Tolani Open Summer Nationals 2016 Bengaluru,Pre QF 2 of 3,I,13,24,DSM,23,Texan Aces,19

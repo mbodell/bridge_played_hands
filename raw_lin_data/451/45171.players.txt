@@ -1,0 +1,8 @@
+Carroll:45171:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Marcin:45171:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Hanlon:45171:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Wojech:45171:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Cotter:45171:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Hamilton:45171:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Holland:45171:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
+Campbell:45171:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0

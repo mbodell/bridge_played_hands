@@ -1,0 +1,8 @@
+Stansby:45034:2016 Women's USBC SF,Segment 8 of 8,I,16,30,Baker,266,Weingold,213
+Rosenberg:45034:2016 Women's USBC SF,Segment 8 of 8,I,16,30,Baker,266,Weingold,213
+Granovette:45034:2016 Women's USBC SF,Segment 8 of 8,I,16,30,Baker,266,Weingold,213
+Sulgrove:45034:2016 Women's USBC SF,Segment 8 of 8,I,16,30,Baker,266,Weingold,213
+South:45034:2016 Women's USBC SF,Segment 8 of 8,I,16,30,Baker,266,Weingold,213
+West:45034:2016 Women's USBC SF,Segment 8 of 8,I,16,30,Baker,266,Weingold,213
+North:45034:2016 Women's USBC SF,Segment 8 of 8,I,16,30,Baker,266,Weingold,213
+East:45034:2016 Women's USBC SF,Segment 8 of 8,I,16,30,Baker,266,Weingold,213

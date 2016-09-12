@@ -1,0 +1,8 @@
+South:45718:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,13_13,I,25,32,EWA,0,KSB Radkov-Junior,0
+West:45718:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,13_13,I,25,32,EWA,0,KSB Radkov-Junior,0
+North:45718:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,13_13,I,25,32,EWA,0,KSB Radkov-Junior,0
+East:45718:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,13_13,I,25,32,EWA,0,KSB Radkov-Junior,0
+South:45718:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,13_13,I,25,32,EWA,0,KSB Radkov-Junior,0
+West:45718:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,13_13,I,25,32,EWA,0,KSB Radkov-Junior,0
+North:45718:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,13_13,I,25,32,EWA,0,KSB Radkov-Junior,0
+East:45718:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,13_13,I,25,32,EWA,0,KSB Radkov-Junior,0

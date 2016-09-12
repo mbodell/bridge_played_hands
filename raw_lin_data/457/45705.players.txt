@@ -1,0 +1,8 @@
+Andonov:45705:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,8_13,I,17,24,Radkov2,0,Bridge+,0
+Vanchev:45705:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,8_13,I,17,24,Radkov2,0,Bridge+,0
+Popov:45705:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,8_13,I,17,24,Radkov2,0,Bridge+,0
+Bosev:45705:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,8_13,I,17,24,Radkov2,0,Bridge+,0
+South:45705:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,8_13,I,17,24,Radkov2,0,Bridge+,0
+West:45705:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,8_13,I,17,24,Radkov2,0,Bridge+,0
+North:45705:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,8_13,I,17,24,Radkov2,0,Bridge+,0
+East:45705:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,8_13,I,17,24,Radkov2,0,Bridge+,0

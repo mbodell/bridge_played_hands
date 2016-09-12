@@ -1,0 +1,8 @@
+Muller:45941:C 2016 Spingold QF,Segment 1 of 4,I,1,15,Sonsini,0,Strul,0
+Sadek:45941:C 2016 Spingold QF,Segment 1 of 4,I,1,15,Sonsini,0,Strul,0
+De Wijs:45941:C 2016 Spingold QF,Segment 1 of 4,I,1,15,Sonsini,0,Strul,0
+Elahmady:45941:C 2016 Spingold QF,Segment 1 of 4,I,1,15,Sonsini,0,Strul,0
+Becker:45941:C 2016 Spingold QF,Segment 1 of 4,I,1,15,Sonsini,0,Strul,0
+Jacobus:45941:C 2016 Spingold QF,Segment 1 of 4,I,1,15,Sonsini,0,Strul,0
+Strul:45941:C 2016 Spingold QF,Segment 1 of 4,I,1,15,Sonsini,0,Strul,0
+Sonsini:45941:C 2016 Spingold QF,Segment 1 of 4,I,1,15,Sonsini,0,Strul,0

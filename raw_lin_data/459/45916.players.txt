@@ -1,0 +1,8 @@
+South:45916:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,57,Street,56
+West:45916:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,57,Street,56
+North:45916:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,57,Street,56
+East:45916:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,57,Street,56
+South:45916:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,57,Street,56
+West:45916:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,57,Street,56
+North:45916:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,57,Street,56
+East:45916:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,57,Street,56

@@ -1,0 +1,8 @@
+Baker:45103:2016 Women's USBC FINAL,Segment 5 of 8,I,1,15,Baker,116,Palmer,175
+Shi:45103:2016 Women's USBC FINAL,Segment 5 of 8,I,1,15,Baker,116,Palmer,175
+McCallum:45103:2016 Women's USBC FINAL,Segment 5 of 8,I,1,15,Baker,116,Palmer,175
+Palmer:45103:2016 Women's USBC FINAL,Segment 5 of 8,I,1,15,Baker,116,Palmer,175
+Molson:45103:2016 Women's USBC FINAL,Segment 5 of 8,I,1,15,Baker,116,Palmer,175
+Sanborn:45103:2016 Women's USBC FINAL,Segment 5 of 8,I,1,15,Baker,116,Palmer,175
+Sokolow:45103:2016 Women's USBC FINAL,Segment 5 of 8,I,1,15,Baker,116,Palmer,175
+Levitina:45103:2016 Women's USBC FINAL,Segment 5 of 8,I,1,15,Baker,116,Palmer,175

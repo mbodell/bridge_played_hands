@@ -1,0 +1,8 @@
+Carroll:45166:Irish Invitational Pairs,Last match Sess1,I,1,8,Team 1,0,Team 2,0
+Walsh:45166:Irish Invitational Pairs,Last match Sess1,I,1,8,Team 1,0,Team 2,0
+Hanlon:45166:Irish Invitational Pairs,Last match Sess1,I,1,8,Team 1,0,Team 2,0
+McGloughli:45166:Irish Invitational Pairs,Last match Sess1,I,1,8,Team 1,0,Team 2,0
+McMaugh:45166:Irish Invitational Pairs,Last match Sess1,I,1,8,Team 1,0,Team 2,0
+Holland:45166:Irish Invitational Pairs,Last match Sess1,I,1,8,Team 1,0,Team 2,0
+MacCormac:45166:Irish Invitational Pairs,Last match Sess1,I,1,8,Team 1,0,Team 2,0
+Cotter:45166:Irish Invitational Pairs,Last match Sess1,I,1,8,Team 1,0,Team 2,0

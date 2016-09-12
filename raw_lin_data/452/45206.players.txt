@@ -1,0 +1,8 @@
+Marina:45206:2016 EBTC,OPEN RR1,I,1,16,Romania,0,Hungary,0
+Winkler:45206:2016 EBTC,OPEN RR1,I,1,16,Romania,0,Hungary,0
+Coldea:45206:2016 EBTC,OPEN RR1,I,1,16,Romania,0,Hungary,0
+Kemeny:45206:2016 EBTC,OPEN RR1,I,1,16,Romania,0,Hungary,0
+South:45206:2016 EBTC,OPEN RR1,I,1,16,Romania,0,Hungary,0
+West:45206:2016 EBTC,OPEN RR1,I,1,16,Romania,0,Hungary,0
+North:45206:2016 EBTC,OPEN RR1,I,1,16,Romania,0,Hungary,0
+East:45206:2016 EBTC,OPEN RR1,I,1,16,Romania,0,Hungary,0

@@ -1,0 +1,8 @@
+Leslie Gon:45874:Hong Kong Inter-City Bridge Championships 2016,1,I,1,12,Pertamina DKI Blue,0,Sapphire,0
+Flora Wong:45874:Hong Kong Inter-City Bridge Championships 2016,1,I,1,12,Pertamina DKI Blue,0,Sapphire,0
+David Huta:45874:Hong Kong Inter-City Bridge Championships 2016,1,I,1,12,Pertamina DKI Blue,0,Sapphire,0
+Christine:45874:Hong Kong Inter-City Bridge Championships 2016,1,I,1,12,Pertamina DKI Blue,0,Sapphire,0
+South:45874:Hong Kong Inter-City Bridge Championships 2016,1,I,1,12,Pertamina DKI Blue,0,Sapphire,0
+West:45874:Hong Kong Inter-City Bridge Championships 2016,1,I,1,12,Pertamina DKI Blue,0,Sapphire,0
+North:45874:Hong Kong Inter-City Bridge Championships 2016,1,I,1,12,Pertamina DKI Blue,0,Sapphire,0
+East:45874:Hong Kong Inter-City Bridge Championships 2016,1,I,1,12,Pertamina DKI Blue,0,Sapphire,0

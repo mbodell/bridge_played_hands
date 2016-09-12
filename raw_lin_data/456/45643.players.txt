@@ -1,0 +1,8 @@
+Guillemin:45643:france,Netherlands,I,1,12,France,288,Netherlands,378
+Nijssen:45643:france,Netherlands,I,1,12,France,288,Netherlands,378
+Boulin:45643:france,Netherlands,I,1,12,France,288,Netherlands,378
+Overvelde:45643:france,Netherlands,I,1,12,France,288,Netherlands,378
+Stougie L.:45643:france,Netherlands,I,1,12,France,288,Netherlands,378
+Basler:45643:france,Netherlands,I,1,12,France,288,Netherlands,378
+Stougie M.:45643:france,Netherlands,I,1,12,France,288,Netherlands,378
+Fragola:45643:france,Netherlands,I,1,12,France,288,Netherlands,378

@@ -1,0 +1,8 @@
+South:45299:the 27th China Friend City Senior Team Tournament,Swiss R1,I,1,10,Zigong,0,Dongguang,0
+West:45299:the 27th China Friend City Senior Team Tournament,Swiss R1,I,1,10,Zigong,0,Dongguang,0
+North:45299:the 27th China Friend City Senior Team Tournament,Swiss R1,I,1,10,Zigong,0,Dongguang,0
+East:45299:the 27th China Friend City Senior Team Tournament,Swiss R1,I,1,10,Zigong,0,Dongguang,0
+South:45299:the 27th China Friend City Senior Team Tournament,Swiss R1,I,1,10,Zigong,0,Dongguang,0
+West:45299:the 27th China Friend City Senior Team Tournament,Swiss R1,I,1,10,Zigong,0,Dongguang,0
+North:45299:the 27th China Friend City Senior Team Tournament,Swiss R1,I,1,10,Zigong,0,Dongguang,0
+East:45299:the 27th China Friend City Senior Team Tournament,Swiss R1,I,1,10,Zigong,0,Dongguang,0

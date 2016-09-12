@@ -1,0 +1,8 @@
+Basler R:45648:France,Netherlands,I,1,12,France,436,Netherlands,540
+Caris:45648:France,Netherlands,I,1,12,France,436,Netherlands,540
+Fragola:45648:France,Netherlands,I,1,12,France,436,Netherlands,540
+Dupont:45648:France,Netherlands,I,1,12,France,436,Netherlands,540
+nijssen:45648:France,Netherlands,I,1,12,France,436,Netherlands,540
+Beugin:45648:France,Netherlands,I,1,12,France,436,Netherlands,540
+overvelde:45648:France,Netherlands,I,1,12,France,436,Netherlands,540
+Dufrene:45648:France,Netherlands,I,1,12,France,436,Netherlands,540

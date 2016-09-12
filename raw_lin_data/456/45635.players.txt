@@ -1,0 +1,8 @@
+Guillemin:45635:France   Netherlands,R4,I,1,12,France,166,Netherlands,194
+Caris:45635:France   Netherlands,R4,I,1,12,France,166,Netherlands,194
+Boulin:45635:France   Netherlands,R4,I,1,12,France,166,Netherlands,194
+Dupont:45635:France   Netherlands,R4,I,1,12,France,166,Netherlands,194
+Nijsenn:45635:France   Netherlands,R4,I,1,12,France,166,Netherlands,194
+Basler:45635:France   Netherlands,R4,I,1,12,France,166,Netherlands,194
+Overvelde:45635:France   Netherlands,R4,I,1,12,France,166,Netherlands,194
+Fragola:45635:France   Netherlands,R4,I,1,12,France,166,Netherlands,194

@@ -1,0 +1,8 @@
+South:45885:2016 Wagar Final,Segment 2 of 4,I,1,15,Weingold,59,China Yellow,26
+West:45885:2016 Wagar Final,Segment 2 of 4,I,1,15,Weingold,59,China Yellow,26
+North:45885:2016 Wagar Final,Segment 2 of 4,I,1,15,Weingold,59,China Yellow,26
+East:45885:2016 Wagar Final,Segment 2 of 4,I,1,15,Weingold,59,China Yellow,26
+South:45885:2016 Wagar Final,Segment 2 of 4,I,1,15,Weingold,59,China Yellow,26
+West:45885:2016 Wagar Final,Segment 2 of 4,I,1,15,Weingold,59,China Yellow,26
+North:45885:2016 Wagar Final,Segment 2 of 4,I,1,15,Weingold,59,China Yellow,26
+East:45885:2016 Wagar Final,Segment 2 of 4,I,1,15,Weingold,59,China Yellow,26

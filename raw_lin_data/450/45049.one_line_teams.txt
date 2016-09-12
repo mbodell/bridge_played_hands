@@ -1,0 +1,1 @@
+South,West,North,East,South,West,North,East:45049:SABC - MEDELLIN,OPEN PAIRS F 2_2,P,1,22,Team 1,0,Team 2,0

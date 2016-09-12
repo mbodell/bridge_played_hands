@@ -1,0 +1,190 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45845-2016 Collegiate Championship SF,Segment 4 of 4,I,16,36,UC Berkeley,89,Northwestern,83",
+      "code": "B315",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "North"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "South"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "West"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "West"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Thapa"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "South"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45845",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45845",
+              "boards": [
+              {
+                "number": 16,
+                "is_team_event": 1,
+                "board_tables": [
+                {
+                  "table_number": 2,
+                  "home_team_number": 2,
+                  "round_number": 1,
+                  "declarer": 2,
+                  "contract_level": 2,
+                  "contract_suit": 4,
+                  "contract_doubled": 0,
+                  "contract": "2S",
+                  "ntricks_taken": 8,
+                  "board_table_scores": [
+                  {
+                    "pair_number": 2,
+                    "direction": 1,
+                    "table_result": -110
+                  },
+                  {
+                    "pair_number": 1,
+                    "direction": 2,
+                    "table_result": 110
+                  }],
+                  "board_table_biddings": [
+                  {
+                    "final_contract": "2S",
+                    "opening_lead": "H9",
+                    "declarer": "2",
+                    "board_table_bidding_rounds": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 4,
+                      "bid_n": 3,
+                      "bid_e": 4,
+                      "bid_s": 36,
+                      "bid_w": 1
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 4,
+                      "bid_n": 7,
+                      "bid_e": 9,
+                      "bid_s": 0,
+                      "bid_w": 0
+                    },
+                    {
+                      "number": 3,
+                      "first_seat_to_act": 4,
+                      "bid_n": 0,
+                      "bid_w": 0
+                    }]
+                  }],
+                  "board_table_card_plays": [
+                  {
+                    "board_table_card_play_tricks": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 3,
+                      "card_n": 14,
+                      "card_e": 24,
+                      "card_s": 19,
+                      "card_w": 15
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 1,
+                      "card_n": 25,
+                      "card_e": 23,
+                      "card_s": 12,
+                      "card_w": 26
+                    },
+                    {
+                      "number": 3,
+                      "first_seat_to_act": 2,
+                      "card_n": 39,
+                      "card_e": 32,
+                      "card_s": 38,
+                      "card_w": 27
+                    },
+                    {
+                      "number": 4,
+                      "first_seat_to_act": 4,
+                      "card_n": 22,
+                      "card_e": 7,
+                      "card_s": 16,
+                      "card_w": 21
+                    },
+                    {
+                      "number": 5,
+                      "first_seat_to_act": 3,
+                      "card_n": 29,
+                      "card_e": 10,
+                      "card_s": 37,
+                      "card_w": 35
+                    },
+                    {
+                      "number": 6,
+                      "first_seat_to_act": 1,
+                      "card_n": 1,
+                      "card_e": 2,
+                      "card_s": 13,
+                      "card_w": 9
+                    }]
+                  }],
+                  "status": 1
+                }],
+                "board_team_scores": [
+                {
+                  "closed_contract": "2S",
+                  "closed_declarer": 2,
+                  "closed_tricks_taken": 8
+                }]
+              }]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

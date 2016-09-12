@@ -1,0 +1,8 @@
+Sulgrove:45000:2016 Women's USBC QFB,Segment 2 of 4,I,16,30,Weingold,48,OSMO,18
+Smoot:45000:2016 Women's USBC QFB,Segment 2 of 4,I,16,30,Weingold,48,OSMO,18
+Rosenberg:45000:2016 Women's USBC QFB,Segment 2 of 4,I,16,30,Weingold,48,OSMO,18
+Ose:45000:2016 Women's USBC QFB,Segment 2 of 4,I,16,30,Weingold,48,OSMO,18
+Merry:45000:2016 Women's USBC QFB,Segment 2 of 4,I,16,30,Weingold,48,OSMO,18
+Weingold:45000:2016 Women's USBC QFB,Segment 2 of 4,I,16,30,Weingold,48,OSMO,18
+Saunders:45000:2016 Women's USBC QFB,Segment 2 of 4,I,16,30,Weingold,48,OSMO,18
+Assini:45000:2016 Women's USBC QFB,Segment 2 of 4,I,16,30,Weingold,48,OSMO,18

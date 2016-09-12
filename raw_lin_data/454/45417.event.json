@@ -1,0 +1,77 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45417-A 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Hamman NPC,132,Pollack,98",
+      "code": "B169",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Meckstroth"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "South"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "West"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "West"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "North"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "South"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45417",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45417",
+              "boards": [
+              {
+]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

@@ -1,0 +1,8 @@
+Weichsel:45295:A 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Gupta,47,Lewis,55
+Merblum:45295:A 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Gupta,47,Lewis,55
+Miller:45295:A 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Gupta,47,Lewis,55
+Doub:45295:A 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Gupta,47,Lewis,55
+L Lewis:45295:A 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Gupta,47,Lewis,55
+Schermer:45295:A 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Gupta,47,Lewis,55
+P Lewis:45295:A 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Gupta,47,Lewis,55
+Chambers:45295:A 2016 Senior USBC R16,Segment 3 of 6,I,1,15,Gupta,47,Lewis,55

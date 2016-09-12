@@ -1,0 +1,8 @@
+Wujkow:45151:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,KONKRET Chelmno,41,AZS Wratislavia,76
+Klukowski:45151:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,KONKRET Chelmno,41,AZS Wratislavia,76
+Mazurkiewi:45151:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,KONKRET Chelmno,41,AZS Wratislavia,76
+Gawrys:45151:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,KONKRET Chelmno,41,AZS Wratislavia,76
+Golebiowsk:45151:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,KONKRET Chelmno,41,AZS Wratislavia,76
+Kalita:45151:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,KONKRET Chelmno,41,AZS Wratislavia,76
+Romanski:45151:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,KONKRET Chelmno,41,AZS Wratislavia,76
+Nowosadzki:45151:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,KONKRET Chelmno,41,AZS Wratislavia,76

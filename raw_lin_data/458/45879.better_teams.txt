@@ -1,0 +1,1 @@
+South,West,North,East,South,West,North,East:45879:Mondial de Deauville,Patton S3,P,1,28,Team 1,0,Team 2,0

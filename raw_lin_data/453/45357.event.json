@@ -1,0 +1,173 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45357-B 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Morse NPC,40,Simson,8",
+      "code": "B12D",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Mohan"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Meltzer"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Smith"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Garner"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "Krekorian"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "Casen"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "Aker"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "Simson"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45357",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45357",
+              "boards": [
+              {
+                "number": 16,
+                "is_team_event": 1,
+                "board_tables": [
+                {
+                  "table_number": 2,
+                  "home_team_number": 2,
+                  "round_number": 1,
+                  "declarer": 4,
+                  "contract_level": 3,
+                  "contract_suit": 5,
+                  "contract_doubled": 0,
+                  "contract": "3NT",
+                  "ntricks_taken": 11,
+                  "board_table_scores": [
+                  {
+                    "pair_number": 2,
+                    "direction": 1,
+                    "table_result": -660
+                  },
+                  {
+                    "pair_number": 1,
+                    "direction": 2,
+                    "table_result": 660
+                  }],
+                  "board_table_biddings": [
+                  {
+                    "final_contract": "3NT",
+                    "opening_lead": "D9",
+                    "declarer": "4",
+                    "board_table_bidding_rounds": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 4,
+                      "bid_n": 36,
+                      "bid_e": 15,
+                      "bid_s": 0,
+                      "bid_w": 5
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 4,
+                      "bid_n": 0,
+                      "bid_w": 0
+                    }]
+                  }],
+                  "board_table_card_plays": [
+                  {
+                    "board_table_card_play_tricks": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 1,
+                      "card_n": 32,
+                      "card_e": 37,
+                      "card_s": 13,
+                      "card_w": 29
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 4,
+                      "card_n": 36,
+                      "card_e": 33,
+                      "card_s": 7,
+                      "card_w": 39
+                    },
+                    {
+                      "number": 3,
+                      "first_seat_to_act": 2,
+                      "card_n": 50,
+                      "card_e": 52,
+                      "card_s": 41,
+                      "card_w": 40
+                    },
+                    {
+                      "number": 4,
+                      "first_seat_to_act": 4,
+                      "card_n": 38,
+                      "card_e": 43,
+                      "card_s": 42,
+                      "card_w": 49
+                    },
+                    {
+                      "number": 5,
+                      "first_seat_to_act": 3,
+                      "card_n": 14,
+                      "card_s": 21,
+                      "card_w": 15
+                    }]
+                  }],
+                  "status": 1
+                }],
+                "board_team_scores": [
+                {
+                  "closed_contract": "3NT",
+                  "closed_declarer": 4,
+                  "closed_tricks_taken": 11
+                }]
+              }]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

@@ -1,0 +1,8 @@
+South:45413:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+West:45413:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+North:45413:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+East:45413:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+South:45413:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+West:45413:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+North:45413:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109
+East:45413:C 2013 Senior USBC,Segment 5 of 6,I,1,15,Koneru NPC,68,Wolfson,109

@@ -1,0 +1,8 @@
+S.Kuranogl:45729:Turkish Mixed Team Trials,Final 2_2,I,17,32,MASAL,5,MAJOR,40
+E.Sen:45729:Turkish Mixed Team Trials,Final 2_2,I,17,32,MASAL,5,MAJOR,40
+M.Kuranogl:45729:Turkish Mixed Team Trials,Final 2_2,I,17,32,MASAL,5,MAJOR,40
+T.Sen:45729:Turkish Mixed Team Trials,Final 2_2,I,17,32,MASAL,5,MAJOR,40
+Acar:45729:Turkish Mixed Team Trials,Final 2_2,I,17,32,MASAL,5,MAJOR,40
+AteÞ:45729:Turkish Mixed Team Trials,Final 2_2,I,17,32,MASAL,5,MAJOR,40
+Ayaz:45729:Turkish Mixed Team Trials,Final 2_2,I,17,32,MASAL,5,MAJOR,40
+BaÞaran:45729:Turkish Mixed Team Trials,Final 2_2,I,17,32,MASAL,5,MAJOR,40

@@ -1,0 +1,8 @@
+Ozdemir:45125:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
+Ibis:45125:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
+Oztosun:45125:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
+Padir:45125:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
+Kizilkoca:45125:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
+Orhan:45125:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
+Atak:45125:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
+Yavuz:45125:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0

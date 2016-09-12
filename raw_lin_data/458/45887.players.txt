@@ -1,0 +1,8 @@
+Welland:45887:A 2016 Spingold R32,Segment 1 of 4,I,1,15,Fleisher,0,Rigal,0
+Aker:45887:A 2016 Spingold R32,Segment 1 of 4,I,1,15,Fleisher,0,Rigal,0
+Auken:45887:A 2016 Spingold R32,Segment 1 of 4,I,1,15,Fleisher,0,Rigal,0
+Simson:45887:A 2016 Spingold R32,Segment 1 of 4,I,1,15,Fleisher,0,Rigal,0
+Falk:45887:A 2016 Spingold R32,Segment 1 of 4,I,1,15,Fleisher,0,Rigal,0
+Moss:45887:A 2016 Spingold R32,Segment 1 of 4,I,1,15,Fleisher,0,Rigal,0
+Lusky:45887:A 2016 Spingold R32,Segment 1 of 4,I,1,15,Fleisher,0,Rigal,0
+Grue:45887:A 2016 Spingold R32,Segment 1 of 4,I,1,15,Fleisher,0,Rigal,0

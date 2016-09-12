@@ -1,0 +1,8 @@
+Lall:45517:2016 Senior USBC FINAL,Segment 4 of 6,I,16,30,Hamman NPC,89,Wolfson,91
+Martel:45517:2016 Senior USBC FINAL,Segment 4 of 6,I,16,30,Hamman NPC,89,Wolfson,91
+Milner:45517:2016 Senior USBC FINAL,Segment 4 of 6,I,16,30,Hamman NPC,89,Wolfson,91
+Rosenberg:45517:2016 Senior USBC FINAL,Segment 4 of 6,I,16,30,Hamman NPC,89,Wolfson,91
+Wolfson:45517:2016 Senior USBC FINAL,Segment 4 of 6,I,16,30,Hamman NPC,89,Wolfson,91
+Zia:45517:2016 Senior USBC FINAL,Segment 4 of 6,I,16,30,Hamman NPC,89,Wolfson,91
+Silverman:45517:2016 Senior USBC FINAL,Segment 4 of 6,I,16,30,Hamman NPC,89,Wolfson,91
+Meckstroth:45517:2016 Senior USBC FINAL,Segment 4 of 6,I,16,30,Hamman NPC,89,Wolfson,91

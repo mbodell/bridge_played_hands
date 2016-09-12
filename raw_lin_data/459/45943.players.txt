@@ -1,0 +1,8 @@
+Cheek:45943:C 2016 Spingold QF,Segment 2 of 4,I,16,30,Sonsini,9,Strul,46
+Kamil:45943:C 2016 Spingold QF,Segment 2 of 4,I,16,30,Sonsini,9,Strul,46
+Bertens:45943:C 2016 Spingold QF,Segment 2 of 4,I,16,30,Sonsini,9,Strul,46
+Coren:45943:C 2016 Spingold QF,Segment 2 of 4,I,16,30,Sonsini,9,Strul,46
+Becker:45943:C 2016 Spingold QF,Segment 2 of 4,I,16,30,Sonsini,9,Strul,46
+Jacobus:45943:C 2016 Spingold QF,Segment 2 of 4,I,16,30,Sonsini,9,Strul,46
+Strul:45943:C 2016 Spingold QF,Segment 2 of 4,I,16,30,Sonsini,9,Strul,46
+Sonsini:45943:C 2016 Spingold QF,Segment 2 of 4,I,16,30,Sonsini,9,Strul,46

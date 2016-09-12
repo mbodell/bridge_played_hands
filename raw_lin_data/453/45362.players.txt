@@ -1,0 +1,8 @@
+Woolsey:45362:D 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Robinson,14,Gupta,41
+Gupta:45362:D 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Robinson,14,Gupta,41
+Stewart:45362:D 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Robinson,14,Gupta,41
+Miller:45362:D 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Robinson,14,Gupta,41
+Chambers:45362:D 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Robinson,14,Gupta,41
+Boyd:45362:D 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Robinson,14,Gupta,41
+Schermer:45362:D 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Robinson,14,Gupta,41
+Robinson:45362:D 2016 Senior USBC QF,Segment 2 of 6,I,16,30,Robinson,14,Gupta,41

@@ -1,0 +1,8 @@
+Sinha:45817:Mondial de Deauville,Champions S1_3,P,1,21,Team 1,0,Team 2,0
+Labaere:45817:Mondial de Deauville,Champions S1_3,P,1,21,Team 1,0,Team 2,0
+Gupta:45817:Mondial de Deauville,Champions S1_3,P,1,21,Team 1,0,Team 2,0
+Labaere:45817:Mondial de Deauville,Champions S1_3,P,1,21,Team 1,0,Team 2,0
+South:45817:Mondial de Deauville,Champions S1_3,P,1,21,Team 1,0,Team 2,0
+West:45817:Mondial de Deauville,Champions S1_3,P,1,21,Team 1,0,Team 2,0
+North:45817:Mondial de Deauville,Champions S1_3,P,1,21,Team 1,0,Team 2,0
+East:45817:Mondial de Deauville,Champions S1_3,P,1,21,Team 1,0,Team 2,0

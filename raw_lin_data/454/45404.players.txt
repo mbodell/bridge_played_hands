@@ -1,0 +1,8 @@
+Zia:45404:A 2016 Senior USBC  QF,Segment 3 of 6,I,1,15,Hamman NPC,72,Pollack,44
+Feldman:45404:A 2016 Senior USBC  QF,Segment 3 of 6,I,1,15,Hamman NPC,72,Pollack,44
+Meckstroth:45404:A 2016 Senior USBC  QF,Segment 3 of 6,I,1,15,Hamman NPC,72,Pollack,44
+Friedland:45404:A 2016 Senior USBC  QF,Segment 3 of 6,I,1,15,Hamman NPC,72,Pollack,44
+Cohen:45404:A 2016 Senior USBC  QF,Segment 3 of 6,I,1,15,Hamman NPC,72,Pollack,44
+Milner:45404:A 2016 Senior USBC  QF,Segment 3 of 6,I,1,15,Hamman NPC,72,Pollack,44
+Pollack:45404:A 2016 Senior USBC  QF,Segment 3 of 6,I,1,15,Hamman NPC,72,Pollack,44
+H. Lall:45404:A 2016 Senior USBC  QF,Segment 3 of 6,I,1,15,Hamman NPC,72,Pollack,44

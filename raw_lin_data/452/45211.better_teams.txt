@@ -1,0 +1,1 @@
+South,West,North,East,South,West,North,East:45211:probs,1_1,I,1,16,Kecske,0,béka,0

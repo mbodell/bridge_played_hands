@@ -1,0 +1,8 @@
+Unver:45632:Turkey Open Team Trials,rr4,P,13,24,Team 1,0,Team 2,0
+Unalan:45632:Turkey Open Team Trials,rr4,P,13,24,Team 1,0,Team 2,0
+Kaya:45632:Turkey Open Team Trials,rr4,P,13,24,Team 1,0,Team 2,0
+Tarhan:45632:Turkey Open Team Trials,rr4,P,13,24,Team 1,0,Team 2,0
+South:45632:Turkey Open Team Trials,rr4,P,13,24,Team 1,0,Team 2,0
+West:45632:Turkey Open Team Trials,rr4,P,13,24,Team 1,0,Team 2,0
+North:45632:Turkey Open Team Trials,rr4,P,13,24,Team 1,0,Team 2,0
+East:45632:Turkey Open Team Trials,rr4,P,13,24,Team 1,0,Team 2,0

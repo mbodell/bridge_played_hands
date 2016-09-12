@@ -1,0 +1,8 @@
+South:45211:probs,1_1,I,1,16,Kecske,0,béka,0
+West:45211:probs,1_1,I,1,16,Kecske,0,béka,0
+North:45211:probs,1_1,I,1,16,Kecske,0,béka,0
+East:45211:probs,1_1,I,1,16,Kecske,0,béka,0
+South:45211:probs,1_1,I,1,16,Kecske,0,béka,0
+West:45211:probs,1_1,I,1,16,Kecske,0,béka,0
+North:45211:probs,1_1,I,1,16,Kecske,0,béka,0
+East:45211:probs,1_1,I,1,16,Kecske,0,béka,0

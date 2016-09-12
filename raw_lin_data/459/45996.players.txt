@@ -1,0 +1,8 @@
+Vigmostad:45996:Norwegian Mixed Teams Championship,RR3_12,I,15,21,HADE,0,HAUGE,0
+Hauge:45996:Norwegian Mixed Teams Championship,RR3_12,I,15,21,HADE,0,HAUGE,0
+Nordby:45996:Norwegian Mixed Teams Championship,RR3_12,I,15,21,HADE,0,HAUGE,0
+A Malinows:45996:Norwegian Mixed Teams Championship,RR3_12,I,15,21,HADE,0,HAUGE,0
+GT Vist:45996:Norwegian Mixed Teams Championship,RR3_12,I,15,21,HADE,0,HAUGE,0
+A Rydning:45996:Norwegian Mixed Teams Championship,RR3_12,I,15,21,HADE,0,HAUGE,0
+Stoffers:45996:Norwegian Mixed Teams Championship,RR3_12,I,15,21,HADE,0,HAUGE,0
+D Mangset:45996:Norwegian Mixed Teams Championship,RR3_12,I,15,21,HADE,0,HAUGE,0

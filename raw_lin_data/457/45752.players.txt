@@ -1,0 +1,8 @@
+Nordmann L:45752:Liepaja BBO2 - 13th EYBPC - WOMEN,Final 9_15 - T10,P,1,10,Team 1,0,Team 2,0
+Van Ommen:45752:Liepaja BBO2 - 13th EYBPC - WOMEN,Final 9_15 - T10,P,1,10,Team 1,0,Team 2,0
+Rieger M:45752:Liepaja BBO2 - 13th EYBPC - WOMEN,Final 9_15 - T10,P,1,10,Team 1,0,Team 2,0
+Visser E:45752:Liepaja BBO2 - 13th EYBPC - WOMEN,Final 9_15 - T10,P,1,10,Team 1,0,Team 2,0
+South:45752:Liepaja BBO2 - 13th EYBPC - WOMEN,Final 9_15 - T10,P,1,10,Team 1,0,Team 2,0
+West:45752:Liepaja BBO2 - 13th EYBPC - WOMEN,Final 9_15 - T10,P,1,10,Team 1,0,Team 2,0
+North:45752:Liepaja BBO2 - 13th EYBPC - WOMEN,Final 9_15 - T10,P,1,10,Team 1,0,Team 2,0
+East:45752:Liepaja BBO2 - 13th EYBPC - WOMEN,Final 9_15 - T10,P,1,10,Team 1,0,Team 2,0

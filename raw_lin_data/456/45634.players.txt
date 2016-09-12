@@ -1,0 +1,8 @@
+Basler:45634:France   Netherlands,R3,I,1,12,France,127,Netherlands,130
+Nijssen:45634:France   Netherlands,R3,I,1,12,France,127,Netherlands,130
+Fragola:45634:France   Netherlands,R3,I,1,12,France,127,Netherlands,130
+Overvelde:45634:France   Netherlands,R3,I,1,12,France,127,Netherlands,130
+Stougie M:45634:France   Netherlands,R3,I,1,12,France,127,Netherlands,130
+Dufrene:45634:France   Netherlands,R3,I,1,12,France,127,Netherlands,130
+Stougie L:45634:France   Netherlands,R3,I,1,12,France,127,Netherlands,130
+Beugin:45634:France   Netherlands,R3,I,1,12,France,127,Netherlands,130

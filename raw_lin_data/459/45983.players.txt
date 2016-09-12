@@ -1,0 +1,8 @@
+Helgemo:45983:A 2016 Spingold SF ,Segment 3 of 4,I,1,15,Zimmermann,84,Lavazza,32
+Bianchedi:45983:A 2016 Spingold SF ,Segment 3 of 4,I,1,15,Zimmermann,84,Lavazza,32
+Helness:45983:A 2016 Spingold SF ,Segment 3 of 4,I,1,15,Zimmermann,84,Lavazza,32
+Madala:45983:A 2016 Spingold SF ,Segment 3 of 4,I,1,15,Zimmermann,84,Lavazza,32
+Duboin:45983:A 2016 Spingold SF ,Segment 3 of 4,I,1,15,Zimmermann,84,Lavazza,32
+Martens:45983:A 2016 Spingold SF ,Segment 3 of 4,I,1,15,Zimmermann,84,Lavazza,32
+Bilde:45983:A 2016 Spingold SF ,Segment 3 of 4,I,1,15,Zimmermann,84,Lavazza,32
+Multon:45983:A 2016 Spingold SF ,Segment 3 of 4,I,1,15,Zimmermann,84,Lavazza,32

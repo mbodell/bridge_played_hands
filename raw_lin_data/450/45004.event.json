@@ -1,0 +1,288 @@
+{
+  "tournaments": [
+  {
+    "sanction_number": "R123",
+    "events": [
+    {
+      "name": "45004-TestBudapest,Untitled segment,I,1,14,Team 1,0,Team 2,0",
+      "code": "AFCC",
+      "game_type": 3,
+      "team_sessions": [
+      {
+        "number": 1,
+        "team_sections": [
+        {
+          "name": 1,
+          "teams": [
+          {
+            "number": 1,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "North"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "South"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "West"
+            }]
+          },
+          {
+            "number": 2,
+            "players": [
+            {
+              "seat_number": 1,
+              "last_name": "East"
+            },
+            {
+              "seat_number": 2,
+              "last_name": "West"
+            },
+            {
+              "seat_number": 3,
+              "last_name": "North"
+            },
+            {
+              "seat_number": 4,
+              "last_name": "South"
+            }]
+          }],
+          "matches": [
+          {
+            "home_team_number": 1,
+            "away_team_number": 2,
+            "start_round_number": 1,
+            "end_round_number": 1,
+            "hand_record_set_code": "45004",
+            "match_segments": [
+            {
+              "number": 1,
+              "hand_record_set_code": "45004",
+              "boards": [
+              {
+                "number": 3,
+                "is_team_event": 1,
+                "board_tables": [
+                {
+                  "table_number": 1,
+                  "home_team_number": 1,
+                  "round_number": 1,
+                  "declarer": 1,
+                  "contract_level": 1,
+                  "contract_suit": 5,
+                  "contract_doubled": 0,
+                  "contract": "1NT",
+                  "ntricks_taken": 8,
+                  "board_table_scores": [
+                  {
+                    "pair_number": 1,
+                    "direction": 1,
+                    "table_result": 120
+                  },
+                  {
+                    "pair_number": 2,
+                    "direction": 2,
+                    "table_result": -120
+                  }],
+                  "board_table_biddings": [
+                  {
+                    "final_contract": "1NT",
+                    "opening_lead": "C3",
+                    "declarer": "1",
+                    "board_table_bidding_rounds": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 3,
+                      "bid_n": 2,
+                      "bid_e": 0,
+                      "bid_s": 1,
+                      "bid_w": 0
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 3,
+                      "bid_n": 5,
+                      "bid_e": 0,
+                      "bid_s": 3,
+                      "bid_w": 0
+                    },
+                    {
+                      "number": 3,
+                      "first_seat_to_act": 3,
+                      "bid_s": 0,
+                      "bid_w": 0
+                    }]
+                  }],
+                  "board_table_card_plays": [
+                  {
+                    "board_table_card_play_tricks": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 2,
+                      "card_n": 46,
+                      "card_e": 51,
+                      "card_s": 52,
+                      "card_w": 42
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 4,
+                      "card_n": 45,
+                      "card_e": 40,
+                      "card_s": 49,
+                      "card_w": 50
+                    },
+                    {
+                      "number": 3,
+                      "first_seat_to_act": 2,
+                      "card_e": 47,
+                      "card_s": 41
+                    }]
+                  }],
+                  "status": 1
+                }],
+                "board_team_scores": [
+                {
+                  "open_contract": "1NT",
+                  "open_declarer": 1,
+                  "open_tricks_taken": 8
+                }]
+              },
+              {
+                "number": 14,
+                "is_team_event": 1,
+                "board_tables": [
+                {
+                  "table_number": 1,
+                  "home_team_number": 1,
+                  "round_number": 1,
+                  "declarer": 2,
+                  "contract_level": 2,
+                  "contract_suit": 3,
+                  "contract_doubled": 0,
+                  "contract": "2H",
+                  "ntricks_taken": 10,
+                  "board_table_scores": [
+                  {
+                    "pair_number": 1,
+                    "direction": 1,
+                    "table_result": -170
+                  },
+                  {
+                    "pair_number": 2,
+                    "direction": 2,
+                    "table_result": 170
+                  }],
+                  "board_table_biddings": [
+                  {
+                    "final_contract": "2H",
+                    "opening_lead": "C4",
+                    "declarer": "2",
+                    "board_table_bidding_rounds": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 2,
+                      "bid_n": 0,
+                      "bid_e": 8,
+                      "bid_s": 0,
+                      "bid_w": 0
+                    }]
+                  }],
+                  "board_table_card_plays": [
+                  {
+                    "board_table_card_play_tricks": [
+                    {
+                      "number": 1,
+                      "first_seat_to_act": 3,
+                      "card_n": 41,
+                      "card_e": 43,
+                      "card_s": 50,
+                      "card_w": 51
+                    },
+                    {
+                      "number": 2,
+                      "first_seat_to_act": 1,
+                      "card_n": 40,
+                      "card_e": 24,
+                      "card_s": 49,
+                      "card_w": 48
+                    },
+                    {
+                      "number": 3,
+                      "first_seat_to_act": 1,
+                      "card_n": 20,
+                      "card_e": 25,
+                      "card_s": 14,
+                      "card_w": 26
+                    },
+                    {
+                      "number": 4,
+                      "first_seat_to_act": 3,
+                      "card_n": 15,
+                      "card_e": 21,
+                      "card_s": 23,
+                      "card_w": 22
+                    },
+                    {
+                      "number": 5,
+                      "first_seat_to_act": 1,
+                      "card_n": 7,
+                      "card_e": 11,
+                      "card_s": 3,
+                      "card_w": 12
+                    },
+                    {
+                      "number": 6,
+                      "first_seat_to_act": 3,
+                      "card_n": 28,
+                      "card_e": 27,
+                      "card_s": 32,
+                      "card_w": 38
+                    },
+                    {
+                      "number": 7,
+                      "first_seat_to_act": 2,
+                      "card_n": 19,
+                      "card_e": 42,
+                      "card_s": 46,
+                      "card_w": 52
+                    },
+                    {
+                      "number": 8,
+                      "first_seat_to_act": 2,
+                      "card_n": 17,
+                      "card_e": 16,
+                      "card_s": 36,
+                      "card_w": 45
+                    },
+                    {
+                      "number": 9,
+                      "first_seat_to_act": 4,
+                      "card_n": 1,
+                      "card_e": 13,
+                      "card_w": 9
+                    }]
+                  }],
+                  "status": 1
+                }],
+                "board_team_scores": [
+                {
+                  "open_contract": "2H",
+                  "open_declarer": 2,
+                  "open_tricks_taken": 10
+                }]
+              }]
+            }]
+          }]
+        }]
+      }]
+    }]
+  }]
+}

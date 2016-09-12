@@ -1,0 +1,1 @@
+South,West,North,East,South,West,North,East:45438:BBO3-2016EBTC,S-RR5,I,17,32,SWEDEN,0,DENMARK,0
