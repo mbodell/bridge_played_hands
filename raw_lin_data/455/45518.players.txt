@@ -1,8 +1,0 @@
-Zia:45518:2016 Senior USBC FINAL,Segment 5 of 6,I,1,15,Hamman NPC,112,Wolfson,125
-Berkowitz:45518:2016 Senior USBC FINAL,Segment 5 of 6,I,1,15,Hamman NPC,112,Wolfson,125
-Meckstroth:45518:2016 Senior USBC FINAL,Segment 5 of 6,I,1,15,Hamman NPC,112,Wolfson,125
-Sontag:45518:2016 Senior USBC FINAL,Segment 5 of 6,I,1,15,Hamman NPC,112,Wolfson,125
-Rosenberg:45518:2016 Senior USBC FINAL,Segment 5 of 6,I,1,15,Hamman NPC,112,Wolfson,125
-Hamman:45518:2016 Senior USBC FINAL,Segment 5 of 6,I,1,15,Hamman NPC,112,Wolfson,125
-Martel:45518:2016 Senior USBC FINAL,Segment 5 of 6,I,1,15,Hamman NPC,112,Wolfson,125
-Lair:45518:2016 Senior USBC FINAL,Segment 5 of 6,I,1,15,Hamman NPC,112,Wolfson,125

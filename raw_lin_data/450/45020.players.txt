@@ -1,8 +1,0 @@
-Baker:45020:A 2016 Women's USBC,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-Rosenberg:45020:A 2016 Women's USBC,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-McCallum:45020:A 2016 Women's USBC,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-Sulgrove:45020:A 2016 Women's USBC,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-South:45020:A 2016 Women's USBC,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-West:45020:A 2016 Women's USBC,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-North:45020:A 2016 Women's USBC,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-East:45020:A 2016 Women's USBC,Segment 5 of 8,I,1,15,Baker,143,Weingold,150

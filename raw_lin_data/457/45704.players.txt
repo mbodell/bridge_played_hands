@@ -1,8 +1,0 @@
-Rutkowski:45704:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,9_13,I,25,32,EWA,0,Radkov2,0
-West:45704:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,9_13,I,25,32,EWA,0,Radkov2,0
-Korpeta:45704:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,9_13,I,25,32,EWA,0,Radkov2,0
-East:45704:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,9_13,I,25,32,EWA,0,Radkov2,0
-South:45704:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,9_13,I,25,32,EWA,0,Radkov2,0
-West:45704:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,9_13,I,25,32,EWA,0,Radkov2,0
-North:45704:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,9_13,I,25,32,EWA,0,Radkov2,0
-East:45704:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,9_13,I,25,32,EWA,0,Radkov2,0

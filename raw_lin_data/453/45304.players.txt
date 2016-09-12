@@ -1,8 +1,0 @@
-zhangyd:45304:the 27th China Friend City Senior Team Tournament,Swiss R2,I,1,10,ShaoShen,0,Zhuzhou,0
-yanjn:45304:the 27th China Friend City Senior Team Tournament,Swiss R2,I,1,10,ShaoShen,0,Zhuzhou,0
-lansz:45304:the 27th China Friend City Senior Team Tournament,Swiss R2,I,1,10,ShaoShen,0,Zhuzhou,0
-lixl:45304:the 27th China Friend City Senior Team Tournament,Swiss R2,I,1,10,ShaoShen,0,Zhuzhou,0
-RanZL:45304:the 27th China Friend City Senior Team Tournament,Swiss R2,I,1,10,ShaoShen,0,Zhuzhou,0
-XuJM:45304:the 27th China Friend City Senior Team Tournament,Swiss R2,I,1,10,ShaoShen,0,Zhuzhou,0
-YangJY:45304:the 27th China Friend City Senior Team Tournament,Swiss R2,I,1,10,ShaoShen,0,Zhuzhou,0
-LiaoGX:45304:the 27th China Friend City Senior Team Tournament,Swiss R2,I,1,10,ShaoShen,0,Zhuzhou,0

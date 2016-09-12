@@ -1,8 +1,0 @@
-Sulgrove:45901:2016 Wagar Final,Segment 4 of 4,I,17,31,Weingold,98,China Yellow,101
-Zhou:45901:2016 Wagar Final,Segment 4 of 4,I,17,31,Weingold,98,China Yellow,101
-Cappellett:45901:2016 Wagar Final,Segment 4 of 4,I,17,31,Weingold,98,China Yellow,101
-Gu:45901:2016 Wagar Final,Segment 4 of 4,I,17,31,Weingold,98,China Yellow,101
-Gan:45901:2016 Wagar Final,Segment 4 of 4,I,17,31,Weingold,98,China Yellow,101
-Ponomareva:45901:2016 Wagar Final,Segment 4 of 4,I,17,31,Weingold,98,China Yellow,101
-Wang:45901:2016 Wagar Final,Segment 4 of 4,I,17,31,Weingold,98,China Yellow,101
-Gromova:45901:2016 Wagar Final,Segment 4 of 4,I,17,31,Weingold,98,China Yellow,101

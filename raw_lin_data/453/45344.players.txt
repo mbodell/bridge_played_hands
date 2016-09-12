@@ -1,8 +1,0 @@
-Gawel:45344:Polish Team Grand Prix - semifinal,SEGMENT 2_2,I,9,16,BRIDGE24.PL,18,MILO,7
-Starkowski:45344:Polish Team Grand Prix - semifinal,SEGMENT 2_2,I,9,16,BRIDGE24.PL,18,MILO,7
-Jagniewski:45344:Polish Team Grand Prix - semifinal,SEGMENT 2_2,I,9,16,BRIDGE24.PL,18,MILO,7
-A. Harasim:45344:Polish Team Grand Prix - semifinal,SEGMENT 2_2,I,9,16,BRIDGE24.PL,18,MILO,7
-kuc-dzierz:45344:Polish Team Grand Prix - semifinal,SEGMENT 2_2,I,9,16,BRIDGE24.PL,18,MILO,7
-jurek:45344:Polish Team Grand Prix - semifinal,SEGMENT 2_2,I,9,16,BRIDGE24.PL,18,MILO,7
-straszewsk:45344:Polish Team Grand Prix - semifinal,SEGMENT 2_2,I,9,16,BRIDGE24.PL,18,MILO,7
-stepinski:45344:Polish Team Grand Prix - semifinal,SEGMENT 2_2,I,9,16,BRIDGE24.PL,18,MILO,7

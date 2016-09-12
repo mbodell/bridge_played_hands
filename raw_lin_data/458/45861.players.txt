@@ -1,8 +1,0 @@
-Pöppönen:45861:Finnish Cup 2016,SF,I,1,16,Utter,0,Kallunki,0
-Pesonen:45861:Finnish Cup 2016,SF,I,1,16,Utter,0,Kallunki,0
-Utter:45861:Finnish Cup 2016,SF,I,1,16,Utter,0,Kallunki,0
-Stubb:45861:Finnish Cup 2016,SF,I,1,16,Utter,0,Kallunki,0
-Toivonen:45861:Finnish Cup 2016,SF,I,1,16,Utter,0,Kallunki,0
-Viitasalo:45861:Finnish Cup 2016,SF,I,1,16,Utter,0,Kallunki,0
-Kallunki:45861:Finnish Cup 2016,SF,I,1,16,Utter,0,Kallunki,0
-Kiema:45861:Finnish Cup 2016,SF,I,1,16,Utter,0,Kallunki,0

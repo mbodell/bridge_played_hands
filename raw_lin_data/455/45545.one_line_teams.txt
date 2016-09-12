@@ -1,1 +1,0 @@
-South,West,North,East,South,West,North,East:45545:TRial ,Untitled segment,I,1,8,Team 1,0,Team 2,0

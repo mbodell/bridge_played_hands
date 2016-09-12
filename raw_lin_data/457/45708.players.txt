@@ -1,8 +1,0 @@
-Danailov:45708:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,10_13,I,1,8,Bridge+,0,Radkov2,0
-Andonov:45708:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,10_13,I,1,8,Bridge+,0,Radkov2,0
-Stamatov:45708:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,10_13,I,1,8,Bridge+,0,Radkov2,0
-Popov:45708:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,10_13,I,1,8,Bridge+,0,Radkov2,0
-Radev:45708:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,10_13,I,1,8,Bridge+,0,Radkov2,0
-Vanchev:45708:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,10_13,I,1,8,Bridge+,0,Radkov2,0
-Nedkov:45708:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,10_13,I,1,8,Bridge+,0,Radkov2,0
-Bosev:45708:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,10_13,I,1,8,Bridge+,0,Radkov2,0

@@ -1,1 +1,0 @@
-South,West,North,East,South,West,North,East:45800:EUSA Games Zagreb - Rijeka 2016,ROUND 10,I,13,24,CZECH REP,0,GERMANY,0

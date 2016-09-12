@@ -1,8 +1,0 @@
-Smith:45605:BBO4 2016 ANC - Youth Teams,Final 1_4,I,1,14,NSW,28,WA,0
-West:45605:BBO4 2016 ANC - Youth Teams,Final 1_4,I,1,14,NSW,28,WA,0
-Peacock:45605:BBO4 2016 ANC - Youth Teams,Final 1_4,I,1,14,NSW,28,WA,0
-East:45605:BBO4 2016 ANC - Youth Teams,Final 1_4,I,1,14,NSW,28,WA,0
-Mcgrath:45605:BBO4 2016 ANC - Youth Teams,Final 1_4,I,1,14,NSW,28,WA,0
-Mcmahon:45605:BBO4 2016 ANC - Youth Teams,Final 1_4,I,1,14,NSW,28,WA,0
-Cooper:45605:BBO4 2016 ANC - Youth Teams,Final 1_4,I,1,14,NSW,28,WA,0
-Mcmahon:45605:BBO4 2016 ANC - Youth Teams,Final 1_4,I,1,14,NSW,28,WA,0

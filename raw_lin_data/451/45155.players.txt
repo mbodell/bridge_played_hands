@@ -1,8 +1,0 @@
-Wujkow:45155:Polish Premier League - semifinal,SEGMENT 5_6,I,1,12,KONKRET Chelmno,96,AZS Wratislavia,109
-Zatorski:45155:Polish Premier League - semifinal,SEGMENT 5_6,I,1,12,KONKRET Chelmno,96,AZS Wratislavia,109
-Mazurkiewi:45155:Polish Premier League - semifinal,SEGMENT 5_6,I,1,12,KONKRET Chelmno,96,AZS Wratislavia,109
-Kwiecien:45155:Polish Premier League - semifinal,SEGMENT 5_6,I,1,12,KONKRET Chelmno,96,AZS Wratislavia,109
-Klukowski:45155:Polish Premier League - semifinal,SEGMENT 5_6,I,1,12,KONKRET Chelmno,96,AZS Wratislavia,109
-Kalita:45155:Polish Premier League - semifinal,SEGMENT 5_6,I,1,12,KONKRET Chelmno,96,AZS Wratislavia,109
-Gawrys:45155:Polish Premier League - semifinal,SEGMENT 5_6,I,1,12,KONKRET Chelmno,96,AZS Wratislavia,109
-Nowosadzki:45155:Polish Premier League - semifinal,SEGMENT 5_6,I,1,12,KONKRET Chelmno,96,AZS Wratislavia,109

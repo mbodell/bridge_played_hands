@@ -1,8 +1,0 @@
-Hampson:45917:D 2016 Spingold R16,Segment 3 of 4,I,1,15,Diamond,58,Wolfson,62
-Smith:45917:D 2016 Spingold R16,Segment 3 of 4,I,1,15,Diamond,58,Wolfson,62
-Greco:45917:D 2016 Spingold R16,Segment 3 of 4,I,1,15,Diamond,58,Wolfson,62
-Garner:45917:D 2016 Spingold R16,Segment 3 of 4,I,1,15,Diamond,58,Wolfson,62
-Cohen:45917:D 2016 Spingold R16,Segment 3 of 4,I,1,15,Diamond,58,Wolfson,62
-Bathurst:45917:D 2016 Spingold R16,Segment 3 of 4,I,1,15,Diamond,58,Wolfson,62
-Cohler:45917:D 2016 Spingold R16,Segment 3 of 4,I,1,15,Diamond,58,Wolfson,62
-Lall:45917:D 2016 Spingold R16,Segment 3 of 4,I,1,15,Diamond,58,Wolfson,62

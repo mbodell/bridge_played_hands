@@ -1,8 +1,0 @@
-Hoenig:45607:BBO2 2016 ANC - Women's Teams,Final 1_4,I,1,14,QLD,2,ACT,0
-Tutty:45607:BBO2 2016 ANC - Women's Teams,Final 1_4,I,1,14,QLD,2,ACT,0
-Tucker:45607:BBO2 2016 ANC - Women's Teams,Final 1_4,I,1,14,QLD,2,ACT,0
-Bourke:45607:BBO2 2016 ANC - Women's Teams,Final 1_4,I,1,14,QLD,2,ACT,0
-Leach:45607:BBO2 2016 ANC - Women's Teams,Final 1_4,I,1,14,QLD,2,ACT,0
-Millar:45607:BBO2 2016 ANC - Women's Teams,Final 1_4,I,1,14,QLD,2,ACT,0
-Moffat:45607:BBO2 2016 ANC - Women's Teams,Final 1_4,I,1,14,QLD,2,ACT,0
-Obrien:45607:BBO2 2016 ANC - Women's Teams,Final 1_4,I,1,14,QLD,2,ACT,0

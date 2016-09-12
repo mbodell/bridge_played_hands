@@ -1,8 +1,0 @@
-Wilkinson:45608:BBO1 2016 ANC - Open Teams,Final 1_4,I,1,14,NSW,14,WA,0
-Wilson:45608:BBO1 2016 ANC - Open Teams,Final 1_4,I,1,14,NSW,14,WA,0
-Vadas:45608:BBO1 2016 ANC - Open Teams,Final 1_4,I,1,14,NSW,14,WA,0
-Warren:45608:BBO1 2016 ANC - Open Teams,Final 1_4,I,1,14,NSW,14,WA,0
-Mulley:45608:BBO1 2016 ANC - Open Teams,Final 1_4,I,1,14,NSW,14,WA,0
-Brown:45608:BBO1 2016 ANC - Open Teams,Final 1_4,I,1,14,NSW,14,WA,0
-Munro:45608:BBO1 2016 ANC - Open Teams,Final 1_4,I,1,14,NSW,14,WA,0
-Buchen:45608:BBO1 2016 ANC - Open Teams,Final 1_4,I,1,14,NSW,14,WA,0

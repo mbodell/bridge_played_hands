@@ -1,8 +1,0 @@
-Zatorski:45169:Polish Premier League - FINAL,SEGMENT 4_8,I,13,24,AZS Wratislavia,55,LATTERIA T-S Rzepin,49
-Nowak:45169:Polish Premier League - FINAL,SEGMENT 4_8,I,13,24,AZS Wratislavia,55,LATTERIA T-S Rzepin,49
-Kwiecieñ:45169:Polish Premier League - FINAL,SEGMENT 4_8,I,13,24,AZS Wratislavia,55,LATTERIA T-S Rzepin,49
-Tuszynski:45169:Polish Premier League - FINAL,SEGMENT 4_8,I,13,24,AZS Wratislavia,55,LATTERIA T-S Rzepin,49
-Szczepansk:45169:Polish Premier League - FINAL,SEGMENT 4_8,I,13,24,AZS Wratislavia,55,LATTERIA T-S Rzepin,49
-Romanski:45169:Polish Premier League - FINAL,SEGMENT 4_8,I,13,24,AZS Wratislavia,55,LATTERIA T-S Rzepin,49
-Sakowicz:45169:Polish Premier League - FINAL,SEGMENT 4_8,I,13,24,AZS Wratislavia,55,LATTERIA T-S Rzepin,49
-Golebiowsk:45169:Polish Premier League - FINAL,SEGMENT 4_8,I,13,24,AZS Wratislavia,55,LATTERIA T-S Rzepin,49

@@ -1,8 +1,0 @@
-Martel:45896:A 2016 Spingold R32,Segment 3 of 4,I,1,15,Fleisher,65,Rigal,56
-Aker:45896:A 2016 Spingold R32,Segment 3 of 4,I,1,15,Fleisher,65,Rigal,56
-Fleisher:45896:A 2016 Spingold R32,Segment 3 of 4,I,1,15,Fleisher,65,Rigal,56
-Simson:45896:A 2016 Spingold R32,Segment 3 of 4,I,1,15,Fleisher,65,Rigal,56
-Milgrim:45896:A 2016 Spingold R32,Segment 3 of 4,I,1,15,Fleisher,65,Rigal,56
-Grue:45896:A 2016 Spingold R32,Segment 3 of 4,I,1,15,Fleisher,65,Rigal,56
-Rigal:45896:A 2016 Spingold R32,Segment 3 of 4,I,1,15,Fleisher,65,Rigal,56
-Moss:45896:A 2016 Spingold R32,Segment 3 of 4,I,1,15,Fleisher,65,Rigal,56

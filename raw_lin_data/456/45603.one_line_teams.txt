@@ -1,1 +1,0 @@
-South,West,North,East,South,West,North,East:45603:XXXIV IBF Albena Bulgaria,5_13,I,1,8,Chenge,0,Gorski,2

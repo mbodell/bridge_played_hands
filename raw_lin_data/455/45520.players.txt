@@ -1,8 +1,0 @@
-South:45520:the 27th China Friend City Senior Team Tournament,Final R3,I,1,10,GuangXi,26,HuNan,82
-West:45520:the 27th China Friend City Senior Team Tournament,Final R3,I,1,10,GuangXi,26,HuNan,82
-North:45520:the 27th China Friend City Senior Team Tournament,Final R3,I,1,10,GuangXi,26,HuNan,82
-East:45520:the 27th China Friend City Senior Team Tournament,Final R3,I,1,10,GuangXi,26,HuNan,82
-South:45520:the 27th China Friend City Senior Team Tournament,Final R3,I,1,10,GuangXi,26,HuNan,82
-West:45520:the 27th China Friend City Senior Team Tournament,Final R3,I,1,10,GuangXi,26,HuNan,82
-North:45520:the 27th China Friend City Senior Team Tournament,Final R3,I,1,10,GuangXi,26,HuNan,82
-East:45520:the 27th China Friend City Senior Team Tournament,Final R3,I,1,10,GuangXi,26,HuNan,82

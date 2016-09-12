@@ -1,8 +1,0 @@
-Klukowski:45188:Polish Premier League - FINAL,SEGMENT 7_8,I,1,12,AZS Wratislavia,105,LATTERIA T-S Rzepin,156
-Nowak:45188:Polish Premier League - FINAL,SEGMENT 7_8,I,1,12,AZS Wratislavia,105,LATTERIA T-S Rzepin,156
-Gawrys:45188:Polish Premier League - FINAL,SEGMENT 7_8,I,1,12,AZS Wratislavia,105,LATTERIA T-S Rzepin,156
-Tuszynski:45188:Polish Premier League - FINAL,SEGMENT 7_8,I,1,12,AZS Wratislavia,105,LATTERIA T-S Rzepin,156
-Sakowicz:45188:Polish Premier League - FINAL,SEGMENT 7_8,I,1,12,AZS Wratislavia,105,LATTERIA T-S Rzepin,156
-Romanski:45188:Polish Premier League - FINAL,SEGMENT 7_8,I,1,12,AZS Wratislavia,105,LATTERIA T-S Rzepin,156
-Szczepansk:45188:Polish Premier League - FINAL,SEGMENT 7_8,I,1,12,AZS Wratislavia,105,LATTERIA T-S Rzepin,156
-Golebiowsk:45188:Polish Premier League - FINAL,SEGMENT 7_8,I,1,12,AZS Wratislavia,105,LATTERIA T-S Rzepin,156

@@ -1,8 +1,0 @@
-ajay khare:45577:Maharashtra State Championship,RR3,I,21,30,Sunil Machhar,0,Adventure,0
-suhas josh:45577:Maharashtra State Championship,RR3,I,21,30,Sunil Machhar,0,Adventure,0
-anil pandh:45577:Maharashtra State Championship,RR3,I,21,30,Sunil Machhar,0,Adventure,0
-hemant pur:45577:Maharashtra State Championship,RR3,I,21,30,Sunil Machhar,0,Adventure,0
-South:45577:Maharashtra State Championship,RR3,I,21,30,Sunil Machhar,0,Adventure,0
-West:45577:Maharashtra State Championship,RR3,I,21,30,Sunil Machhar,0,Adventure,0
-North:45577:Maharashtra State Championship,RR3,I,21,30,Sunil Machhar,0,Adventure,0
-East:45577:Maharashtra State Championship,RR3,I,21,30,Sunil Machhar,0,Adventure,0

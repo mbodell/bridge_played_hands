@@ -1,8 +1,0 @@
-Gawel:45347:Polish Team Grand Prix - FINAL,SEGMENT 1_2,I,1,8,BRIDGE24.PL,3,GULA,0
-Sliwon:45347:Polish Team Grand Prix - FINAL,SEGMENT 1_2,I,1,8,BRIDGE24.PL,3,GULA,0
-Jagniewski:45347:Polish Team Grand Prix - FINAL,SEGMENT 1_2,I,1,8,BRIDGE24.PL,3,GULA,0
-Matkowski:45347:Polish Team Grand Prix - FINAL,SEGMENT 1_2,I,1,8,BRIDGE24.PL,3,GULA,0
-z gula:45347:Polish Team Grand Prix - FINAL,SEGMENT 1_2,I,1,8,BRIDGE24.PL,3,GULA,0
-jurek:45347:Polish Team Grand Prix - FINAL,SEGMENT 1_2,I,1,8,BRIDGE24.PL,3,GULA,0
-matlak:45347:Polish Team Grand Prix - FINAL,SEGMENT 1_2,I,1,8,BRIDGE24.PL,3,GULA,0
-stepinski:45347:Polish Team Grand Prix - FINAL,SEGMENT 1_2,I,1,8,BRIDGE24.PL,3,GULA,0

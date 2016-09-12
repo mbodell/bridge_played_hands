@@ -1,1 +1,0 @@
-Marina,Winkler,Coldea,Kemeny,South,West,North,East:45773:2016 EBTC,OPEN RR1,I,1,16,Team 1,0,Team 2,0

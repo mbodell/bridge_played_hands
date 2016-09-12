@@ -1,8 +1,0 @@
-Ercan:45118:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
-Mamus:45118:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
-Ozoglu:45118:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
-Seckin:45118:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
-Posaci:45118:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
-Eregar:45118:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
-Gedik:45118:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0
-Uygun:45118:Turkish Club Teams Championship Aegean Playoffs,2_15,I,15,28,ALTAY SDGSKD,0,TIRE BELEDIYE,0

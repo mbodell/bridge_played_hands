@@ -1,8 +1,0 @@
-Basler:45638:France,Netherlands,I,1,12,France,288,Netherlands,378
-Stougie M:45638:France,Netherlands,I,1,12,France,288,Netherlands,378
-Fragola:45638:France,Netherlands,I,1,12,France,288,Netherlands,378
-Stougie L:45638:France,Netherlands,I,1,12,France,288,Netherlands,378
-Dupont:45638:France,Netherlands,I,1,12,France,288,Netherlands,378
-Beugin:45638:France,Netherlands,I,1,12,France,288,Netherlands,378
-Caris:45638:France,Netherlands,I,1,12,France,288,Netherlands,378
-Dufrene:45638:France,Netherlands,I,1,12,France,288,Netherlands,378

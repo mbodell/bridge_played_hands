@@ -1,8 +1,0 @@
-Roman:45823:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-A Grossack:45823:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-Martel:45823:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-Smith:45823:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-South:45823:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-West:45823:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-North:45823:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-East:45823:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97

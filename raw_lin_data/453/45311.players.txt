@@ -1,8 +1,0 @@
-South:45311:Polish Team Grand Prix - qualifications,MATCH 4_8,I,1,8,FIFI,0,FORTA,0
-West:45311:Polish Team Grand Prix - qualifications,MATCH 4_8,I,1,8,FIFI,0,FORTA,0
-North:45311:Polish Team Grand Prix - qualifications,MATCH 4_8,I,1,8,FIFI,0,FORTA,0
-East:45311:Polish Team Grand Prix - qualifications,MATCH 4_8,I,1,8,FIFI,0,FORTA,0
-South:45311:Polish Team Grand Prix - qualifications,MATCH 4_8,I,1,8,FIFI,0,FORTA,0
-West:45311:Polish Team Grand Prix - qualifications,MATCH 4_8,I,1,8,FIFI,0,FORTA,0
-North:45311:Polish Team Grand Prix - qualifications,MATCH 4_8,I,1,8,FIFI,0,FORTA,0
-East:45311:Polish Team Grand Prix - qualifications,MATCH 4_8,I,1,8,FIFI,0,FORTA,0

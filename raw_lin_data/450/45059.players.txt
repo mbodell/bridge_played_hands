@@ -1,8 +1,0 @@
-Molson:45059:2016 Women's USBC FINAL,Segment 1 of 8,I,1,15,Baker,0,Palmer,0
-Granovette:45059:2016 Women's USBC FINAL,Segment 1 of 8,I,1,15,Baker,0,Palmer,0
-Sokolow:45059:2016 Women's USBC FINAL,Segment 1 of 8,I,1,15,Baker,0,Palmer,0
-Stansby:45059:2016 Women's USBC FINAL,Segment 1 of 8,I,1,15,Baker,0,Palmer,0
-Sanborn:45059:2016 Women's USBC FINAL,Segment 1 of 8,I,1,15,Baker,0,Palmer,0
-Shi:45059:2016 Women's USBC FINAL,Segment 1 of 8,I,1,15,Baker,0,Palmer,0
-Levitina:45059:2016 Women's USBC FINAL,Segment 1 of 8,I,1,15,Baker,0,Palmer,0
-Palmer:45059:2016 Women's USBC FINAL,Segment 1 of 8,I,1,15,Baker,0,Palmer,0

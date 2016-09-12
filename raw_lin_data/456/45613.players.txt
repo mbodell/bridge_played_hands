@@ -1,8 +1,0 @@
-Smith:45613:BBO4 2016 ANC - Youth Teams,Final 2_4,I,15,28,NSW,105,WA,20
-O'reily:45613:BBO4 2016 ANC - Youth Teams,Final 2_4,I,15,28,NSW,105,WA,20
-Peacock:45613:BBO4 2016 ANC - Youth Teams,Final 2_4,I,15,28,NSW,105,WA,20
-Fuller:45613:BBO4 2016 ANC - Youth Teams,Final 2_4,I,15,28,NSW,105,WA,20
-Mcgrath:45613:BBO4 2016 ANC - Youth Teams,Final 2_4,I,15,28,NSW,105,WA,20
-Mcmahon:45613:BBO4 2016 ANC - Youth Teams,Final 2_4,I,15,28,NSW,105,WA,20
-Cooper:45613:BBO4 2016 ANC - Youth Teams,Final 2_4,I,15,28,NSW,105,WA,20
-Mcmahon:45613:BBO4 2016 ANC - Youth Teams,Final 2_4,I,15,28,NSW,105,WA,20

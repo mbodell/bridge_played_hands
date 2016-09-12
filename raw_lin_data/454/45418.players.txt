@@ -1,8 +1,0 @@
-Zia:45418:A 2016 Senior USBC QF,Segment 5 of 6,I,1,15,Hamman NPC,112,Pollack,88
-Beatty:45418:A 2016 Senior USBC QF,Segment 5 of 6,I,1,15,Hamman NPC,112,Pollack,88
-Meckstroth:45418:A 2016 Senior USBC QF,Segment 5 of 6,I,1,15,Hamman NPC,112,Pollack,88
-Robbins:45418:A 2016 Senior USBC QF,Segment 5 of 6,I,1,15,Hamman NPC,112,Pollack,88
-Cohen:45418:A 2016 Senior USBC QF,Segment 5 of 6,I,1,15,Hamman NPC,112,Pollack,88
-Hamman:45418:A 2016 Senior USBC QF,Segment 5 of 6,I,1,15,Hamman NPC,112,Pollack,88
-Pollack:45418:A 2016 Senior USBC QF,Segment 5 of 6,I,1,15,Hamman NPC,112,Pollack,88
-Lair:45418:A 2016 Senior USBC QF,Segment 5 of 6,I,1,15,Hamman NPC,112,Pollack,88

@@ -1,8 +1,0 @@
-Song:45856:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,13,27,U Chicago,85,Northwestern,102
-Kim:45856:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,13,27,U Chicago,85,Northwestern,102
-Okamoto:45856:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,13,27,U Chicago,85,Northwestern,102
-Xiao:45856:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,13,27,U Chicago,85,Northwestern,102
-South:45856:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,13,27,U Chicago,85,Northwestern,102
-West:45856:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,13,27,U Chicago,85,Northwestern,102
-North:45856:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,13,27,U Chicago,85,Northwestern,102
-East:45856:2016 Collegiate Championship PLAYOFF,Segment 4 of 4,I,13,27,U Chicago,85,Northwestern,102

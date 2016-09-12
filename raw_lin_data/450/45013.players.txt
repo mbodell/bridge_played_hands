@@ -1,8 +1,0 @@
-Lewis:45013:2016 Women's USBC SF,Segment 4 of 8,I,16,30,Wittes,52,Palmer,87
-Deas:45013:2016 Women's USBC SF,Segment 4 of 8,I,16,30,Wittes,52,Palmer,87
-Disa:45013:2016 Women's USBC SF,Segment 4 of 8,I,16,30,Wittes,52,Palmer,87
-Chambers:45013:2016 Women's USBC SF,Segment 4 of 8,I,16,30,Wittes,52,Palmer,87
-Shi:45013:2016 Women's USBC SF,Segment 4 of 8,I,16,30,Wittes,52,Palmer,87
-Wittes:45013:2016 Women's USBC SF,Segment 4 of 8,I,16,30,Wittes,52,Palmer,87
-Palmer:45013:2016 Women's USBC SF,Segment 4 of 8,I,16,30,Wittes,52,Palmer,87
-Bjerkan:45013:2016 Women's USBC SF,Segment 4 of 8,I,16,30,Wittes,52,Palmer,87

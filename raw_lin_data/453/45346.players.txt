@@ -1,8 +1,0 @@
-Weichsel:45346:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-Doub:45346:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-Miller:45346:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-Itabashi:45346:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-L. Lewis:45346:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-Schermer:45346:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-P. Lewis:45346:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97
-Chambers:45346:A 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Gupta,112,Lewis,97

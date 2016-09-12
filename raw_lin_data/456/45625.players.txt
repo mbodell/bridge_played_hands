@@ -1,8 +1,0 @@
-South:45625:France-Netherlands,R1,I,1,12,France,0,Netherlands,0
-West:45625:France-Netherlands,R1,I,1,12,France,0,Netherlands,0
-North:45625:France-Netherlands,R1,I,1,12,France,0,Netherlands,0
-East:45625:France-Netherlands,R1,I,1,12,France,0,Netherlands,0
-South:45625:France-Netherlands,R1,I,1,12,France,0,Netherlands,0
-West:45625:France-Netherlands,R1,I,1,12,France,0,Netherlands,0
-North:45625:France-Netherlands,R1,I,1,12,France,0,Netherlands,0
-East:45625:France-Netherlands,R1,I,1,12,France,0,Netherlands,0

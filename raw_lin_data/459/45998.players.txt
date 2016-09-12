@@ -1,8 +1,0 @@
-Danielsen:45998:Norwegian Mixed Teams Championship,RR4_12,I,22,28,YLAJAI,0,HADE,0
-Vigomstad:45998:Norwegian Mixed Teams Championship,RR4_12,I,22,28,YLAJAI,0,HADE,0
-Jakobsen:45998:Norwegian Mixed Teams Championship,RR4_12,I,22,28,YLAJAI,0,HADE,0
-Nordby:45998:Norwegian Mixed Teams Championship,RR4_12,I,22,28,YLAJAI,0,HADE,0
-D Mangset:45998:Norwegian Mixed Teams Championship,RR4_12,I,22,28,YLAJAI,0,HADE,0
-I Larssen:45998:Norwegian Mixed Teams Championship,RR4_12,I,22,28,YLAJAI,0,HADE,0
-A Rydning:45998:Norwegian Mixed Teams Championship,RR4_12,I,22,28,YLAJAI,0,HADE,0
-JH Herland:45998:Norwegian Mixed Teams Championship,RR4_12,I,22,28,YLAJAI,0,HADE,0

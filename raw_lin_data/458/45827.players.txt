@@ -1,8 +1,0 @@
-DRosenberg:45827:2016 A GNT SF,Segment 1 of 4,I,1,15,D21 Martel,0,D20 Stoltz,0
-Roman:45827:2016 A GNT SF,Segment 1 of 4,I,1,15,D21 Martel,0,D20 Stoltz,0
-Grainger:45827:2016 A GNT SF,Segment 1 of 4,I,1,15,D21 Martel,0,D20 Stoltz,0
-Bertens:45827:2016 A GNT SF,Segment 1 of 4,I,1,15,D21 Martel,0,D20 Stoltz,0
-Stoltz:45827:2016 A GNT SF,Segment 1 of 4,I,1,15,D21 Martel,0,D20 Stoltz,0
-J Stansby:45827:2016 A GNT SF,Segment 1 of 4,I,1,15,D21 Martel,0,D20 Stoltz,0
-McNay:45827:2016 A GNT SF,Segment 1 of 4,I,1,15,D21 Martel,0,D20 Stoltz,0
-L Stansby:45827:2016 A GNT SF,Segment 1 of 4,I,1,15,D21 Martel,0,D20 Stoltz,0

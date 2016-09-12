@@ -1,8 +1,0 @@
-Zia:45491:2016 Senior USBC FINAL,Segment 2 of 6,I,16,30,Hamman NPC,25,Wolfson,16
-Martel:45491:2016 Senior USBC FINAL,Segment 2 of 6,I,16,30,Hamman NPC,25,Wolfson,16
-Meckstroth:45491:2016 Senior USBC FINAL,Segment 2 of 6,I,16,30,Hamman NPC,25,Wolfson,16
-Rosenberg:45491:2016 Senior USBC FINAL,Segment 2 of 6,I,16,30,Hamman NPC,25,Wolfson,16
-Silverman:45491:2016 Senior USBC FINAL,Segment 2 of 6,I,16,30,Hamman NPC,25,Wolfson,16
-Hamman:45491:2016 Senior USBC FINAL,Segment 2 of 6,I,16,30,Hamman NPC,25,Wolfson,16
-Wolfson:45491:2016 Senior USBC FINAL,Segment 2 of 6,I,16,30,Hamman NPC,25,Wolfson,16
-Lair:45491:2016 Senior USBC FINAL,Segment 2 of 6,I,16,30,Hamman NPC,25,Wolfson,16

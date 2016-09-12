@@ -1,8 +1,0 @@
-Stefanov:45661:XXXIV International Bridge Festival Albena 2016,1_13,I,1,8,StZ,0,VITO,0
-Hristov:45661:XXXIV International Bridge Festival Albena 2016,1_13,I,1,8,StZ,0,VITO,0
-Panev:45661:XXXIV International Bridge Festival Albena 2016,1_13,I,1,8,StZ,0,VITO,0
-Rusev:45661:XXXIV International Bridge Festival Albena 2016,1_13,I,1,8,StZ,0,VITO,0
-Antonov:45661:XXXIV International Bridge Festival Albena 2016,1_13,I,1,8,StZ,0,VITO,0
-Daskalov:45661:XXXIV International Bridge Festival Albena 2016,1_13,I,1,8,StZ,0,VITO,0
-Radev:45661:XXXIV International Bridge Festival Albena 2016,1_13,I,1,8,StZ,0,VITO,0
-Kolev:45661:XXXIV International Bridge Festival Albena 2016,1_13,I,1,8,StZ,0,VITO,0

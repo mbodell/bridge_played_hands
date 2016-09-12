@@ -1,8 +1,0 @@
-Weingold:45886:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
-Hu:45886:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
-Assini:45886:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
-Ran:45886:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
-Ling Gu:45886:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
-Ponomareva:45886:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
-Tao Zhou:45886:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0
-Gromova:45886:2016 Wagar Final,Segment 1 of 4,I,1,15,Weingold,0,China Yellow,0

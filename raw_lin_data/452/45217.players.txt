@@ -1,8 +1,0 @@
-Amiguet:45217:Coupe Suisse Finale,4e segment,I,37,48,Junior,55,Lemanus,74
-Fierz A.:45217:Coupe Suisse Finale,4e segment,I,37,48,Junior,55,Lemanus,74
-Margot:45217:Coupe Suisse Finale,4e segment,I,37,48,Junior,55,Lemanus,74
-Fierz G.:45217:Coupe Suisse Finale,4e segment,I,37,48,Junior,55,Lemanus,74
-Kristev:45217:Coupe Suisse Finale,4e segment,I,37,48,Junior,55,Lemanus,74
-Thompson:45217:Coupe Suisse Finale,4e segment,I,37,48,Junior,55,Lemanus,74
-Latinov:45217:Coupe Suisse Finale,4e segment,I,37,48,Junior,55,Lemanus,74
-Bovet:45217:Coupe Suisse Finale,4e segment,I,37,48,Junior,55,Lemanus,74

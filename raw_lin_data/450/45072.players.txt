@@ -1,8 +1,0 @@
-Sanborn:45072:2016 Women's USBC FINAL,Segment 4 of 4,I,16,30,Baker,84,Palmer,104
-Deas:45072:2016 Women's USBC FINAL,Segment 4 of 4,I,16,30,Baker,84,Palmer,104
-Levitina:45072:2016 Women's USBC FINAL,Segment 4 of 4,I,16,30,Baker,84,Palmer,104
-Chambers:45072:2016 Women's USBC FINAL,Segment 4 of 4,I,16,30,Baker,84,Palmer,104
-Shi:45072:2016 Women's USBC FINAL,Segment 4 of 4,I,16,30,Baker,84,Palmer,104
-Granovette:45072:2016 Women's USBC FINAL,Segment 4 of 4,I,16,30,Baker,84,Palmer,104
-Palmer:45072:2016 Women's USBC FINAL,Segment 4 of 4,I,16,30,Baker,84,Palmer,104
-Stansby:45072:2016 Women's USBC FINAL,Segment 4 of 4,I,16,30,Baker,84,Palmer,104

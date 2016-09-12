@@ -1,8 +1,0 @@
-South:45023:B 2016 USBC SF,Segment 6 of 8,I,16,30,Diamond,204,Fireman,108
-West:45023:B 2016 USBC SF,Segment 6 of 8,I,16,30,Diamond,204,Fireman,108
-North:45023:B 2016 USBC SF,Segment 6 of 8,I,16,30,Diamond,204,Fireman,108
-East:45023:B 2016 USBC SF,Segment 6 of 8,I,16,30,Diamond,204,Fireman,108
-South:45023:B 2016 USBC SF,Segment 6 of 8,I,16,30,Diamond,204,Fireman,108
-West:45023:B 2016 USBC SF,Segment 6 of 8,I,16,30,Diamond,204,Fireman,108
-North:45023:B 2016 USBC SF,Segment 6 of 8,I,16,30,Diamond,204,Fireman,108
-East:45023:B 2016 USBC SF,Segment 6 of 8,I,16,30,Diamond,204,Fireman,108

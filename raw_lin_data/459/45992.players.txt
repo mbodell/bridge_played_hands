@@ -1,8 +1,0 @@
-Hauge:45992:Norwegian Mixed Teams Championship,1_12,I,1,7,Hauge,0,Erichsen,0
-Holmøy:45992:Norwegian Mixed Teams Championship,1_12,I,1,7,Hauge,0,Erichsen,0
-Malinowski:45992:Norwegian Mixed Teams Championship,1_12,I,1,7,Hauge,0,Erichsen,0
-Fyrun:45992:Norwegian Mixed Teams Championship,1_12,I,1,7,Hauge,0,Erichsen,0
-N Selway:45992:Norwegian Mixed Teams Championship,1_12,I,1,7,Hauge,0,Erichsen,0
-G-T Vist:45992:Norwegian Mixed Teams Championship,1_12,I,1,7,Hauge,0,Erichsen,0
-K Preddy:45992:Norwegian Mixed Teams Championship,1_12,I,1,7,Hauge,0,Erichsen,0
-Kristoffer:45992:Norwegian Mixed Teams Championship,1_12,I,1,7,Hauge,0,Erichsen,0

@@ -1,8 +1,0 @@
-Gawel:45152:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,46,LATTERIA Rzepin,88
-Nowak:45152:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,46,LATTERIA Rzepin,88
-Jagniewski:45152:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,46,LATTERIA Rzepin,88
-Tuszynski:45152:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,46,LATTERIA Rzepin,88
-Szczepansk:45152:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,46,LATTERIA Rzepin,88
-Nawrocki:45152:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,46,LATTERIA Rzepin,88
-Sakowicz:45152:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,46,LATTERIA Rzepin,88
-Wiankowski:45152:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,46,LATTERIA Rzepin,88

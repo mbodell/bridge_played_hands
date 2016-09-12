@@ -1,8 +1,0 @@
-Ekeblad:45351:C 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Mahaffey,152,Pollack,142
-Feldman:45351:C 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Mahaffey,152,Pollack,142
-Lev:45351:C 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Mahaffey,152,Pollack,142
-Friedland:45351:C 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Mahaffey,152,Pollack,142
-Cohen:45351:C 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Mahaffey,152,Pollack,142
-Bates:45351:C 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Mahaffey,152,Pollack,142
-Pollack:45351:C 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Mahaffey,152,Pollack,142
-Granovette:45351:C 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Mahaffey,152,Pollack,142

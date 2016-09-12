@@ -1,1 +1,0 @@
-South,West,North,East,South,West,North,East:45210:Hungary test,1_1,I,1,16,Kutya,0,Macska,0

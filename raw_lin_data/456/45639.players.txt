@@ -1,8 +1,0 @@
-South:45639:France,Netherlands,I,1,12,France,288,Netherlands,378
-West:45639:France,Netherlands,I,1,12,France,288,Netherlands,378
-North:45639:France,Netherlands,I,1,12,France,288,Netherlands,378
-East:45639:France,Netherlands,I,1,12,France,288,Netherlands,378
-Stougie L.:45639:France,Netherlands,I,1,12,France,288,Netherlands,378
-Basler:45639:France,Netherlands,I,1,12,France,288,Netherlands,378
-Stogie M.:45639:France,Netherlands,I,1,12,France,288,Netherlands,378
-Fragola:45639:France,Netherlands,I,1,12,France,288,Netherlands,378

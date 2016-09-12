@@ -1,8 +1,0 @@
-Wittes:45022:B 2016 Women's USBC,Segment 5 of 8,I,1,15,Wittes,69,Palmer,109
-Shi:45022:B 2016 Women's USBC,Segment 5 of 8,I,1,15,Wittes,69,Palmer,109
-Kamenova:45022:B 2016 Women's USBC,Segment 5 of 8,I,1,15,Wittes,69,Palmer,109
-Palmer:45022:B 2016 Women's USBC,Segment 5 of 8,I,1,15,Wittes,69,Palmer,109
-Molson:45022:B 2016 Women's USBC,Segment 5 of 8,I,1,15,Wittes,69,Palmer,109
-Lewis:45022:B 2016 Women's USBC,Segment 5 of 8,I,1,15,Wittes,69,Palmer,109
-Sokolow:45022:B 2016 Women's USBC,Segment 5 of 8,I,1,15,Wittes,69,Palmer,109
-Disa:45022:B 2016 Women's USBC,Segment 5 of 8,I,1,15,Wittes,69,Palmer,109

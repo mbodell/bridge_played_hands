@@ -1,8 +1,0 @@
-Duboin:45944:D 2016 Spingold QF,Segment 2 of 4,I,16,30,Lavazza,47,Gupta,17
-Gupta:45944:D 2016 Spingold QF,Segment 2 of 4,I,16,30,Lavazza,47,Gupta,17
-Bilde:45944:D 2016 Spingold QF,Segment 2 of 4,I,16,30,Lavazza,47,Gupta,17
-Miller:45944:D 2016 Spingold QF,Segment 2 of 4,I,16,30,Lavazza,47,Gupta,17
-Zia:45944:D 2016 Spingold QF,Segment 2 of 4,I,16,30,Lavazza,47,Gupta,17
-Brenner:45944:D 2016 Spingold QF,Segment 2 of 4,I,16,30,Lavazza,47,Gupta,17
-Delmonte:45944:D 2016 Spingold QF,Segment 2 of 4,I,16,30,Lavazza,47,Gupta,17
-Bocchi:45944:D 2016 Spingold QF,Segment 2 of 4,I,16,30,Lavazza,47,Gupta,17

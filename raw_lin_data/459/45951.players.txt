@@ -1,8 +1,0 @@
-Grue:45951:B 2016 Spingold QF,Segment 3 of 4,I,1,15,Fleisher,88,Diamond,33
-Greco:45951:B 2016 Spingold QF,Segment 3 of 4,I,1,15,Fleisher,88,Diamond,33
-Moss:45951:B 2016 Spingold QF,Segment 3 of 4,I,1,15,Fleisher,88,Diamond,33
-Hampson:45951:B 2016 Spingold QF,Segment 3 of 4,I,1,15,Fleisher,88,Diamond,33
-Bathurst:45951:B 2016 Spingold QF,Segment 3 of 4,I,1,15,Fleisher,88,Diamond,33
-Welland:45951:B 2016 Spingold QF,Segment 3 of 4,I,1,15,Fleisher,88,Diamond,33
-Lall:45951:B 2016 Spingold QF,Segment 3 of 4,I,1,15,Fleisher,88,Diamond,33
-Auken:45951:B 2016 Spingold QF,Segment 3 of 4,I,1,15,Fleisher,88,Diamond,33

@@ -1,8 +1,0 @@
-Amiguet:45216:Coupe Suisse Finale,3e Segment,I,25,36,Junior,31,Lemanus,40
-Latinov:45216:Coupe Suisse Finale,3e Segment,I,25,36,Junior,31,Lemanus,40
-Margot:45216:Coupe Suisse Finale,3e Segment,I,25,36,Junior,31,Lemanus,40
-Krastev:45216:Coupe Suisse Finale,3e Segment,I,25,36,Junior,31,Lemanus,40
-Fierz G:45216:Coupe Suisse Finale,3e Segment,I,25,36,Junior,31,Lemanus,40
-Thompson:45216:Coupe Suisse Finale,3e Segment,I,25,36,Junior,31,Lemanus,40
-Fierz A:45216:Coupe Suisse Finale,3e Segment,I,25,36,Junior,31,Lemanus,40
-Bovet:45216:Coupe Suisse Finale,3e Segment,I,25,36,Junior,31,Lemanus,40

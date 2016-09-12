@@ -1,8 +1,0 @@
-Boyd:45360:D 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Robinson,0,Gupta,0
-Gupta:45360:D 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Robinson,0,Gupta,0
-Robinson:45360:D 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Robinson,0,Gupta,0
-Miller:45360:D 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Robinson,0,Gupta,0
-Chambers:45360:D 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Robinson,0,Gupta,0
-Woolsey:45360:D 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Robinson,0,Gupta,0
-Schermer:45360:D 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Robinson,0,Gupta,0
-Stewart:45360:D 2016 Senior USBC QF,Segment 1 of 6,I,1,15,Robinson,0,Gupta,0

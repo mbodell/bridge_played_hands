@@ -1,8 +1,0 @@
-Woolsey:45423:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-Miller:45423:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-stewart:45423:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-Weichsel:45423:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-Chambers:45423:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-Boyd:45423:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-Schermer:45423:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-Robinson:45423:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182

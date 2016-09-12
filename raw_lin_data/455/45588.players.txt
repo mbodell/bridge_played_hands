@@ -1,8 +1,0 @@
-C P:45588:Maharashtra State Championship Pune,RR 5 of 5,I,11,20,Cogito,0,Sunil Machhar,0
-VinayDesai:45588:Maharashtra State Championship Pune,RR 5 of 5,I,11,20,Cogito,0,Sunil Machhar,0
-Pramod:45588:Maharashtra State Championship Pune,RR 5 of 5,I,11,20,Cogito,0,Sunil Machhar,0
-RajuTolani:45588:Maharashtra State Championship Pune,RR 5 of 5,I,11,20,Cogito,0,Sunil Machhar,0
-Ajay:45588:Maharashtra State Championship Pune,RR 5 of 5,I,11,20,Cogito,0,Sunil Machhar,0
-Tushar:45588:Maharashtra State Championship Pune,RR 5 of 5,I,11,20,Cogito,0,Sunil Machhar,0
-Anil:45588:Maharashtra State Championship Pune,RR 5 of 5,I,11,20,Cogito,0,Sunil Machhar,0
-Manna:45588:Maharashtra State Championship Pune,RR 5 of 5,I,11,20,Cogito,0,Sunil Machhar,0

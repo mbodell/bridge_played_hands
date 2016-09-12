@@ -1,8 +1,0 @@
-Street:45939:A 2016 Spingold QF,Segment 1 of 4,I,1,15,Street,0,Zimmermann,0
-Helgemo:45939:A 2016 Spingold QF,Segment 1 of 4,I,1,15,Street,0,Zimmermann,0
-L'Ecuyer:45939:A 2016 Spingold QF,Segment 1 of 4,I,1,15,Street,0,Zimmermann,0
-Helness:45939:A 2016 Spingold QF,Segment 1 of 4,I,1,15,Street,0,Zimmermann,0
-Zimmermann:45939:A 2016 Spingold QF,Segment 1 of 4,I,1,15,Street,0,Zimmermann,0
-Quantin:45939:A 2016 Spingold QF,Segment 1 of 4,I,1,15,Street,0,Zimmermann,0
-Multon:45939:A 2016 Spingold QF,Segment 1 of 4,I,1,15,Street,0,Zimmermann,0
-Lorenzini:45939:A 2016 Spingold QF,Segment 1 of 4,I,1,15,Street,0,Zimmermann,0

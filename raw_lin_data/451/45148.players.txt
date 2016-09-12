@@ -1,8 +1,0 @@
-South:45148:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,88,LATTERIA Rzepin,46
-West:45148:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,88,LATTERIA Rzepin,46
-North:45148:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,88,LATTERIA Rzepin,46
-East:45148:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,88,LATTERIA Rzepin,46
-South:45148:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,88,LATTERIA Rzepin,46
-West:45148:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,88,LATTERIA Rzepin,46
-North:45148:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,88,LATTERIA Rzepin,46
-East:45148:Polish Premier League - semifinal,SEGMENT 3_6,I,1,12,BRIDGE24.PL,88,LATTERIA Rzepin,46

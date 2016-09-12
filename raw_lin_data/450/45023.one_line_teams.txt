@@ -1,1 +1,0 @@
-South,West,North,East,South,West,North,East:45023:B 2016 USBC SF,Segment 6 of 8,I,16,30,Diamond,204,Fireman,108

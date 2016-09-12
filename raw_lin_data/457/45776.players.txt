@@ -1,8 +1,0 @@
-Levi H:45776:T13 - Liepaja - 13th EYBPC U26 Pairs,Final 5_5,P,11,20,Team 1,0,Team 2,0
-Velja S:45776:T13 - Liepaja - 13th EYBPC U26 Pairs,Final 5_5,P,11,20,Team 1,0,Team 2,0
-Asulin A:45776:T13 - Liepaja - 13th EYBPC U26 Pairs,Final 5_5,P,11,20,Team 1,0,Team 2,0
-Weiss F:45776:T13 - Liepaja - 13th EYBPC U26 Pairs,Final 5_5,P,11,20,Team 1,0,Team 2,0
-South:45776:T13 - Liepaja - 13th EYBPC U26 Pairs,Final 5_5,P,11,20,Team 1,0,Team 2,0
-West:45776:T13 - Liepaja - 13th EYBPC U26 Pairs,Final 5_5,P,11,20,Team 1,0,Team 2,0
-North:45776:T13 - Liepaja - 13th EYBPC U26 Pairs,Final 5_5,P,11,20,Team 1,0,Team 2,0
-East:45776:T13 - Liepaja - 13th EYBPC U26 Pairs,Final 5_5,P,11,20,Team 1,0,Team 2,0

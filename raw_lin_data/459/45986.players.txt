@@ -1,8 +1,0 @@
-Moss:45986:B 2016 Spingold SF,Segment 4 of 4,I,16,30,Fleisher,88,Strul,79
-Sadek:45986:B 2016 Spingold SF,Segment 4 of 4,I,16,30,Fleisher,88,Strul,79
-Grue:45986:B 2016 Spingold SF,Segment 4 of 4,I,16,30,Fleisher,88,Strul,79
-Elahmady:45986:B 2016 Spingold SF,Segment 4 of 4,I,16,30,Fleisher,88,Strul,79
-Kamil:45986:B 2016 Spingold SF,Segment 4 of 4,I,16,30,Fleisher,88,Strul,79
-Martel:45986:B 2016 Spingold SF,Segment 4 of 4,I,16,30,Fleisher,88,Strul,79
-Coren:45986:B 2016 Spingold SF,Segment 4 of 4,I,16,30,Fleisher,88,Strul,79
-Fleisher:45986:B 2016 Spingold SF,Segment 4 of 4,I,16,30,Fleisher,88,Strul,79

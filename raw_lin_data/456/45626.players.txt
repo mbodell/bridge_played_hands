@@ -1,8 +1,0 @@
-South:45626:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
-West:45626:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
-North:45626:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
-East:45626:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
-South:45626:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
-West:45626:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
-North:45626:France    Netherlands,R1,I,1,12,France,0,Netherlands,0
-East:45626:France    Netherlands,R1,I,1,12,France,0,Netherlands,0

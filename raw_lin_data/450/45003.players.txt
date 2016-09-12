@@ -1,8 +1,0 @@
-Weingold:45003:2016 Women's USBC QFB,Segment 4 of 4,I,16,30,Weingold,165,OSMO,62
-Ewing:45003:2016 Women's USBC QFB,Segment 4 of 4,I,16,30,Weingold,165,OSMO,62
-Assini:45003:2016 Women's USBC QFB,Segment 4 of 4,I,16,30,Weingold,165,OSMO,62
-Ose:45003:2016 Women's USBC QFB,Segment 4 of 4,I,16,30,Weingold,165,OSMO,62
-Saunders:45003:2016 Women's USBC QFB,Segment 4 of 4,I,16,30,Weingold,165,OSMO,62
-Sulgrove:45003:2016 Women's USBC QFB,Segment 4 of 4,I,16,30,Weingold,165,OSMO,62
-Smoot:45003:2016 Women's USBC QFB,Segment 4 of 4,I,16,30,Weingold,165,OSMO,62
-Rosenberg:45003:2016 Women's USBC QFB,Segment 4 of 4,I,16,30,Weingold,165,OSMO,62

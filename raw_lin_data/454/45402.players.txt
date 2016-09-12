@@ -1,8 +1,0 @@
-Jacobus:45402:C 2016 Senior USBC QF,Segment 3 of 6,I,1,15,Koneru NPC,33,Wolfson,56
-Sontag:45402:C 2016 Senior USBC QF,Segment 3 of 6,I,1,15,Koneru NPC,33,Wolfson,56
-Passell:45402:C 2016 Senior USBC QF,Segment 3 of 6,I,1,15,Koneru NPC,33,Wolfson,56
-Berkowitz:45402:C 2016 Senior USBC QF,Segment 3 of 6,I,1,15,Koneru NPC,33,Wolfson,56
-Silverman:45402:C 2016 Senior USBC QF,Segment 3 of 6,I,1,15,Koneru NPC,33,Wolfson,56
-J. Clerkin:45402:C 2016 Senior USBC QF,Segment 3 of 6,I,1,15,Koneru NPC,33,Wolfson,56
-Wolfson:45402:C 2016 Senior USBC QF,Segment 3 of 6,I,1,15,Koneru NPC,33,Wolfson,56
-D. Clerkin:45402:C 2016 Senior USBC QF,Segment 3 of 6,I,1,15,Koneru NPC,33,Wolfson,56

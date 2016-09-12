@@ -1,8 +1,0 @@
-Quantin:45949:A 2016 Spingold QF,Segment 3 of 4,I,1,15,Street,77,Zimmermann,42
-Helgemo:45949:A 2016 Spingold QF,Segment 3 of 4,I,1,15,Street,77,Zimmermann,42
-Lorenzini:45949:A 2016 Spingold QF,Segment 3 of 4,I,1,15,Street,77,Zimmermann,42
-Helness:45949:A 2016 Spingold QF,Segment 3 of 4,I,1,15,Street,77,Zimmermann,42
-Zimmermann:45949:A 2016 Spingold QF,Segment 3 of 4,I,1,15,Street,77,Zimmermann,42
-Volcker:45949:A 2016 Spingold QF,Segment 3 of 4,I,1,15,Street,77,Zimmermann,42
-Multon:45949:A 2016 Spingold QF,Segment 3 of 4,I,1,15,Street,77,Zimmermann,42
-Bessis:45949:A 2016 Spingold QF,Segment 3 of 4,I,1,15,Street,77,Zimmermann,42

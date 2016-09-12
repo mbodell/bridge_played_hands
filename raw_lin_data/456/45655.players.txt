@@ -1,8 +1,0 @@
-Dufrene:45655:France,Netherland,I,1,12,France,584,Netherlands,644
-Caris:45655:France,Netherland,I,1,12,France,584,Netherlands,644
-Beugin:45655:France,Netherland,I,1,12,France,584,Netherlands,644
-Dupont:45655:France,Netherland,I,1,12,France,584,Netherlands,644
-Overvelde:45655:France,Netherland,I,1,12,France,584,Netherlands,644
-Guillemin:45655:France,Netherland,I,1,12,France,584,Netherlands,644
-Nijssen:45655:France,Netherland,I,1,12,France,584,Netherlands,644
-Boulin:45655:France,Netherland,I,1,12,France,584,Netherlands,644

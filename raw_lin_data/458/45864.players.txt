@@ -1,8 +1,0 @@
-Colinet:45864:Mondial de Deauville,Patton S1_3,I,1,32,Home,0,Visiting,0
-Zochowska:45864:Mondial de Deauville,Patton S1_3,I,1,32,Home,0,Visiting,0
-Lafourcade:45864:Mondial de Deauville,Patton S1_3,I,1,32,Home,0,Visiting,0
-Allix:45864:Mondial de Deauville,Patton S1_3,I,1,32,Home,0,Visiting,0
-Bergheimer:45864:Mondial de Deauville,Patton S1_3,I,1,32,Home,0,Visiting,0
-Meyer:45864:Mondial de Deauville,Patton S1_3,I,1,32,Home,0,Visiting,0
-Schmidt:45864:Mondial de Deauville,Patton S1_3,I,1,32,Home,0,Visiting,0
-Van Der Vo:45864:Mondial de Deauville,Patton S1_3,I,1,32,Home,0,Visiting,0

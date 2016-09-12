@@ -1,8 +1,0 @@
-Duboin:45891:B 2016 Spingold R32,Segment 2 of 4,I,16,30,Lavazza,26,Payen,27
-Oursel:45891:B 2016 Spingold R32,Segment 2 of 4,I,16,30,Lavazza,26,Payen,27
-Bilde:45891:B 2016 Spingold R32,Segment 2 of 4,I,16,30,Lavazza,26,Payen,27
-Soulet:45891:B 2016 Spingold R32,Segment 2 of 4,I,16,30,Lavazza,26,Payen,27
-Sainte Mar:45891:B 2016 Spingold R32,Segment 2 of 4,I,16,30,Lavazza,26,Payen,27
-Brenner:45891:B 2016 Spingold R32,Segment 2 of 4,I,16,30,Lavazza,26,Payen,27
-Mauberquez:45891:B 2016 Spingold R32,Segment 2 of 4,I,16,30,Lavazza,26,Payen,27
-Bocchi:45891:B 2016 Spingold R32,Segment 2 of 4,I,16,30,Lavazza,26,Payen,27

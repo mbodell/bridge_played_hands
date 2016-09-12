@@ -1,8 +1,0 @@
-South:45664:Turkey U16 Championship,Final,P,1,21,Team 1,0,Team 2,0
-West:45664:Turkey U16 Championship,Final,P,1,21,Team 1,0,Team 2,0
-North:45664:Turkey U16 Championship,Final,P,1,21,Team 1,0,Team 2,0
-East:45664:Turkey U16 Championship,Final,P,1,21,Team 1,0,Team 2,0
-South:45664:Turkey U16 Championship,Final,P,1,21,Team 1,0,Team 2,0
-West:45664:Turkey U16 Championship,Final,P,1,21,Team 1,0,Team 2,0
-North:45664:Turkey U16 Championship,Final,P,1,21,Team 1,0,Team 2,0
-East:45664:Turkey U16 Championship,Final,P,1,21,Team 1,0,Team 2,0

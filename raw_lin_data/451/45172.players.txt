@@ -1,8 +1,0 @@
-Gorczyca:45172:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
-Fitzgibbon:45172:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
-Rudzinski:45172:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
-Mesbur:45172:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
-South:45172:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
-West:45172:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
-North:45172:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0
-East:45172:Irish Invitational Pairs,Session 2,I,1,32,Team 1,0,Team 2,0

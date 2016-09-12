@@ -1,8 +1,0 @@
-DRosenberg:45858:2016 GNT FINAL,Segment 4 of 4,I,16,30,D21 Martel,90,D25 Merblum,111
-Merblum:45858:2016 GNT FINAL,Segment 4 of 4,I,16,30,D21 Martel,90,D25 Merblum,111
-Grainger:45858:2016 GNT FINAL,Segment 4 of 4,I,16,30,D21 Martel,90,D25 Merblum,111
-Doub:45858:2016 GNT FINAL,Segment 4 of 4,I,16,30,D21 Martel,90,D25 Merblum,111
-Z Grossack:45858:2016 GNT FINAL,Segment 4 of 4,I,16,30,D21 Martel,90,D25 Merblum,111
-Woolsey:45858:2016 GNT FINAL,Segment 4 of 4,I,16,30,D21 Martel,90,D25 Merblum,111
-A Grossack:45858:2016 GNT FINAL,Segment 4 of 4,I,16,30,D21 Martel,90,D25 Merblum,111
-Martel:45858:2016 GNT FINAL,Segment 4 of 4,I,16,30,D21 Martel,90,D25 Merblum,111

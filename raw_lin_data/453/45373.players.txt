@@ -1,8 +1,0 @@
-WangRB:45373:the 27th China Friend City Senior Team Tournament,Swiss R8,I,1,10,Beijing,0,Hunan,0
-ZhengKM:45373:the 27th China Friend City Senior Team Tournament,Swiss R8,I,1,10,Beijing,0,Hunan,0
-WangRH:45373:the 27th China Friend City Senior Team Tournament,Swiss R8,I,1,10,Beijing,0,Hunan,0
-ZhaoQ:45373:the 27th China Friend City Senior Team Tournament,Swiss R8,I,1,10,Beijing,0,Hunan,0
-South:45373:the 27th China Friend City Senior Team Tournament,Swiss R8,I,1,10,Beijing,0,Hunan,0
-West:45373:the 27th China Friend City Senior Team Tournament,Swiss R8,I,1,10,Beijing,0,Hunan,0
-North:45373:the 27th China Friend City Senior Team Tournament,Swiss R8,I,1,10,Beijing,0,Hunan,0
-East:45373:the 27th China Friend City Senior Team Tournament,Swiss R8,I,1,10,Beijing,0,Hunan,0

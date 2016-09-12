@@ -1,8 +1,0 @@
-South:45849:2016 Collegiate Championship FINAL,Segment 1 of 4,I,1,12,UC Berkeley,0,U Illinois UC,0
-West:45849:2016 Collegiate Championship FINAL,Segment 1 of 4,I,1,12,UC Berkeley,0,U Illinois UC,0
-North:45849:2016 Collegiate Championship FINAL,Segment 1 of 4,I,1,12,UC Berkeley,0,U Illinois UC,0
-East:45849:2016 Collegiate Championship FINAL,Segment 1 of 4,I,1,12,UC Berkeley,0,U Illinois UC,0
-South:45849:2016 Collegiate Championship FINAL,Segment 1 of 4,I,1,12,UC Berkeley,0,U Illinois UC,0
-West:45849:2016 Collegiate Championship FINAL,Segment 1 of 4,I,1,12,UC Berkeley,0,U Illinois UC,0
-North:45849:2016 Collegiate Championship FINAL,Segment 1 of 4,I,1,12,UC Berkeley,0,U Illinois UC,0
-East:45849:2016 Collegiate Championship FINAL,Segment 1 of 4,I,1,12,UC Berkeley,0,U Illinois UC,0

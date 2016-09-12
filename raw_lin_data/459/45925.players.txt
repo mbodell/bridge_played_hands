@@ -1,8 +1,0 @@
-E Berg:45925:E 2016 Spingold R16,Segment 4 of 4,I,16,30,Amoils,48,Gupta,81
-Upmark:45925:E 2016 Spingold R16,Segment 4 of 4,I,16,30,Amoils,48,Gupta,81
-Simonsen:45925:E 2016 Spingold R16,Segment 4 of 4,I,16,30,Amoils,48,Gupta,81
-Nystrom:45925:E 2016 Spingold R16,Segment 4 of 4,I,16,30,Amoils,48,Gupta,81
-Zia:45925:E 2016 Spingold R16,Segment 4 of 4,I,16,30,Amoils,48,Gupta,81
-Amoils:45925:E 2016 Spingold R16,Segment 4 of 4,I,16,30,Amoils,48,Gupta,81
-Delmonte:45925:E 2016 Spingold R16,Segment 4 of 4,I,16,30,Amoils,48,Gupta,81
-Hanlon:45925:E 2016 Spingold R16,Segment 4 of 4,I,16,30,Amoils,48,Gupta,81

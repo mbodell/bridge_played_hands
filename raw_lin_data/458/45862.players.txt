@@ -1,8 +1,0 @@
-Pöppönen:45862:Finnish Pairs Champs 2016,R33-35,B,1,9,Pairs 1,0,Pairs 2,0
-Kallunki:45862:Finnish Pairs Champs 2016,R33-35,B,1,9,Pairs 1,0,Pairs 2,0
-Utter:45862:Finnish Pairs Champs 2016,R33-35,B,1,9,Pairs 1,0,Pairs 2,0
-Toivonen:45862:Finnish Pairs Champs 2016,R33-35,B,1,9,Pairs 1,0,Pairs 2,0
-Pesonen:45862:Finnish Pairs Champs 2016,R33-35,B,1,9,Pairs 1,0,Pairs 2,0
-Viitasalo:45862:Finnish Pairs Champs 2016,R33-35,B,1,9,Pairs 1,0,Pairs 2,0
-Stubb:45862:Finnish Pairs Champs 2016,R33-35,B,1,9,Pairs 1,0,Pairs 2,0
-Kiema:45862:Finnish Pairs Champs 2016,R33-35,B,1,9,Pairs 1,0,Pairs 2,0

@@ -1,8 +1,0 @@
-South:45307:the 27th China Friend City Senior Team Tournament,swiss R3,I,1,10,sichuandahe,0,zhuzhou,0
-West:45307:the 27th China Friend City Senior Team Tournament,swiss R3,I,1,10,sichuandahe,0,zhuzhou,0
-North:45307:the 27th China Friend City Senior Team Tournament,swiss R3,I,1,10,sichuandahe,0,zhuzhou,0
-FL:45307:the 27th China Friend City Senior Team Tournament,swiss R3,I,1,10,sichuandahe,0,zhuzhou,0
-RanCHL:45307:the 27th China Friend City Senior Team Tournament,swiss R3,I,1,10,sichuandahe,0,zhuzhou,0
-FengZL:45307:the 27th China Friend City Senior Team Tournament,swiss R3,I,1,10,sichuandahe,0,zhuzhou,0
-YangYJ:45307:the 27th China Friend City Senior Team Tournament,swiss R3,I,1,10,sichuandahe,0,zhuzhou,0
-WangTQ:45307:the 27th China Friend City Senior Team Tournament,swiss R3,I,1,10,sichuandahe,0,zhuzhou,0

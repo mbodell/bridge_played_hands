@@ -1,8 +1,0 @@
-Dufrene:45631:France   Netherlands,R2,I,1,12,France,82,Netherlands,67
-Caris:45631:France   Netherlands,R2,I,1,12,France,82,Netherlands,67
-Beugin:45631:France   Netherlands,R2,I,1,12,France,82,Netherlands,67
-Dupont:45631:France   Netherlands,R2,I,1,12,France,82,Netherlands,67
-Nijssen:45631:France   Netherlands,R2,I,1,12,France,82,Netherlands,67
-Guillemin:45631:France   Netherlands,R2,I,1,12,France,82,Netherlands,67
-Overvelde:45631:France   Netherlands,R2,I,1,12,France,82,Netherlands,67
-Boulin:45631:France   Netherlands,R2,I,1,12,France,82,Netherlands,67

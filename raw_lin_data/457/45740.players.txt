@@ -1,8 +1,0 @@
-Leeming I:45740:Liepaja BBO1 - 13th EYBPC,MixPairs T26 F10_10,P,1,12,Team 1,0,Team 2,0
-Myllaeri M:45740:Liepaja BBO1 - 13th EYBPC,MixPairs T26 F10_10,P,1,12,Team 1,0,Team 2,0
-Brass T:45740:Liepaja BBO1 - 13th EYBPC,MixPairs T26 F10_10,P,1,12,Team 1,0,Team 2,0
-Fagerlund:45740:Liepaja BBO1 - 13th EYBPC,MixPairs T26 F10_10,P,1,12,Team 1,0,Team 2,0
-South:45740:Liepaja BBO1 - 13th EYBPC,MixPairs T26 F10_10,P,1,12,Team 1,0,Team 2,0
-West:45740:Liepaja BBO1 - 13th EYBPC,MixPairs T26 F10_10,P,1,12,Team 1,0,Team 2,0
-North:45740:Liepaja BBO1 - 13th EYBPC,MixPairs T26 F10_10,P,1,12,Team 1,0,Team 2,0
-East:45740:Liepaja BBO1 - 13th EYBPC,MixPairs T26 F10_10,P,1,12,Team 1,0,Team 2,0

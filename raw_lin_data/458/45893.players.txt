@@ -1,8 +1,0 @@
-Welland:45893:A 2016 Spingold R32,Segment 2 of 4,I,16,30,Fleisher,27,Rigal,23
-Lusky:45893:A 2016 Spingold R32,Segment 2 of 4,I,16,30,Fleisher,27,Rigal,23
-Auken:45893:A 2016 Spingold R32,Segment 2 of 4,I,16,30,Fleisher,27,Rigal,23
-Falk:45893:A 2016 Spingold R32,Segment 2 of 4,I,16,30,Fleisher,27,Rigal,23
-Milgrim:45893:A 2016 Spingold R32,Segment 2 of 4,I,16,30,Fleisher,27,Rigal,23
-Moss:45893:A 2016 Spingold R32,Segment 2 of 4,I,16,30,Fleisher,27,Rigal,23
-Rigal:45893:A 2016 Spingold R32,Segment 2 of 4,I,16,30,Fleisher,27,Rigal,23
-Grue:45893:A 2016 Spingold R32,Segment 2 of 4,I,16,30,Fleisher,27,Rigal,23

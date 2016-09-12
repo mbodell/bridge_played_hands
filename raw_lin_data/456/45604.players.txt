@@ -1,8 +1,0 @@
-Mulley:45604:2016 Australian Seniors' PO,Final 6_6,I,17,32,BUCHEN,137,LORENTZ,184
-Brown:45604:2016 Australian Seniors' PO,Final 6_6,I,17,32,BUCHEN,137,LORENTZ,184
-Munro:45604:2016 Australian Seniors' PO,Final 6_6,I,17,32,BUCHEN,137,LORENTZ,184
-Buchen:45604:2016 Australian Seniors' PO,Final 6_6,I,17,32,BUCHEN,137,LORENTZ,184
-South:45604:2016 Australian Seniors' PO,Final 6_6,I,17,32,BUCHEN,137,LORENTZ,184
-West:45604:2016 Australian Seniors' PO,Final 6_6,I,17,32,BUCHEN,137,LORENTZ,184
-North:45604:2016 Australian Seniors' PO,Final 6_6,I,17,32,BUCHEN,137,LORENTZ,184
-East:45604:2016 Australian Seniors' PO,Final 6_6,I,17,32,BUCHEN,137,LORENTZ,184

@@ -1,8 +1,0 @@
-South:45911:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
-West:45911:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
-North:45911:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
-East:45911:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
-South:45911:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
-West:45911:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
-North:45911:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101
-East:45911:B 2016 Spingold R32,Segment 4 of 4,I,16,30,Lavazza,91,Payen,101

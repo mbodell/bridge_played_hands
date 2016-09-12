@@ -1,1 +1,0 @@
-South,West,North,East,South,West,North,East:45818:2003 Vanderbilt Final,3rd Quarter,I,1,16,Pavlicek,0,Nickell,0

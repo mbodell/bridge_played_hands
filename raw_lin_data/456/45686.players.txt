@@ -1,8 +1,0 @@
-Antonov:45686:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,2_13,I,17,24,de Bruyne,0,Bridge+,0
-Vanchev:45686:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,2_13,I,17,24,de Bruyne,0,Bridge+,0
-Angelov:45686:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,2_13,I,17,24,de Bruyne,0,Bridge+,0
-Bosev:45686:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,2_13,I,17,24,de Bruyne,0,Bridge+,0
-Danailov:45686:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,2_13,I,17,24,de Bruyne,0,Bridge+,0
-Kanchev:45686:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,2_13,I,17,24,de Bruyne,0,Bridge+,0
-Stamatov:45686:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,2_13,I,17,24,de Bruyne,0,Bridge+,0
-Hadziyski:45686:XXXIV IBF Albena Bulgaria 07-09 July OPEN TEAMS,2_13,I,17,24,de Bruyne,0,Bridge+,0

@@ -1,8 +1,0 @@
-Fierz:45214:Coupe Suisse Finale,2e Segment,I,13,24,Lemanus,32,Junior,18
-Margot:45214:Coupe Suisse Finale,2e Segment,I,13,24,Lemanus,32,Junior,18
-Fierz A.:45214:Coupe Suisse Finale,2e Segment,I,13,24,Lemanus,32,Junior,18
-Amiguet:45214:Coupe Suisse Finale,2e Segment,I,13,24,Lemanus,32,Junior,18
-Thompson:45214:Coupe Suisse Finale,2e Segment,I,13,24,Lemanus,32,Junior,18
-Latinov:45214:Coupe Suisse Finale,2e Segment,I,13,24,Lemanus,32,Junior,18
-Bovet:45214:Coupe Suisse Finale,2e Segment,I,13,24,Lemanus,32,Junior,18
-Zivkovic:45214:Coupe Suisse Finale,2e Segment,I,13,24,Lemanus,32,Junior,18

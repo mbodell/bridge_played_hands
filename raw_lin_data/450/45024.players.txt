@@ -1,8 +1,0 @@
-Baker:45024:2016 Women's USBC SFA,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-Rosenberg:45024:2016 Women's USBC SFA,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-McCallum:45024:2016 Women's USBC SFA,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-Sulgrove:45024:2016 Women's USBC SFA,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-Weingold:45024:2016 Women's USBC SFA,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-Sanborn:45024:2016 Women's USBC SFA,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-Assini:45024:2016 Women's USBC SFA,Segment 5 of 8,I,1,15,Baker,143,Weingold,150
-Levitina:45024:2016 Women's USBC SFA,Segment 5 of 8,I,1,15,Baker,143,Weingold,150

@@ -1,8 +1,0 @@
-JDonn:45133:Free Lecture,Joshua Donn,I,1,8,Team 3,0,Team 4,0
-JDonn:45133:Free Lecture,Joshua Donn,I,1,8,Team 3,0,Team 4,0
-JDonn:45133:Free Lecture,Joshua Donn,I,1,8,Team 3,0,Team 4,0
-JDonn:45133:Free Lecture,Joshua Donn,I,1,8,Team 3,0,Team 4,0
-South:45133:Free Lecture,Joshua Donn,I,1,8,Team 3,0,Team 4,0
-West:45133:Free Lecture,Joshua Donn,I,1,8,Team 3,0,Team 4,0
-North:45133:Free Lecture,Joshua Donn,I,1,8,Team 3,0,Team 4,0
-East:45133:Free Lecture,Joshua Donn,I,1,8,Team 3,0,Team 4,0

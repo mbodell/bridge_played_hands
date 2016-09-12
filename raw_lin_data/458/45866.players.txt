@@ -1,8 +1,0 @@
-Maduzia:45866:Baltic Bowl - Semifinal,SEGMENT 1_2,I,1,8,AZS OLO,0,MAZURKIEWICZ,0
-Mazurkiewi:45866:Baltic Bowl - Semifinal,SEGMENT 1_2,I,1,8,AZS OLO,0,MAZURKIEWICZ,0
-Dobrowolsk:45866:Baltic Bowl - Semifinal,SEGMENT 1_2,I,1,8,AZS OLO,0,MAZURKIEWICZ,0
-Jassem:45866:Baltic Bowl - Semifinal,SEGMENT 1_2,I,1,8,AZS OLO,0,MAZURKIEWICZ,0
-Blachnio:45866:Baltic Bowl - Semifinal,SEGMENT 1_2,I,1,8,AZS OLO,0,MAZURKIEWICZ,0
-Krych:45866:Baltic Bowl - Semifinal,SEGMENT 1_2,I,1,8,AZS OLO,0,MAZURKIEWICZ,0
-Wujkow:45866:Baltic Bowl - Semifinal,SEGMENT 1_2,I,1,8,AZS OLO,0,MAZURKIEWICZ,0
-Stepinski:45866:Baltic Bowl - Semifinal,SEGMENT 1_2,I,1,8,AZS OLO,0,MAZURKIEWICZ,0

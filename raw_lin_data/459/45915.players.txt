@@ -1,8 +1,0 @@
-Bathurst:45915:D 2016 Spingold R16,Segment 2 of 4,I,16,30,Diamond,19,Wolfson,42
-Wolfson:45915:D 2016 Spingold R16,Segment 2 of 4,I,16,30,Diamond,19,Wolfson,42
-Lall:45915:D 2016 Spingold R16,Segment 2 of 4,I,16,30,Diamond,19,Wolfson,42
-Silverman:45915:D 2016 Spingold R16,Segment 2 of 4,I,16,30,Diamond,19,Wolfson,42
-Smith:45915:D 2016 Spingold R16,Segment 2 of 4,I,16,30,Diamond,19,Wolfson,42
-Diamond:45915:D 2016 Spingold R16,Segment 2 of 4,I,16,30,Diamond,19,Wolfson,42
-Garner:45915:D 2016 Spingold R16,Segment 2 of 4,I,16,30,Diamond,19,Wolfson,42
-Platnick:45915:D 2016 Spingold R16,Segment 2 of 4,I,16,30,Diamond,19,Wolfson,42

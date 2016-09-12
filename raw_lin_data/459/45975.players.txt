@@ -1,8 +1,0 @@
-Helgemo:45975:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-West:45975:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-Helness:45975:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-Bocchi:45975:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-South:45975:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-West:45975:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-North:45975:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-East:45975:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14

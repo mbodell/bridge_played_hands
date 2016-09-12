@@ -1,8 +1,0 @@
-Stansby:45422:B 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Morse NPC,142,Simson,172
-Casen:45422:B 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Morse NPC,142,Simson,172
-Bramley:45422:B 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Morse NPC,142,Simson,172
-Krekorian:45422:B 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Morse NPC,142,Simson,172
-Aker:45422:B 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Morse NPC,142,Simson,172
-Garner:45422:B 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Morse NPC,142,Simson,172
-Simson:45422:B 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Morse NPC,142,Simson,172
-Smith:45422:B 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Morse NPC,142,Simson,172

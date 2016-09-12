@@ -1,8 +1,0 @@
-Israel yad:45972:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
-Asaf Lengy:45972:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
-doron yadl:45972:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
-Bareket Il:45972:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
-Zack Yaniv:45972:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
-Lubinsky Y:45972:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
-Barel Mich:45972:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62
-Mark Micha:45972:Israel Team Cup Final,3_3,I,1,30,Mark Micha,55,Zack Yaniv,62

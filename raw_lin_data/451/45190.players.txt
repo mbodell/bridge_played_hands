@@ -1,8 +1,0 @@
-Draganov:45190:XVII Lozenets Teams Tournament 2016,Round 6_11,I,9,16,Bridge+,0,K1,0
-Aronov:45190:XVII Lozenets Teams Tournament 2016,Round 6_11,I,9,16,Bridge+,0,K1,0
-Donev:45190:XVII Lozenets Teams Tournament 2016,Round 6_11,I,9,16,Bridge+,0,K1,0
-Damianova:45190:XVII Lozenets Teams Tournament 2016,Round 6_11,I,9,16,Bridge+,0,K1,0
-Zahariev:45190:XVII Lozenets Teams Tournament 2016,Round 6_11,I,9,16,Bridge+,0,K1,0
-Vanchev:45190:XVII Lozenets Teams Tournament 2016,Round 6_11,I,9,16,Bridge+,0,K1,0
-Nanev:45190:XVII Lozenets Teams Tournament 2016,Round 6_11,I,9,16,Bridge+,0,K1,0
-Bosev:45190:XVII Lozenets Teams Tournament 2016,Round 6_11,I,9,16,Bridge+,0,K1,0

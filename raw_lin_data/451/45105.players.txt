@@ -1,8 +1,0 @@
-Shi:45105:2016 Women's USBC FINAL,Segment 6 of 8,I,16,30,Baker,142,Palmer,220
-Sanborn:45105:2016 Women's USBC FINAL,Segment 6 of 8,I,16,30,Baker,142,Palmer,220
-Palmer:45105:2016 Women's USBC FINAL,Segment 6 of 8,I,16,30,Baker,142,Palmer,220
-Levitina:45105:2016 Women's USBC FINAL,Segment 6 of 8,I,16,30,Baker,142,Palmer,220
-Stansby:45105:2016 Women's USBC FINAL,Segment 6 of 8,I,16,30,Baker,142,Palmer,220
-Deas:45105:2016 Women's USBC FINAL,Segment 6 of 8,I,16,30,Baker,142,Palmer,220
-Granovette:45105:2016 Women's USBC FINAL,Segment 6 of 8,I,16,30,Baker,142,Palmer,220
-Chambers:45105:2016 Women's USBC FINAL,Segment 6 of 8,I,16,30,Baker,142,Palmer,220

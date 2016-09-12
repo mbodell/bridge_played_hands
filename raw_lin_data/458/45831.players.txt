@@ -1,8 +1,0 @@
-Z Grossack:45831:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-Fergani:45831:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-A Grossack:45831:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-F Pollack:45831:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-Zaluski:45831:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-Merblum:45831:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-J Smith:45831:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-Doub:45831:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17

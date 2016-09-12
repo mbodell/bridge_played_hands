@@ -1,8 +1,0 @@
-Song:45848:2016 Collegiate Champs 3-4 Playoff,Segment 1 of 4,I,1,12,U Chicago,0,Northwestern,0
-Kim:45848:2016 Collegiate Champs 3-4 Playoff,Segment 1 of 4,I,1,12,U Chicago,0,Northwestern,0
-Okamoto:45848:2016 Collegiate Champs 3-4 Playoff,Segment 1 of 4,I,1,12,U Chicago,0,Northwestern,0
-Xiao:45848:2016 Collegiate Champs 3-4 Playoff,Segment 1 of 4,I,1,12,U Chicago,0,Northwestern,0
-Rockoff:45848:2016 Collegiate Champs 3-4 Playoff,Segment 1 of 4,I,1,12,U Chicago,0,Northwestern,0
-Julian MB:45848:2016 Collegiate Champs 3-4 Playoff,Segment 1 of 4,I,1,12,U Chicago,0,Northwestern,0
-Lieberman:45848:2016 Collegiate Champs 3-4 Playoff,Segment 1 of 4,I,1,12,U Chicago,0,Northwestern,0
-Mao:45848:2016 Collegiate Champs 3-4 Playoff,Segment 1 of 4,I,1,12,U Chicago,0,Northwestern,0

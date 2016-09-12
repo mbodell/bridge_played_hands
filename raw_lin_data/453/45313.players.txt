@@ -1,8 +1,0 @@
-South:45313:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
-West:45313:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
-North:45313:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
-East:45313:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
-LingPD:45313:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
-RanJN:45313:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
-ChengM:45313:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0
-Lixl:45313:the 27th China Friend City Senior Team Tournament,swiss R4,I,1,10,zhuzhou,0,changzhou,0

@@ -1,8 +1,0 @@
-Lall:45489:2016 Senior USBC SF,Segment 5 of 6,I,1,15,Hamman NPC,183,Gupta,92
-Schermer:45489:2016 Senior USBC SF,Segment 5 of 6,I,1,15,Hamman NPC,183,Gupta,92
-Milner:45489:2016 Senior USBC SF,Segment 5 of 6,I,1,15,Hamman NPC,183,Gupta,92
-Chambers:45489:2016 Senior USBC SF,Segment 5 of 6,I,1,15,Hamman NPC,183,Gupta,92
-Weichsel:45489:2016 Senior USBC SF,Segment 5 of 6,I,1,15,Hamman NPC,183,Gupta,92
-Zia:45489:2016 Senior USBC SF,Segment 5 of 6,I,1,15,Hamman NPC,183,Gupta,92
-Miller:45489:2016 Senior USBC SF,Segment 5 of 6,I,1,15,Hamman NPC,183,Gupta,92
-Meckstroth:45489:2016 Senior USBC SF,Segment 5 of 6,I,1,15,Hamman NPC,183,Gupta,92

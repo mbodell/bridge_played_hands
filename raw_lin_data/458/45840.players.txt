@@ -1,8 +1,0 @@
-Zhang:45840:2016 A Collegiate Championship SF,Segment 3 of 4,I,1,15,UC Berkeley,68,Northwestern,43
-Lieberman:45840:2016 A Collegiate Championship SF,Segment 3 of 4,I,1,15,UC Berkeley,68,Northwestern,43
-Wernis:45840:2016 A Collegiate Championship SF,Segment 3 of 4,I,1,15,UC Berkeley,68,Northwestern,43
-Rockoff:45840:2016 A Collegiate Championship SF,Segment 3 of 4,I,1,15,UC Berkeley,68,Northwestern,43
-Xiao:45840:2016 A Collegiate Championship SF,Segment 3 of 4,I,1,15,UC Berkeley,68,Northwestern,43
-KRosenberg:45840:2016 A Collegiate Championship SF,Segment 3 of 4,I,1,15,UC Berkeley,68,Northwestern,43
-Kim:45840:2016 A Collegiate Championship SF,Segment 3 of 4,I,1,15,UC Berkeley,68,Northwestern,43
-Thapa:45840:2016 A Collegiate Championship SF,Segment 3 of 4,I,1,15,UC Berkeley,68,Northwestern,43

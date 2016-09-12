@@ -1,8 +1,0 @@
-Chambers:45352:A 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Gupta,135,Lewis,141
-Doub:45352:A 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Gupta,135,Lewis,141
-Schermer:45352:A 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Gupta,135,Lewis,141
-Itabashi:45352:A 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Gupta,135,Lewis,141
-L. Lewis:45352:A 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Gupta,135,Lewis,141
-B. Miller:45352:A 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Gupta,135,Lewis,141
-P. Lewis:45352:A 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Gupta,135,Lewis,141
-P. Weichse:45352:A 2016 Senior USBC R16,Segment 6 of 6,I,16,30,Gupta,135,Lewis,141

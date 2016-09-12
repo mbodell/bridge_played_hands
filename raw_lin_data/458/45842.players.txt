@@ -1,8 +1,0 @@
-DRosenberg:45842:2016 GNT SF,Segment 4 of 4,I,16,36,D21 Martel,92,D20 Stoltz,72
-Roman:45842:2016 GNT SF,Segment 4 of 4,I,16,36,D21 Martel,92,D20 Stoltz,72
-Grainger:45842:2016 GNT SF,Segment 4 of 4,I,16,36,D21 Martel,92,D20 Stoltz,72
-Bertens:45842:2016 GNT SF,Segment 4 of 4,I,16,36,D21 Martel,92,D20 Stoltz,72
-Stoltz:45842:2016 GNT SF,Segment 4 of 4,I,16,36,D21 Martel,92,D20 Stoltz,72
-Woolsey:45842:2016 GNT SF,Segment 4 of 4,I,16,36,D21 Martel,92,D20 Stoltz,72
-McNay:45842:2016 GNT SF,Segment 4 of 4,I,16,36,D21 Martel,92,D20 Stoltz,72
-Martel:45842:2016 GNT SF,Segment 4 of 4,I,16,36,D21 Martel,92,D20 Stoltz,72

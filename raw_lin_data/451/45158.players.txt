@@ -1,8 +1,0 @@
-Carroll:45158:Irish Invitational Pairs,Round 1,P,1,32,Team 1,0,Team 2,0
-Fitzgibbon:45158:Irish Invitational Pairs,Round 1,P,1,32,Team 1,0,Team 2,0
-Hanlon:45158:Irish Invitational Pairs,Round 1,P,1,32,Team 1,0,Team 2,0
-Mesbur:45158:Irish Invitational Pairs,Round 1,P,1,32,Team 1,0,Team 2,0
-South:45158:Irish Invitational Pairs,Round 1,P,1,32,Team 1,0,Team 2,0
-West:45158:Irish Invitational Pairs,Round 1,P,1,32,Team 1,0,Team 2,0
-North:45158:Irish Invitational Pairs,Round 1,P,1,32,Team 1,0,Team 2,0
-East:45158:Irish Invitational Pairs,Round 1,P,1,32,Team 1,0,Team 2,0

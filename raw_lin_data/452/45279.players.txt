@@ -1,8 +1,0 @@
-Gupta:45279:2016B Senior USBC R16,Segment 1 of 6,I,1,15,Gupta,0,Lewis,0
-Itabashi:45279:2016B Senior USBC R16,Segment 1 of 6,I,1,15,Gupta,0,Lewis,0
-Miller:45279:2016B Senior USBC R16,Segment 1 of 6,I,1,15,Gupta,0,Lewis,0
-L. Lewis:45279:2016B Senior USBC R16,Segment 1 of 6,I,1,15,Gupta,0,Lewis,0
-Doub:45279:2016B Senior USBC R16,Segment 1 of 6,I,1,15,Gupta,0,Lewis,0
-Schermer:45279:2016B Senior USBC R16,Segment 1 of 6,I,1,15,Gupta,0,Lewis,0
-Merblum:45279:2016B Senior USBC R16,Segment 1 of 6,I,1,15,Gupta,0,Lewis,0
-Chambers:45279:2016B Senior USBC R16,Segment 1 of 6,I,1,15,Gupta,0,Lewis,0

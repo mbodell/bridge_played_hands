@@ -1,8 +1,0 @@
-Ercan:45115:Turkish Club Teams Championship Aegean Playoffs,1_15,I,1,14,BUCA SPOR,0,BOZDOGAN BLD,0
-Mamus:45115:Turkish Club Teams Championship Aegean Playoffs,1_15,I,1,14,BUCA SPOR,0,BOZDOGAN BLD,0
-Ozoglu:45115:Turkish Club Teams Championship Aegean Playoffs,1_15,I,1,14,BUCA SPOR,0,BOZDOGAN BLD,0
-Seckin:45115:Turkish Club Teams Championship Aegean Playoffs,1_15,I,1,14,BUCA SPOR,0,BOZDOGAN BLD,0
-Posaci:45115:Turkish Club Teams Championship Aegean Playoffs,1_15,I,1,14,BUCA SPOR,0,BOZDOGAN BLD,0
-Eregar:45115:Turkish Club Teams Championship Aegean Playoffs,1_15,I,1,14,BUCA SPOR,0,BOZDOGAN BLD,0
-Gedik:45115:Turkish Club Teams Championship Aegean Playoffs,1_15,I,1,14,BUCA SPOR,0,BOZDOGAN BLD,0
-Uygun:45115:Turkish Club Teams Championship Aegean Playoffs,1_15,I,1,14,BUCA SPOR,0,BOZDOGAN BLD,0

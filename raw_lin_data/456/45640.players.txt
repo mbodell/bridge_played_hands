@@ -1,8 +1,0 @@
-M.Þen:45640:Turkish Open Team Trials,RR7,P,1,12,Team 1,0,Team 2,0
-N.Aydoðdu:45640:Turkish Open Team Trials,RR7,P,1,12,Team 1,0,Team 2,0
-B.Baþaran:45640:Turkish Open Team Trials,RR7,P,1,12,Team 1,0,Team 2,0
-F.Aydoðdu:45640:Turkish Open Team Trials,RR7,P,1,12,Team 1,0,Team 2,0
-South:45640:Turkish Open Team Trials,RR7,P,1,12,Team 1,0,Team 2,0
-West:45640:Turkish Open Team Trials,RR7,P,1,12,Team 1,0,Team 2,0
-North:45640:Turkish Open Team Trials,RR7,P,1,12,Team 1,0,Team 2,0
-East:45640:Turkish Open Team Trials,RR7,P,1,12,Team 1,0,Team 2,0

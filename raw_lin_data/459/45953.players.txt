@@ -1,8 +1,0 @@
-South:45953:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
-West:45953:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
-North:45953:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
-East:45953:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
-Sadek:45953:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
-De Wijs:45953:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
-Elahmady:45953:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103
-Muller:45953:C 2016 Spingold QF ,Segment 4 of 4,I,16,30,Sonsini,53,Strul,103

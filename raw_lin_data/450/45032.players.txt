@@ -1,8 +1,0 @@
-Lewis:45032:B 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Wittes,113,Palmer,186
-Deas:45032:B 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Wittes,113,Palmer,186
-Disa:45032:B 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Wittes,113,Palmer,186
-Chambers:45032:B 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Wittes,113,Palmer,186
-Molson:45032:B 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Wittes,113,Palmer,186
-Wittes:45032:B 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Wittes,113,Palmer,186
-Sokolow:45032:B 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Wittes,113,Palmer,186
-Kamenova:45032:B 2016 Women's USBC SF,Segment 7 of 8,I,1,15,Wittes,113,Palmer,186

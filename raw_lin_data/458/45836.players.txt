@@ -1,8 +1,0 @@
-South:45836:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-West:45836:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-Martel:45836:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-Liu:45836:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-South:45836:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-West:45836:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-North:45836:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17
-East:45836:2016 B GNT SF,Segment 2 of 4,I,16,36,D25 Merblum,53,D1 Smith,17

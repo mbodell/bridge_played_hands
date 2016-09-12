@@ -1,8 +1,0 @@
-Chemla:45872:Mondial de Deauville,Champions R4_9 (2),P,1,18,Team 1,0,Team 2,0
-Bakkeren F:45872:Mondial de Deauville,Champions R4_9 (2),P,1,18,Team 1,0,Team 2,0
-Levy:45872:Mondial de Deauville,Champions R4_9 (2),P,1,18,Team 1,0,Team 2,0
-Bakkeren T:45872:Mondial de Deauville,Champions R4_9 (2),P,1,18,Team 1,0,Team 2,0
-South:45872:Mondial de Deauville,Champions R4_9 (2),P,1,18,Team 1,0,Team 2,0
-West:45872:Mondial de Deauville,Champions R4_9 (2),P,1,18,Team 1,0,Team 2,0
-North:45872:Mondial de Deauville,Champions R4_9 (2),P,1,18,Team 1,0,Team 2,0
-East:45872:Mondial de Deauville,Champions R4_9 (2),P,1,18,Team 1,0,Team 2,0

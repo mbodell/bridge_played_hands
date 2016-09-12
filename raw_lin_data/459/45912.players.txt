@@ -1,8 +1,0 @@
-Levin:45912:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,0,Street,0
-Quantin:45912:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,0,Street,0
-Weinstein:45912:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,0,Street,0
-Lorenzini:45912:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,0,Street,0
-Street:45912:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,0,Street,0
-Katz:45912:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,0,Street,0
-L'Ecuyer:45912:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,0,Street,0
-Nickell:45912:A 2016 Spingold R16,Segment 2 of 4,I,1,15,Nickell,0,Street,0

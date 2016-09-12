@@ -1,8 +1,0 @@
-Klukowski:45163:Polish Premier League - FINAL,SEGMENT 2_8,I,13,24,AZS Wratislavia,24,LATTERIA T-S Rzepin,21
-Nowak:45163:Polish Premier League - FINAL,SEGMENT 2_8,I,13,24,AZS Wratislavia,24,LATTERIA T-S Rzepin,21
-Gawrys:45163:Polish Premier League - FINAL,SEGMENT 2_8,I,13,24,AZS Wratislavia,24,LATTERIA T-S Rzepin,21
-Tuszynski:45163:Polish Premier League - FINAL,SEGMENT 2_8,I,13,24,AZS Wratislavia,24,LATTERIA T-S Rzepin,21
-Urbanski:45163:Polish Premier League - FINAL,SEGMENT 2_8,I,13,24,AZS Wratislavia,24,LATTERIA T-S Rzepin,21
-Romanski:45163:Polish Premier League - FINAL,SEGMENT 2_8,I,13,24,AZS Wratislavia,24,LATTERIA T-S Rzepin,21
-Miechowicz:45163:Polish Premier League - FINAL,SEGMENT 2_8,I,13,24,AZS Wratislavia,24,LATTERIA T-S Rzepin,21
-Golebiowsk:45163:Polish Premier League - FINAL,SEGMENT 2_8,I,13,24,AZS Wratislavia,24,LATTERIA T-S Rzepin,21

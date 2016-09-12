@@ -1,8 +1,0 @@
-Levin:45918:A 2016 Spingold R16,Segment 3 of 4,I,1,15,Nickell,57,Street,56
-Quantin:45918:A 2016 Spingold R16,Segment 3 of 4,I,1,15,Nickell,57,Street,56
-Weinstein:45918:A 2016 Spingold R16,Segment 3 of 4,I,1,15,Nickell,57,Street,56
-Lorenzini:45918:A 2016 Spingold R16,Segment 3 of 4,I,1,15,Nickell,57,Street,56
-Volcker:45918:A 2016 Spingold R16,Segment 3 of 4,I,1,15,Nickell,57,Street,56
-Meckstroth:45918:A 2016 Spingold R16,Segment 3 of 4,I,1,15,Nickell,57,Street,56
-Bessis:45918:A 2016 Spingold R16,Segment 3 of 4,I,1,15,Nickell,57,Street,56
-Rodwell:45918:A 2016 Spingold R16,Segment 3 of 4,I,1,15,Nickell,57,Street,56

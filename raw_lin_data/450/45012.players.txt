@@ -1,8 +1,0 @@
-Wittes:45012:2016 Women's USBC SF,Segment 3 of 8,I,1,15,Wittes,51,Palmer,50
-Deas:45012:2016 Women's USBC SF,Segment 3 of 8,I,1,15,Wittes,51,Palmer,50
-Kamenova:45012:2016 Women's USBC SF,Segment 3 of 8,I,1,15,Wittes,51,Palmer,50
-Chambers:45012:2016 Women's USBC SF,Segment 3 of 8,I,1,15,Wittes,51,Palmer,50
-Molson:45012:2016 Women's USBC SF,Segment 3 of 8,I,1,15,Wittes,51,Palmer,50
-Lewis:45012:2016 Women's USBC SF,Segment 3 of 8,I,1,15,Wittes,51,Palmer,50
-Sokolow:45012:2016 Women's USBC SF,Segment 3 of 8,I,1,15,Wittes,51,Palmer,50
-Disa:45012:2016 Women's USBC SF,Segment 3 of 8,I,1,15,Wittes,51,Palmer,50

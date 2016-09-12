@@ -1,8 +1,0 @@
-Helgemo:45978:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-Brenner:45978:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-Helness:45978:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-Bocchi:45978:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-Duboin:45978:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-Martens:45978:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-Bilde:45978:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14
-Zimmermann:45978:A 2016 Spingold SF,Segment 2 of 4,I,16,30,Zimmermann,32,Lavazza,14

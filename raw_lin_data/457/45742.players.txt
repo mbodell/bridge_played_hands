@@ -1,8 +1,0 @@
-test:45742:Test,Test,P,1,30,Team 1,0,Team 2,0
-Test:45742:Test,Test,P,1,30,Team 1,0,Team 2,0
-Test:45742:Test,Test,P,1,30,Team 1,0,Team 2,0
-Test:45742:Test,Test,P,1,30,Team 1,0,Team 2,0
-South:45742:Test,Test,P,1,30,Team 1,0,Team 2,0
-West:45742:Test,Test,P,1,30,Team 1,0,Team 2,0
-North:45742:Test,Test,P,1,30,Team 1,0,Team 2,0
-East:45742:Test,Test,P,1,30,Team 1,0,Team 2,0

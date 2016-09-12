@@ -1,8 +1,0 @@
-LinCT:45439:the 27th China Friend City Senior Team Tournament,Final R1,I,1,10,GuangXi,0,HuNan,0
-ZhengKM:45439:the 27th China Friend City Senior Team Tournament,Final R1,I,1,10,GuangXi,0,HuNan,0
-XuNK:45439:the 27th China Friend City Senior Team Tournament,Final R1,I,1,10,GuangXi,0,HuNan,0
-ZhaoQiang:45439:the 27th China Friend City Senior Team Tournament,Final R1,I,1,10,GuangXi,0,HuNan,0
-HuangJY:45439:the 27th China Friend City Senior Team Tournament,Final R1,I,1,10,GuangXi,0,HuNan,0
-ShenJL:45439:the 27th China Friend City Senior Team Tournament,Final R1,I,1,10,GuangXi,0,HuNan,0
-ShenMK:45439:the 27th China Friend City Senior Team Tournament,Final R1,I,1,10,GuangXi,0,HuNan,0
-YuYH:45439:the 27th China Friend City Senior Team Tournament,Final R1,I,1,10,GuangXi,0,HuNan,0

@@ -1,8 +1,0 @@
-Sementa:45899:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
-Poon:45899:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
-Cem:45899:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
-Loo:45899:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
-Manno:45899:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
-Versace:45899:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
-DiFranco:45899:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99
-Lauria:45899:A 2016 Spingold R32,Segment 4 of 4,I,16,30,Cayne,102,Di Franco,99

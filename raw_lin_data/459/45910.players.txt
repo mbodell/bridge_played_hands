@@ -1,8 +1,0 @@
-Welland:45910:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Wolpert:45910:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Auken:45910:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Fireman:45910:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Demuy:45910:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Moss:45910:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Kranyak:45910:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Grue:45910:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0

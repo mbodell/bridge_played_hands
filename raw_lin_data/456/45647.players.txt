@@ -1,8 +1,0 @@
-E.Kaya:45647:Turkish Open Team Trials,RR9,P,1,12,Team 1,0,Team 2,0
-B.Ünver:45647:Turkish Open Team Trials,RR9,P,1,12,Team 1,0,Team 2,0
-E.Köksoy:45647:Turkish Open Team Trials,RR9,P,1,12,Team 1,0,Team 2,0
-M.Kaya:45647:Turkish Open Team Trials,RR9,P,1,12,Team 1,0,Team 2,0
-South:45647:Turkish Open Team Trials,RR9,P,1,12,Team 1,0,Team 2,0
-West:45647:Turkish Open Team Trials,RR9,P,1,12,Team 1,0,Team 2,0
-North:45647:Turkish Open Team Trials,RR9,P,1,12,Team 1,0,Team 2,0
-East:45647:Turkish Open Team Trials,RR9,P,1,12,Team 1,0,Team 2,0

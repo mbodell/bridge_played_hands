@@ -1,8 +1,0 @@
-Bates:45348:C 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Mahaffey,120,Pollack,109
-Feldman:45348:C 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Mahaffey,120,Pollack,109
-Granovette:45348:C 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Mahaffey,120,Pollack,109
-Friedland:45348:C 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Mahaffey,120,Pollack,109
-Robbins:45348:C 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Mahaffey,120,Pollack,109
-Lev:45348:C 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Mahaffey,120,Pollack,109
-Beatty:45348:C 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Mahaffey,120,Pollack,109
-Mahaffey:45348:C 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Mahaffey,120,Pollack,109

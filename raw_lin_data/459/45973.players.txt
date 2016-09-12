@@ -1,8 +1,0 @@
-Hellemann:45973:Norwegian Mixed Pairs Championship,3_3,P,61,90,Team 1,0,Team 2,0
-Øigarden:45973:Norwegian Mixed Pairs Championship,3_3,P,61,90,Team 1,0,Team 2,0
-F Helness:45973:Norwegian Mixed Pairs Championship,3_3,P,61,90,Team 1,0,Team 2,0
-H Bogen:45973:Norwegian Mixed Pairs Championship,3_3,P,61,90,Team 1,0,Team 2,0
-South:45973:Norwegian Mixed Pairs Championship,3_3,P,61,90,Team 1,0,Team 2,0
-West:45973:Norwegian Mixed Pairs Championship,3_3,P,61,90,Team 1,0,Team 2,0
-North:45973:Norwegian Mixed Pairs Championship,3_3,P,61,90,Team 1,0,Team 2,0
-East:45973:Norwegian Mixed Pairs Championship,3_3,P,61,90,Team 1,0,Team 2,0

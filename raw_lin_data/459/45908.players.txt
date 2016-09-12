@@ -1,8 +1,0 @@
-Demuy:45908:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Moss:45908:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Kranyak:45908:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-Grue:45908:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-South:45908:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-West:45908:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-North:45908:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0
-East:45908:B 2016 Spingold R16,Segment 1 of 4,I,1,15,Fleisher,0,Fireman,0

@@ -1,8 +1,0 @@
-Madala:45948:D 2016 Spingold QF,Segment 3 of 4,I,1,15,Lavazza,94,Gupta,38
-Nystrom:45948:D 2016 Spingold QF,Segment 3 of 4,I,1,15,Lavazza,94,Gupta,38
-Bianchedi:45948:D 2016 Spingold QF,Segment 3 of 4,I,1,15,Lavazza,94,Gupta,38
-Upmark:45948:D 2016 Spingold QF,Segment 3 of 4,I,1,15,Lavazza,94,Gupta,38
-Zia:45948:D 2016 Spingold QF,Segment 3 of 4,I,1,15,Lavazza,94,Gupta,38
-Duboin:45948:D 2016 Spingold QF,Segment 3 of 4,I,1,15,Lavazza,94,Gupta,38
-Delmonte:45948:D 2016 Spingold QF,Segment 3 of 4,I,1,15,Lavazza,94,Gupta,38
-Bilde:45948:D 2016 Spingold QF,Segment 3 of 4,I,1,15,Lavazza,94,Gupta,38

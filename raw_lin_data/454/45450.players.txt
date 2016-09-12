@@ -1,8 +1,0 @@
-Wolfson:45450:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-Casen:45450:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-Silverman:45450:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-Krekorian:45450:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-South:45450:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-West:45450:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-North:45450:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182
-East:45450:D 2016 Senior USBC QF,Segment 6 of 6,I,16,30,Robinson,128,Gupta,182

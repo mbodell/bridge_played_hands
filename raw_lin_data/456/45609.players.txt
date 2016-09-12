@@ -1,8 +1,0 @@
-Anderson:45609:BBO3 2016 ANC - Seniors Teams,Final 1_4,I,1,14,SA,4,ACT,0
-Hunt:45609:BBO3 2016 ANC - Seniors Teams,Final 1_4,I,1,14,SA,4,ACT,0
-Smolanko:45609:BBO3 2016 ANC - Seniors Teams,Final 1_4,I,1,14,SA,4,ACT,0
-Quail:45609:BBO3 2016 ANC - Seniors Teams,Final 1_4,I,1,14,SA,4,ACT,0
-De Livera:45609:BBO3 2016 ANC - Seniors Teams,Final 1_4,I,1,14,SA,4,ACT,0
-Zollo:45609:BBO3 2016 ANC - Seniors Teams,Final 1_4,I,1,14,SA,4,ACT,0
-Havas:45609:BBO3 2016 ANC - Seniors Teams,Final 1_4,I,1,14,SA,4,ACT,0
-Januszke:45609:BBO3 2016 ANC - Seniors Teams,Final 1_4,I,1,14,SA,4,ACT,0

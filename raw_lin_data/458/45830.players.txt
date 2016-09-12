@@ -1,8 +1,0 @@
-Song:45830:B 2016 Collegiate Championship SF,Segment 2 of 4,I,13,33,U Chicago,11,U Illinois UC,65
-Liu:45830:B 2016 Collegiate Championship SF,Segment 2 of 4,I,13,33,U Chicago,11,U Illinois UC,65
-Okamoto:45830:B 2016 Collegiate Championship SF,Segment 2 of 4,I,13,33,U Chicago,11,U Illinois UC,65
-Fan:45830:B 2016 Collegiate Championship SF,Segment 2 of 4,I,13,33,U Chicago,11,U Illinois UC,65
-South:45830:B 2016 Collegiate Championship SF,Segment 2 of 4,I,13,33,U Chicago,11,U Illinois UC,65
-West:45830:B 2016 Collegiate Championship SF,Segment 2 of 4,I,13,33,U Chicago,11,U Illinois UC,65
-North:45830:B 2016 Collegiate Championship SF,Segment 2 of 4,I,13,33,U Chicago,11,U Illinois UC,65
-East:45830:B 2016 Collegiate Championship SF,Segment 2 of 4,I,13,33,U Chicago,11,U Illinois UC,65

@@ -1,8 +1,0 @@
-wangruobin:45365:Untitled match,Untitled segment,I,1,10,Team 1,0,Team 2,0
-yancl:45365:Untitled match,Untitled segment,I,1,10,Team 1,0,Team 2,0
-wangruohao:45365:Untitled match,Untitled segment,I,1,10,Team 1,0,Team 2,0
-yangjinyin:45365:Untitled match,Untitled segment,I,1,10,Team 1,0,Team 2,0
-ZhangFL:45365:Untitled match,Untitled segment,I,1,10,Team 1,0,Team 2,0
-JiangJW:45365:Untitled match,Untitled segment,I,1,10,Team 1,0,Team 2,0
-LiXL:45365:Untitled match,Untitled segment,I,1,10,Team 1,0,Team 2,0
-QinLC:45365:Untitled match,Untitled segment,I,1,10,Team 1,0,Team 2,0

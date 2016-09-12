@@ -1,8 +1,0 @@
-Szirmay Ka:45766:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 2_5,P,11,20,Team 1,0,Team 2,0
-Schouten Y:45766:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 2_5,P,11,20,Team 1,0,Team 2,0
-Konkoly C:45766:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 2_5,P,11,20,Team 1,0,Team 2,0
-Gotink K:45766:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 2_5,P,11,20,Team 1,0,Team 2,0
-South:45766:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 2_5,P,11,20,Team 1,0,Team 2,0
-West:45766:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 2_5,P,11,20,Team 1,0,Team 2,0
-North:45766:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 2_5,P,11,20,Team 1,0,Team 2,0
-East:45766:T11 - Liepaja - 13th EYBPC U26 Pairs,Final 2_5,P,11,20,Team 1,0,Team 2,0

@@ -1,8 +1,0 @@
-Meckstroth:45927:A 2016 Spingold R16,Segment 4 of 4,I,16,30,Nickell,90,Street,91
-Volcker:45927:A 2016 Spingold R16,Segment 4 of 4,I,16,30,Nickell,90,Street,91
-Rodwell:45927:A 2016 Spingold R16,Segment 4 of 4,I,16,30,Nickell,90,Street,91
-Bessis:45927:A 2016 Spingold R16,Segment 4 of 4,I,16,30,Nickell,90,Street,91
-Quantin:45927:A 2016 Spingold R16,Segment 4 of 4,I,16,30,Nickell,90,Street,91
-Levin:45927:A 2016 Spingold R16,Segment 4 of 4,I,16,30,Nickell,90,Street,91
-Lorenzini:45927:A 2016 Spingold R16,Segment 4 of 4,I,16,30,Nickell,90,Street,91
-Weinstein:45927:A 2016 Spingold R16,Segment 4 of 4,I,16,30,Nickell,90,Street,91

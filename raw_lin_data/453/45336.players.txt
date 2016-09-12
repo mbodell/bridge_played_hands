@@ -1,8 +1,0 @@
-South:45336:B 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Simson,131,Kasle,103
-West:45336:B 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Simson,131,Kasle,103
-North:45336:B 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Simson,131,Kasle,103
-East:45336:B 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Simson,131,Kasle,103
-South:45336:B 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Simson,131,Kasle,103
-West:45336:B 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Simson,131,Kasle,103
-North:45336:B 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Simson,131,Kasle,103
-East:45336:B 2016 Senior USBC R16,Segment 5 of 6,I,1,15,Simson,131,Kasle,103

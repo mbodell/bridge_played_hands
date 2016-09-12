@@ -1,8 +1,0 @@
-Ekeblad:45355:2016 Senior USBC R16,Playoff 1,I,1,6,Mahaffey,167,Pollack,167
-Robbins:45355:2016 Senior USBC R16,Playoff 1,I,1,6,Mahaffey,167,Pollack,167
-Lev:45355:2016 Senior USBC R16,Playoff 1,I,1,6,Mahaffey,167,Pollack,167
-Beatty:45355:2016 Senior USBC R16,Playoff 1,I,1,6,Mahaffey,167,Pollack,167
-Cohen:45355:2016 Senior USBC R16,Playoff 1,I,1,6,Mahaffey,167,Pollack,167
-Bates:45355:2016 Senior USBC R16,Playoff 1,I,1,6,Mahaffey,167,Pollack,167
-Pollack:45355:2016 Senior USBC R16,Playoff 1,I,1,6,Mahaffey,167,Pollack,167
-Granovette:45355:2016 Senior USBC R16,Playoff 1,I,1,6,Mahaffey,167,Pollack,167
