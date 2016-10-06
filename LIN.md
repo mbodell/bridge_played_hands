@@ -1,6 +1,6 @@
 ## LIN files
 
-Bridge Base Online (BBO) has one of the largest collections of played boards. They store their files in LIN format. BBO (Uday/CEO) have given permission for use of data in this project. The data is essentially in the public domain anyway but it was kind of him to give explicit permissino.
+Bridge Base Online (BBO) has one of the largest collections of played boards. They store their files in LIN format. BBO (Uday/CEO) have given permission for use of data in this project. The data is essentially in the public domain anyway but it was kind of him to give explicit permission.
 
 The directory raw_lin_data contains the raw LIN files from BBO. These will be update periodically as new LIN files become available. Files in the raw_lin_data directory should not be edited. The lin_data directory contains modified versions of the raw data file. These changes are necessary to be able to identify individual players.
 
@@ -58,4 +58,4 @@ This is going to take some effort.
 There are more details on the LIN file format on the BBO web site.
 
 Last updated:
-Mon Aug 31 14:55:21 EDT 2015
+Thu Oct 06 05:32:21 EDT 2016
